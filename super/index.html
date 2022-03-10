@@ -1,0 +1,33 @@
+<!doctype html><html lang=en><head><title>:: DimitrisV SV1SJP</title><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta name=description content="On this challege, we have to unlock the vault to win the challenge.
+// SPDX-License-Identifier: MIT pragma solidity ^0.8.11; contract Vault { bool public locked; bytes32 private password; constructor(bytes32 _password) public { locked = true; password = _password; } function unlock(bytes32 _password) public { if (password == _password) { locked = false; } } } First of all, we can see that we have 2 state variables.One of them is the locked variable which is public."><meta name=keywords content="linux"><meta name=robots content="noodp"><link rel=canonical href=https://sv1sjp.github.io/super/><link rel=stylesheet href=https://sv1sjp.github.io/assets/style.css><link rel=stylesheet href=https://sv1sjp.github.io/assets/pink.css><link rel=apple-touch-icon href=https://sv1sjp.github.io/img/apple-touch-icon-192x192.png><link rel="shortcut icon" href=https://sv1sjp.github.io/img/favicon/pink.png><meta name=twitter:card content="summary"><meta name=twitter:site content><meta name=twitter:creator content><meta property="og:locale" content="en"><meta property="og:type" content="article"><meta property="og:title" content><meta property="og:description" content="On this challege, we have to unlock the vault to win the challenge.
+// SPDX-License-Identifier: MIT pragma solidity ^0.8.11; contract Vault { bool public locked; bytes32 private password; constructor(bytes32 _password) public { locked = true; password = _password; } function unlock(bytes32 _password) public { if (password == _password) { locked = false; } } } First of all, we can see that we have 2 state variables.One of them is the locked variable which is public."><meta property="og:url" content="https://sv1sjp.github.io/super/"><meta property="og:site_name" content="DimitrisV SV1SJP"><meta property="og:image" content="https://sv1sjp.github.io/img/favicon/pink.png"><meta property="og:image:width" content="2048"><meta property="og:image:height" content="1024"></head><body class=pink><div class="container center headings--one-size"><header class=header><div class=header__inner><div class=header__logo><a href=/><div class=logo>DimitrisV SV1SJP</div></a></div><div class=menu-trigger>menu</div></div><nav class=menu><ul class="menu__inner menu__inner--desktop"><li><a href=/about.html>About</a></li><li><a href=/testaki>exampleSite</a></li><li><a href=/examplesite2>exampleSite2</a></li><li><a href=/panellinies_aepp/index.html>Panellinies_AEPP</a></li></ul><ul class="menu__inner menu__inner--mobile"><li><a href=/about.html>About</a></li><li><a href=/testaki>exampleSite</a></li><li><a href=/examplesite2>exampleSite2</a></li><li><a href=/panellinies_aepp/index.html>Panellinies_AEPP</a></li></ul></nav></header><div class=content><div class=post><h1 class=post-title><a href=https://sv1sjp.github.io/super/></a></h1><div class=post-meta></div><div class=post-content><div><p>On this challege, we have to unlock the vault to win the challenge.</p><pre tabindex=0><code>// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.11;
+
+contract Vault {
+  bool public locked;
+  bytes32 private password;
+
+  constructor(bytes32 _password) public {
+    locked = true;
+    password = _password;
+  }
+
+  function unlock(bytes32 _password) public {
+    if (password == _password) {
+      locked = false;
+    }
+  }
+}
+</code></pre><p>First of all, we can see that we have 2 state variables.One of them is the locked variable which is public. That means that we can very easily see what it is inside the variable by typing &ldquo;await contract.locked()&rdquo;" . Also, we have the private variable password. Using the console, we cannot just see what it is inside just easily. Therefore, we have 2 options to try in order to solve the problem.</p><ol><li>By brute forcing the password, untill we find the right one and then unlock the vault. It&rsquo;s possible to happen, but there is a much easier way to achieve this.</li><li>Somehow, to dump the password from the storage of the contract.</li></ol><p>As we have already mentioned earlier, Ethereum is a public Blockchain. That means that everyone can see what exists inside of it. We know that password variable is uint private. In Ethereum from the Solidity Docs, we know that a private type access mean that a variable can be called only from the same smart-contract, not externally by using an another smart-contact or by calling contract.password() from console. As Ethereum is a public ledger, we can just query the smart-contract from it&rsquo;s storage.
+Web3.js can help us achieving this, by typing in console:</p><pre tabindex=0><code>var pwd // to create a variable 
+web3.eth.getStorageAt(contract.address, 1,  function(err, result){pwd = result})
+</code></pre><p>This command will return :
+0x412076657279207374726f6e67207365637265742070617373776f7264203a29 .
+That is the password in hexademical mode. We can very easily covert this hexademical in ascii from our consle by typing:</p><pre tabindex=0><code>web3.utils.toAscii(pwd)
+</code></pre><p>And this will return us:
+<code>A very strong secret password :)</code></p><p>As we have the hexademical version of the password, we can simply create a transaction in the function unlock and the hexademical value as an input by typing:</p><pre tabindex=0><code>contract.unlock(&#34;0x412076657279207374726f6e67207365637265742070617373776f7264203a29&#34;)
+</code></pre><p>Now if we check the boolean variable locked by typing <code>contract.locked()</code> we can see that it is unlocked. We powned it.
+To sum up, we should never insert data unecencrypted in Blockchain networks as, especially in public Blockchains, everyone can see what it is inside.</p></div></div></div></div><footer class=footer><div class=footer__inner><div class="copyright copyright--user"><span>Dimitris LinuxOS 2011-2022</span>
+<span>:: Theme made by <a href=https://twitter.com/panr>panr</a></span></div></div></footer><script src=https://sv1sjp.github.io/assets/main.js></script>
+<script src=https://sv1sjp.github.io/assets/prism.js></script>
+<script src=https://sv1sjp.github.io/assets/languageSelector.js></script></div></body></html>
