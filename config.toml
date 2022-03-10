@@ -1,4 +1,4 @@
-baseurl = "https://sv1sjp.github.io"
+baseurl = "/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 6
