@@ -92,9 +92,9 @@ paginate = 6
         url = "/testaki"
         
         [[languages.en.menu.main]]
-        identifier = "exampleSite2"
-        name = "exampleSite2"
-        url = "/exampleSite2"
+        identifier = "Projects"
+        name = "Projects"
+        url = "/Projects"
         
         [[languages.en.menu.main]]
         identifier = "Panellinies_AEPP"
