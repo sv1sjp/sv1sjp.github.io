@@ -33,7 +33,7 @@ paginate = 6
   showLastUpdated = false
 
   # set a custom favicon (default is a `themeColor` square)
-  # favicon = "favicon.ico"
+  favicon = "favicon.ico"
 
   # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
   # updatedDatePrefix = "Updated"
@@ -68,13 +68,13 @@ paginate = 6
     owner = "DimitrisV"
     keywords = "linux"
     copyright = "Dimitris LinuxOS 2011-2022"
-    menuMore = "Show more"
-    readMore = "Read more"
+    menuMore = "Show more usefull stuff"
+    readMore = "Read more stuff"
     readOtherPosts = "Read other posts"
     newerPosts = "Newer posts"
     olderPosts = "Older posts"
     missingContentMessage = "No idea at all"
-    missingBackButtonLabel = "Back to home page"
+    missingBackButtonLabel = "Try to find the Penguin somewhere else."
 
     [languages.en.params.logo]
       logoText = "DimitrisV SV1SJP"
@@ -88,8 +88,9 @@ paginate = 6
       [[languages.en.menu.main]]
         identifier = "exampleSite"
         
-        name = "exampleSite"
-        url = "/testaki"
+        name = "exampleSite2"
+        url = "/exampleSite2"
+        
         
         [[languages.en.menu.main]]
         identifier = "Projects"
