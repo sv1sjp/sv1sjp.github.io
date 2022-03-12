@@ -1,36 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on DimitrisV SV1SJP</title><link>/posts/</link><description>Recent content in Posts on DimitrisV SV1SJP</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Dimitris LinuxOS 2011-2022</copyright><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>/posts/super/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/posts/super/</guid><description>On this challege, we have to unlock the vault to win the challenge.
-// SPDX-License-Identifier: MIT pragma solidity ^0.8.11; contract Vault { bool public locked; bytes32 private password; constructor(bytes32 _password) public { locked = true; password = _password; } function unlock(bytes32 _password) public { if (password == _password) { locked = false; } } } First of all, we can see that we have 2 state variables.One of them is the locked variable which is public.</description><content>&lt;p>On this challege, we have to unlock the vault to win the challenge.&lt;/p>
-&lt;pre tabindex="0">&lt;code>// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.11;
-contract Vault {
-bool public locked;
-bytes32 private password;
-constructor(bytes32 _password) public {
-locked = true;
-password = _password;
-}
-function unlock(bytes32 _password) public {
-if (password == _password) {
-locked = false;
-}
-}
-}
-&lt;/code>&lt;/pre>&lt;p>First of all, we can see that we have 2 state variables.One of them is the locked variable which is public. That means that we can very easily see what it is inside the variable by typing &amp;ldquo;await contract.locked()&amp;rdquo;&amp;quot; . Also, we have the private variable password. Using the console, we cannot just see what it is inside just easily. Therefore, we have 2 options to try in order to solve the problem.&lt;/p>
-&lt;ol>
-&lt;li>By brute forcing the password, untill we find the right one and then unlock the vault. It&amp;rsquo;s possible to happen, but there is a much easier way to achieve this.&lt;/li>
-&lt;li>Somehow, to dump the password from the storage of the contract.&lt;/li>
-&lt;/ol>
-&lt;p>As we have already mentioned earlier, Ethereum is a public Blockchain. That means that everyone can see what exists inside of it. We know that password variable is uint private. In Ethereum from the Solidity Docs, we know that a private type access mean that a variable can be called only from the same smart-contract, not externally by using an another smart-contact or by calling contract.password() from console. As Ethereum is a public ledger, we can just query the smart-contract from it&amp;rsquo;s storage.
-Web3.js can help us achieving this, by typing in console:&lt;/p>
-&lt;pre tabindex="0">&lt;code>var pwd // to create a variable
-web3.eth.getStorageAt(contract.address, 1, function(err, result){pwd = result})
-&lt;/code>&lt;/pre>&lt;p>This command will return :
-0x412076657279207374726f6e67207365637265742070617373776f7264203a29 .
-That is the password in hexademical mode. We can very easily covert this hexademical in ascii from our consle by typing:&lt;/p>
-&lt;pre tabindex="0">&lt;code>web3.utils.toAscii(pwd)
-&lt;/code>&lt;/pre>&lt;p>And this will return us:
-&lt;code>A very strong secret password :)&lt;/code>&lt;/p>
-&lt;p>As we have the hexademical version of the password, we can simply create a transaction in the function unlock and the hexademical value as an input by typing:&lt;/p>
-&lt;pre tabindex="0">&lt;code>contract.unlock(&amp;#34;0x412076657279207374726f6e67207365637265742070617373776f7264203a29&amp;#34;)
-&lt;/code>&lt;/pre>&lt;p>Now if we check the boolean variable locked by typing &lt;code>contract.locked()&lt;/code> we can see that it is unlocked. We powned it.
-To sum up, we should never insert data unecencrypted in Blockchain networks as, especially in public Blockchains, everyone can see what it is inside.&lt;/p></content></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on DimitrisV SV1SJP</title><link>/posts/</link><description>Recent content in Posts on DimitrisV SV1SJP</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Dimitris LinuxOS 2011-2022</copyright><lastBuildDate>Fri, 11 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>./welcome.sh</title><link>/posts/hello/</link><pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate><guid>/posts/hello/</guid><description>Hey, My name is DimitrisV and this is my small website. On this website I will organise all the educational stuff I have created in both Greek and English. This is the very first release so expect bugs and glitches.</description><content>&lt;p>Hey,
+My name is DimitrisV and this is my small website. On this website I will organise all the educational stuff I have created in both Greek and English.
+This is the very first release so expect bugs and glitches.&lt;/p></content></item></channel></rss>
