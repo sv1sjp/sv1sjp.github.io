@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 theme = "terminal"
-paginate = 6
+paginate = 20
 
 [params]
   # dir name of your main content (default is `content/posts`).
@@ -12,7 +12,7 @@ paginate = 6
   themeColor = "pink"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 20
+  showMenuItems = 10
 
   # show selector to switch language
   showLanguageSelector = true
