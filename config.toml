@@ -33,7 +33,7 @@ paginate = 6
   showLastUpdated = false
 
   # set a custom favicon (default is a `themeColor` square)
-  favicon = "favicon.ico"
+ favicon = "favicon.ico"
 
   # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
   # updatedDatePrefix = "Updated"
@@ -85,11 +85,7 @@ paginate = 6
         identifier = "about"
         name = "About"
         url = "/about.html"
-      [[languages.en.menu.main]]
-        identifier = "exampleSite"
-        
-        name = "exampleSite2"
-        url = "/exampleSite2"
+     
         
         
         [[languages.en.menu.main]]
@@ -101,3 +97,10 @@ paginate = 6
         identifier = "Panellinies_AEPP"
         name = "Panellinies_AEPP"
         url = "/Panellinies_AEPP/index.html"
+        
+        
+        [[languages.en.menu.main]]
+        identifier = "Ubuntel"
+        
+        name = "Ubuntel"
+        url = "/Ubuntel"
