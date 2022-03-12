@@ -12,7 +12,7 @@ paginate = 6
   themeColor = "pink"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 5
+  showMenuItems = 20
 
   # show selector to switch language
   showLanguageSelector = true
@@ -92,6 +92,12 @@ paginate = 6
         identifier = "Projects"
         name = "Projects"
         url = "/Projects"
+        
+        [[languages.en.menu.main]]
+        identifier = "Blockchain WriteUps"
+        name = "Blockchain WriteUps"
+        url = "/Blockchain_WriteUps"
+        
         
         [[languages.en.menu.main]]
         identifier = "Panellinies_AEPP"

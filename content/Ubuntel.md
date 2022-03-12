@@ -1,3 +1,4 @@
+![https://www.youtube.com/linuxosblog](/img/ubuntel.jpg)
 Το Ubuntel είναι η ελληνική έκδοση του Ubuntu με MATE για desktop.Ξεκίνησε επίσημα τον Οκτώβρη
 του 2011 βασιζόμενο σε Ubuntu 11.10!Σκοπός της
 διανομής είναι να προσφέρει ό,τι μπορεί να χρειαστεί ένας χρήστης,από τον αρχάριο
@@ -29,4 +30,4 @@ bootable DVD ή USB flash !Χρησιμοποιόντας MATE,γίνεται π
 
 Download Link υπάρχει στο βίντεο με το Review του Ubuntel 5.0 στο κανάλι στο Youtube :
 
-![https://www.youtube.com/linuxosblog](/img/ubuntel.jpg)
+
