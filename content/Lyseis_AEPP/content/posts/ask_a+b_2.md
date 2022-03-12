@@ -2,8 +2,8 @@
 title = "Θέματα A+B Part2"
 date = "2022-03-11"
 author = "DimitrisV"
-cover = "hello.jpg"
-description = "Λύσεις των Θεμάτων A+B Part 1 για το [Panellinies_AEPP](https://www.youtube.com/watch?v=y57gXCbIpMA&list=PLZa7COjIxKWxh-699iV33AzR6LNPD26nt&index=1)"
+cover = "img/a+b_2.jpg"
+description = "Λύσεις των Θεμάτων A+B Part 2 για το [Panellinies_AEPP](https://www.youtube.com/watch?v=y57gXCbIpMA&list=PLZa7COjIxKWxh-699iV33AzR6LNPD26nt&index=1/)"
 +++
 
 # [Λύσεις Θεμάτων Α+Β Part 2 - για να δείτε τις λύσεις κάντε κλίκ εδώ: ](/PDFs/lyseis/panellinies_aepp_a+b_2_lyseis.pdf)
@@ -12,7 +12,7 @@ ___
 ## Υποστηρίξτε το Project για να συνεχίσουμε να παράγουμε εκπαιδευτικό υλικό.
 
 Προσοχή: Από τις 28 Δεκεμβρίου το Project Panellinies_AEPP απενεργοποιεί όλες τις διαφημίσεις πάνω στο εκπαιδευτικό υλικό.
- Τo Project πλέον λειτουργεί και υποστηρίζεται αποκλειστικά από τις χορηγίες σας σε Basic Attention Token (BAT) μέσω του Brave Browser [στο κανάλι στο Youtube](www.youtube.com/LinuxOSblog) καθώς και σε άλλα κρυπτονομίσματα στις παρακάτω διευθύνσεις:
+ Τo Project πλέον λειτουργεί και υποστηρίζεται αποκλειστικά από τις χορηγίες σας σε Basic Attention Token (BAT) μέσω του Brave Browser [στο κανάλι στο Youtube](https://www.youtube.com/LinuxOSblog/) καθώς και σε άλλα κρυπτονομίσματα στις παρακάτω διευθύνσεις:
  
 Bitcoin: bc1q6j959m3whh44ztr8k6p7545n5pzcsncple7qmy
 

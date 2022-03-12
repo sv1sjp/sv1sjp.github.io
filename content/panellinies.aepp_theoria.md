@@ -1,5 +1,5 @@
 Προσοχή: Από τις 28 Δεκεμβρίου το Project Panellinies_AEPP απενεργοποιεί όλες τις διαφημίσεις πάνω στο εκπαιδευτικό υλικό.
- Τo Project πλέον λειτουργεί και υποστηρίζεται αποκλειστικά από τις χορηγίες σας σε Basic Attention Token (BAT) μέσω του Brave Browser [στο κανάλι στο Youtube](www.youtube.com/LinuxOSblog) καθώς και σε άλλα κρυπτονομίσματα στις παρακάτω διευθύνσεις:
+ Τo Project πλέον λειτουργεί και υποστηρίζεται αποκλειστικά από τις χορηγίες σας σε Basic Attention Token (BAT) μέσω του Brave Browser [στο κανάλι στο Youtube](https://www.youtube.com/LinuxOSblog/) καθώς και σε άλλα κρυπτονομίσματα στις παρακάτω διευθύνσεις:
  
 Bitcoin: bc1q6j959m3whh44ztr8k6p7545n5pzcsncple7qmy
 Ethereum: 0x3f27F05Ca28a5B5F876A3A7d435E2E852756F873

@@ -2,7 +2,7 @@
 title = "Θέματα A+B Part1"
 date = "2022-03-10"
 author = "DimitrisV"
-cover = "hello.jpg"
+cover = "img/a+b_1.jpg"
 description = "Λύσεις των Θεμάτων A+B Part 1 για το [Panellinies_AEPP](https://www.youtube.com/watch?v=y57gXCbIpMA&list=PLZa7COjIxKWxh-699iV33AzR6LNPD26nt&index=1)"
 +++
 
