@@ -1995,7 +1995,7 @@ However, as we can understand now, there is an another vulnerability here. As mi
 &lt;/ul>
 &lt;ul>
 &lt;li>&lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzLcMxI9cRNSzOtdR0xvXB7">Smart Contract Security - Educational YouTube Series in Greek - Click Here&lt;/a>&lt;/li>
-&lt;/ul></content></item><item><title>Force - Ethernaut</title><link>/blockchain_writeups/vault/</link><pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate><guid>/blockchain_writeups/vault/</guid><description>On this challenge, we have to unlock the vault to win the challenge.
+&lt;/ul></content></item><item><title>Vault - Ethernaut</title><link>/blockchain_writeups/vault/</link><pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate><guid>/blockchain_writeups/vault/</guid><description>On this challenge, we have to unlock the vault to win the challenge.
 // SPDX-License-Identifier: MIT pragma solidity ^0.8.11; contract Vault { bool public locked; bytes32 private password; constructor(bytes32 _password) public { locked = true; password = _password; } function unlock(bytes32 _password) public { if (password == _password) { locked = false; } } } First of all, we can see that we have 2 state variables. One of them is the locked variable which is public.</description><content>&lt;p>On this challenge, we have to unlock the vault to win the challenge.&lt;/p>
 &lt;pre tabindex="0">&lt;code>// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.11;
