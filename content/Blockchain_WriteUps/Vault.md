@@ -1,5 +1,5 @@
 +++
-title = "Force - Ethernaut"
+title = "Vault - Ethernaut"
 date = "2022-01-08"
 author = "DimitrisV"
 +++
