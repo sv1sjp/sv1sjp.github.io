@@ -67,7 +67,7 @@ paginate = 20
     subtitle = "eLearning "
     owner = "DimitrisV"
     keywords = "linux"
-    copyright = "Dimitris LinuxOS 2011-2022"
+    copyright = "Dimitris LinuxOS - TuxHouse - 2011-2023"
     menuMore = "Show more usefull stuff"
     readMore = "Read more stuff"
     readOtherPosts = "Read other posts"
@@ -98,7 +98,11 @@ paginate = 20
         name = "Blockchain WriteUps"
         url = "/Blockchain_WriteUps"
         
-        
+        [[languages.en.menu.main]]
+        identifier = "Blockchain Camera"
+        name = "Blockchain Camera"
+        url = "/Blockchain_Camera"
+
         [[languages.en.menu.main]]
         identifier = "Panellinies_AEPP"
         name = "Panellinies_AEPP"
