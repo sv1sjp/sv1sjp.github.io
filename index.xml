@@ -2282,8 +2282,7 @@ The &amp;ldquo;withdraw&amp;rdquo; function can help us with that which can be e
 &lt;li>&lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzLcMxI9cRNSzOtdR0xvXB7">Smart Contract Security - Educational YouTube Series in Greek - Click Here&lt;/a>&lt;/li>
 &lt;/ul></content></item><item><title/><link>/blockchain_camera/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/blockchain_camera/</guid><description>Ethereum Blockchain Camera Turn your Raspberry Pi into an Ethereum-based Blockchain Camera! Powered by Solidity and Python3. Blockchain Camera provides an easy and safe way to capture and guarantee the existence of videos reducing the impact of modified videos as it can preserve the integrity and validity of videos using Blockchain Technology. Blockchain Camera sends to Ethereum Network the hash of each video and the time the video has been recorded in order to be able validate that a video is genuine and hasn&amp;rsquo;t been modified using a Blockchain Camera Validation Tool.</description><content>&lt;h2 id="ethereum-blockchain-camera">Ethereum Blockchain Camera&lt;/h2>
 &lt;h3 id="turn-your-raspberry-pi-into-an-ethereum-based-blockchain-camera-powered-by-solidity-and-python3">Turn your Raspberry Pi into an Ethereum-based Blockchain Camera! Powered by Solidity and Python3.&lt;/h3>
-&lt;!-- raw HTML omitted -->
-&lt;p>&lt;img src="https://github.com/sv1sjp/Blockchain_Camera/blob/main/icons/logo.png" alt="https://github.com/sv1sjp/Blockchain_Camera">&lt;/p>
+&lt;p>&lt;img src="/img/Blockchain_Camera_EN.jpg" alt="">&lt;/p>
 &lt;h3 id="blockchain-camera-provides-an-easy-and-safe-way-to-capture-and-guarantee-the-existence-of-videos-reducing-the-impact-of-modified-videos-as-it-can-preserve-the-integrity-and-validity-of-videos-using-blockchain-technology-blockchain-camera-sends-to-ethereum-network-the-hash-of-each-video-and-the-time-the-video-has-been-recorded-in-order-to-be-able-validate-that-a-video-is-genuine-and-hasnt-been-modified-using-a-blockchain-camera-validation-tool">Blockchain Camera provides an easy and safe way to capture and guarantee the existence of videos reducing the impact of modified videos as it can preserve the integrity and validity of videos using Blockchain Technology. Blockchain Camera sends to Ethereum Network the hash of each video and the time the video has been recorded in order to be able validate that a video is genuine and hasn&amp;rsquo;t been modified using a Blockchain Camera Validation Tool.&lt;/h3>
 &lt;p>Blockchain Camera works in any GNU/Linux Distribution that supports ffmpeg and Python3.&lt;/p>
 &lt;pre tabindex="0">&lt;code>Created by Dimitris Vagiakakos @sv1sjp
@@ -2322,10 +2321,11 @@ For more information about how it works and how you can create your own Blockcha
 &lt;p>Cardano: addr1qxewtm0y5yk2mgf93ct4ghguus2shu34fu786t62j3tv7296evenhmr0ltmx3hdyw4d6d8gj8qspry5pe3raaw4nu8as7jsr9l&lt;/p>
 &lt;p>Monero: 46ewn3rgXMSceuEUEng1bze1RzG61rEiFV3hJ6VKuzvHU62jPntydJRBcFinQ62Pad8AvdoX9YbQcY5HKX3Cr3UQPkhiQ4L&lt;/p>
 &lt;p>New implementation ideas are welcomed :) - Share the beaty of Open-Source.&lt;/p>
-&lt;!-- raw HTML omitted -->
+&lt;p>&lt;img src="/img/bc_poc.png" alt="">&lt;/p>
 &lt;h1 id="license">License:&lt;/h1>
 &lt;h3 id="blockchain-camera-cames-under-the-terms-of-the-gnu-general-public-license-version-3-or-any-later-version-without-warranty">Blockchain Camera cames under the terms of the GNU General Public License version 3 or any later version without warranty.&lt;/h3>
-&lt;hr>
+&lt;p>&lt;img src="/img/validation_tool_gui.png" alt="">&lt;/p>
+&lt;h2 id="imgeujpg">&lt;img src="/img/EU.jpg" alt="">&lt;/h2>
 &lt;p>If you want to learn more about Smart Contract Security, please check our paper and eCourses:&lt;/p>
 &lt;h2 id="smart-contract-security">Smart-Contract Security:&lt;/h2>
 &lt;ul>
