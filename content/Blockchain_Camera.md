@@ -1,4 +1,4 @@
-# Ethereum Blockchain Camera
+ Ethereum Blockchain Camera
 
 ### Turn your Raspberry Pi into an Ethereum-based Blockchain Camera! Powered by Solidity and Python3.
 
@@ -16,27 +16,28 @@ Created by Dimitris Vagiakakos @sv1sjp
 
 ### YouTube:
 
-Presentation of Blockchain Camera in English
+[Presentation of Blockchain Camera in English](https://youtu.be/1CvG0aa9PdM)
 
-Presentation of Blockchain Camera in Greek
+[Presentation of Blockchain Camera in Greek](https://youtu.be/7N7_W0pdbcs)
 
 ### LBRY:
 
-Presentation of Blockchain Camera in English
+[Presentation of Blockchain Camera in English](https://odysee.com/@PenguinDodgers/Blockchain_Camera)
 
-Presentation of Blockchain Camera in Greek
+[Presentation of Blockchain Camera in Greek](https://odysee.com/@PenguinDodgers/Blockchain_Camera_GR)
 
 
 ## Getting Started:
+Blockchain Camera is an open-source Project. Find the source-code [here:](https://github.com/sv1sjp/Blockchain_Camera)
 For more information about how it works and how you can create your own Blockchain Camera and implementation ideas, reading the full paper is recommended. 
-Click here
+[Click here](https://github.com/sv1sjp/Blockchain_Camera/blob/main/Blockchain_Camera.pdf)
 
 Contents of the paper:
 - The idea of Blockchain Camera
 - How Blockchain Camera works
 - Blockchain Camera implementation ideas
 - Blockchain Camera implementation ideas in European Union
-- Blockchaim Camera Tools and Hardware Recommendations
+- Blockchain Camera Tools and Hardware Recommendations
 - How Solidity code works
 - How Blockchain Camera Works
 - How Blockchain Camera Validation Tools (GUI and CLI) work
@@ -65,3 +66,13 @@ New implementation ideas are welcomed :) - Share the beaty of Open-Source.
  
 # License:
 ### Blockchain Camera cames under the terms of the GNU General Public License version 3 or any later version without warranty.
+
+
+---
+If you want to learn more about Smart Contract Security, please check our paper and eCourses:
+## Smart-Contract Security:
+
+- [Smart Contract Security: Dimitris Vagiakakakos, Stavros Gkinos, Ioannis Karvelas](https://github.com/sv1sjp/eVoting_Elections_Decentralized_App/blob/main/smartcontract_security_paper.pdf)
+
+
+* [Smart Contract Security - Educational YouTube Series in Greek - Click Here](https://www.youtube.com/playlist?list=PLZa7COjIxKWzLcMxI9cRNSzOtdR0xvXB7)
