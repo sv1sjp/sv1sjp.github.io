@@ -1,9 +1,11 @@
- Ethereum Blockchain Camera
+## Ethereum Blockchain Camera
 
 ### Turn your Raspberry Pi into an Ethereum-based Blockchain Camera! Powered by Solidity and Python3.
 
-<p align="center"><img src="https://github.com/sv1sjp/Blockchain_Camera/blob/main/icons/logo.png" width="300">
-  
+<p align="center"><img src="" width="300">
+
+![https://github.com/sv1sjp/Blockchain_Camera](https://github.com/sv1sjp/Blockchain_Camera/blob/main/icons/logo.png)  
+
 ### Blockchain Camera provides an easy and safe way to capture and guarantee the existence of videos reducing the impact of modified videos as it can preserve the integrity and validity of videos using Blockchain Technology. Blockchain Camera sends to Ethereum Network the hash of each video and the time the video has been recorded in order to be able validate that a video is genuine and hasn't been modified using a Blockchain Camera Validation Tool. 
 
 Blockchain Camera works in any GNU/Linux Distribution that supports ffmpeg and Python3.
