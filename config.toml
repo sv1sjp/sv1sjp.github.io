@@ -39,7 +39,7 @@ paginate = 20
   # updatedDatePrefix = "Updated"
 
   # set all headings to their default size (depending on browser settings)
-  # oneHeadingSize = true # default
+   oneHeadingSize = false # default
 
   # whether to show a page's estimated reading time
   # readingTime = false # default
@@ -65,9 +65,9 @@ paginate = 20
     languageName = "English"
     title = "DimitrisV SV1SJP"
     subtitle = "eLearning "
-    owner = "DimitrisV"
+    owner = "Dimitris Vagiakakos"
     keywords = "linux"
-    copyright = "Dimitris LinuxOS - TuxHouse - 2011-2023"
+    copyright = "TuxHouse - Dimitris LinuxOS - 2011-2023"
     menuMore = "Show more usefull stuff"
     readMore = "Read more stuff"
     readOtherPosts = "Read other posts"
@@ -77,16 +77,19 @@ paginate = 20
     missingBackButtonLabel = "Try to find the Penguin somewhere else."
 
     [languages.en.params.logo]
-      logoText = "DimitrisV SV1SJP"
+      logoText = "Dimitris Vagiakakos SV1SJP"
       logoHomeLink = "/"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about.html"
+        identifier = "whoami"
+        name = "$whoami"
+        url = "/whoami"
      
-        
+       [[languages.en.menu.main]]
+        identifier = "Blockchain Camera"
+        name = "Blockchain Camera"
+        url = "/Blockchain_Camera" 
         
         [[languages.en.menu.main]]
         identifier = "Projects"
@@ -97,17 +100,11 @@ paginate = 20
         identifier = "Blockchain WriteUps"
         name = "Blockchain WriteUps"
         url = "/Blockchain_WriteUps"
-        
-        [[languages.en.menu.main]]
-        identifier = "Blockchain Camera"
-        name = "Blockchain Camera"
-        url = "/Blockchain_Camera"
 
         [[languages.en.menu.main]]
         identifier = "Panellinies_AEPP"
         name = "Panellinies_AEPP"
         url = "/Panellinies_AEPP/index.html"
-        
         
         [[languages.en.menu.main]]
         identifier = "Ubuntel"
