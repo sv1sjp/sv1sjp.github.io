@@ -2280,10 +2280,11 @@ The &amp;ldquo;withdraw&amp;rdquo; function can help us with that which can be e
 &lt;/ul>
 &lt;ul>
 &lt;li>&lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzLcMxI9cRNSzOtdR0xvXB7">Smart Contract Security - Educational YouTube Series in Greek - Click Here&lt;/a>&lt;/li>
-&lt;/ul></content></item><item><title/><link>/blockchain_camera/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/blockchain_camera/</guid><description>Ethereum Blockchain Camera Turn your Raspberry Pi into an Ethereum-based Blockchain Camera! Powered by Solidity and Python3. Blockchain Camera provides an easy and safe way to capture and guarantee the existence of videos reducing the impact of modified videos as it can preserve the integrity and validity of videos using Blockchain Technology. Blockchain Camera sends to Ethereum Network the hash of each video and the time the video has been recorded in order to be able validate that a video is genuine and hasn&amp;rsquo;t been modified using a Blockchain Camera Validation Tool.</description><content>&lt;h2 id="ethereum-blockchain-camera">Ethereum Blockchain Camera&lt;/h2>
-&lt;h3 id="turn-your-raspberry-pi-into-an-ethereum-based-blockchain-camera-powered-by-solidity-and-python3">Turn your Raspberry Pi into an Ethereum-based Blockchain Camera! Powered by Solidity and Python3.&lt;/h3>
+&lt;/ul></content></item><item><title/><link>/blockchain_camera/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/blockchain_camera/</guid><description>Ethereum Blockchain Camera Turn your Raspberry Pi into an Ethereum-based Blockchain Camera! Powered by Solidity and Python3. Blockchain Camera provides an easy and safe way to capture and guarantee the existence of videos reducing the impact of modified videos as it can preserve the integrity and validity of videos using Blockchain Technology. Blockchain Camera sends to Ethereum Network the hash of each video and the time the video has been recorded in order to be able validate that a video is genuine and hasn&amp;rsquo;t been modified using a Blockchain Camera Validation Tool.</description><content>&lt;h1 id="ethereum-blockchain-camera">Ethereum Blockchain Camera&lt;/h1>
+&lt;h2 id="turn-your-raspberry-pi-into-an-ethereum-based-blockchain-camera-powered-by-solidity-and-python3">Turn your Raspberry Pi into an Ethereum-based Blockchain Camera! Powered by Solidity and Python3.&lt;/h2>
+&lt;hr>
 &lt;p>&lt;img src="/img/Blockchain_Camera_EN.jpg" alt="">&lt;/p>
-&lt;h3 id="blockchain-camera-provides-an-easy-and-safe-way-to-capture-and-guarantee-the-existence-of-videos-reducing-the-impact-of-modified-videos-as-it-can-preserve-the-integrity-and-validity-of-videos-using-blockchain-technology-blockchain-camera-sends-to-ethereum-network-the-hash-of-each-video-and-the-time-the-video-has-been-recorded-in-order-to-be-able-validate-that-a-video-is-genuine-and-hasnt-been-modified-using-a-blockchain-camera-validation-tool">Blockchain Camera provides an easy and safe way to capture and guarantee the existence of videos reducing the impact of modified videos as it can preserve the integrity and validity of videos using Blockchain Technology. Blockchain Camera sends to Ethereum Network the hash of each video and the time the video has been recorded in order to be able validate that a video is genuine and hasn&amp;rsquo;t been modified using a Blockchain Camera Validation Tool.&lt;/h3>
+&lt;h2 id="blockchain-camera-provides-an-easy-and-safe-way-to-capture-and-guarantee-the-existence-of-videos-reducing-the-impact-of-modified-videos-as-it-can-preserve-the-integrity-and-validity-of-videos-using-blockchain-technology-blockchain-camera-sends-to-ethereum-network-the-hash-of-each-video-and-the-time-the-video-has-been-recorded-in-order-to-be-able-validate-that-a-video-is-genuine-and-hasnt-been-modified-using-a-blockchain-camera-validation-tool">Blockchain Camera provides an easy and safe way to capture and guarantee the existence of videos reducing the impact of modified videos as it can preserve the integrity and validity of videos using Blockchain Technology. Blockchain Camera sends to Ethereum Network the hash of each video and the time the video has been recorded in order to be able validate that a video is genuine and hasn&amp;rsquo;t been modified using a Blockchain Camera Validation Tool.&lt;/h2>
 &lt;p>Blockchain Camera works in any GNU/Linux Distribution that supports ffmpeg and Python3.&lt;/p>
 &lt;pre tabindex="0">&lt;code>Created by Dimitris Vagiakakos @sv1sjp
 &lt;/code>&lt;/pre>&lt;h2 id="video-presentations">Video Presentations:&lt;/h2>
@@ -2293,9 +2294,10 @@ The &amp;ldquo;withdraw&amp;rdquo; function can help us with that which can be e
 &lt;h3 id="lbry">LBRY:&lt;/h3>
 &lt;p>&lt;a href="https://odysee.com/@PenguinDodgers/Blockchain_Camera">Presentation of Blockchain Camera in English&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://odysee.com/@PenguinDodgers/Blockchain_Camera_GR">Presentation of Blockchain Camera in Greek&lt;/a>&lt;/p>
+&lt;p>&lt;img src="/img/bc_poc.png" alt="">&lt;/p>
 &lt;h2 id="getting-started">Getting Started:&lt;/h2>
-&lt;p>Blockchain Camera is an open-source Project. Find the source-code &lt;a href="https://github.com/sv1sjp/Blockchain_Camera">here:&lt;/a>
-For more information about how it works and how you can create your own Blockchain Camera and implementation ideas, reading the full paper is recommended.
+&lt;p>Blockchain Camera is an open-source Project. Find the source-code &lt;a href="https://github.com/sv1sjp/Blockchain_Camera">here:&lt;/a>&lt;/p>
+&lt;p>For more information about how it works and how you can create your own Blockchain Camera and implementation ideas, reading the full paper is recommended.
 &lt;a href="https://github.com/sv1sjp/Blockchain_Camera/blob/main/Blockchain_Camera.pdf">Click here&lt;/a>&lt;/p>
 &lt;p>Contents of the paper:&lt;/p>
 &lt;ul>
@@ -2321,19 +2323,26 @@ For more information about how it works and how you can create your own Blockcha
 &lt;p>Cardano: addr1qxewtm0y5yk2mgf93ct4ghguus2shu34fu786t62j3tv7296evenhmr0ltmx3hdyw4d6d8gj8qspry5pe3raaw4nu8as7jsr9l&lt;/p>
 &lt;p>Monero: 46ewn3rgXMSceuEUEng1bze1RzG61rEiFV3hJ6VKuzvHU62jPntydJRBcFinQ62Pad8AvdoX9YbQcY5HKX3Cr3UQPkhiQ4L&lt;/p>
 &lt;p>New implementation ideas are welcomed :) - Share the beaty of Open-Source.&lt;/p>
-&lt;p>&lt;img src="/img/bc_poc.png" alt="">&lt;/p>
-&lt;h1 id="license">License:&lt;/h1>
-&lt;h3 id="blockchain-camera-cames-under-the-terms-of-the-gnu-general-public-license-version-3-or-any-later-version-without-warranty">Blockchain Camera cames under the terms of the GNU General Public License version 3 or any later version without warranty.&lt;/h3>
 &lt;p>&lt;img src="/img/validation_tool_gui.png" alt="">&lt;/p>
-&lt;h2 id="imgeujpg">&lt;img src="/img/EU.jpg" alt="">&lt;/h2>
+&lt;h1 id="license">License:&lt;/h1>
+&lt;h2 id="blockchain-camera-cames-under-the-terms-of-the-gnu-general-public-license-version-3-or-any-later-version-without-warranty">Blockchain Camera cames under the terms of the GNU General Public License version 3 or any later version without warranty.&lt;/h2>
+&lt;p>&lt;img src="/img/EU.jpg" alt="">&lt;/p>
+&lt;hr>
 &lt;p>If you want to learn more about Smart Contract Security, please check our paper and eCourses:&lt;/p>
 &lt;h2 id="smart-contract-security">Smart-Contract Security:&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="https://github.com/sv1sjp/eVoting_Elections_Decentralized_App/blob/main/smartcontract_security_paper.pdf">Smart Contract Security: Dimitris Vagiakakakos, Stavros Gkinos, Ioannis Karvelas&lt;/a>&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/sv1sjp/eVoting_Elections_Decentralized_App/blob/main/smartcontract_security_paper.pdf">Smart Contract Security: Dimitris Vagiakakakos, Stavros Gkinos, Ioannis Karvelas&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/playlist?list=PLZaCOjIxKWzLcMxI9cRNSzOtdR0xvXB7">Smart Contract Security - Educational YouTube Series in Greek - Click Here&lt;/a>&lt;/p>
+&lt;/li>
 &lt;/ul>
-&lt;ul>
-&lt;li>&lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzLcMxI9cRNSzOtdR0xvXB7">Smart Contract Security - Educational YouTube Series in Greek - Click Here&lt;/a>&lt;/li>
-&lt;/ul></content></item><item><title/><link>/lyseis_aepp/content/panellinies.aepp_lyseis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/lyseis_aepp/content/panellinies.aepp_lyseis/</guid><description>Panellinies_AEPP Λύσεις θεμάτων ./</description><content>&lt;p>Panellinies_AEPP
+&lt;h2 id="find-more-educational-content">Find More Educational Content:&lt;/h2>
+&lt;p>More educational videos about Blockchain, Linux, Android Hacking and Telecommunications can be found on my YouTube Channel &lt;a href="www.youtube.com/LinuxOSblog">DimitrisV&lt;/a> as well as on LBRY &lt;a href="https://odysee.com/@PenguinDodgers:5">PenguinDodgers&lt;/a>&lt;/p>
+&lt;h2 id="find-more-awesome-projects">Find more awesome Projects:&lt;/h2>
+&lt;p>Click the sector &amp;ldquo;Projects&amp;rdquo; on this website to find more projects and educational content.&lt;/p>
+&lt;p>&lt;img src="/img/bc_cli.jpg" alt="">&lt;/p></content></item><item><title/><link>/lyseis_aepp/content/panellinies.aepp_lyseis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/lyseis_aepp/content/panellinies.aepp_lyseis/</guid><description>Panellinies_AEPP Λύσεις θεμάτων ./</description><content>&lt;p>Panellinies_AEPP
 Λύσεις θεμάτων ./&lt;/p></content></item><item><title/><link>/panellinies.aepp_ask/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/panellinies.aepp_ask/</guid><description>Προσοχή: Από τις 28 Δεκεμβρίου το Project Panellinies_AEPP απενεργοποιεί όλες τις διαφημίσεις πάνω στο εκπαιδευτικό υλικό. Τo Project πλέον λειτουργεί και υποστηρίζεται αποκλειστικά από τις χορηγίες σας σε Basic Attention Token (BAT) μέσω του Brave Browser στο κανάλι στο Youtube καθώς και σε άλλα κρυπτονομίσματα στις παρακάτω διευθύνσεις:
 Bitcoin: bc1q6j959m3whh44ztr8k6p7545n5pzcsncple7qmy
 Ethereum: 0x3f27F05Ca28a5B5F876A3A7d435E2E852756F873
@@ -2417,31 +2426,59 @@ Part 3 : Υποπρογράμματα και Κεφάλαιο 10&lt;/p>
 &lt;p>Part 1 : Πίνακες + Δομές δευτερεύουσας μνήμης&lt;/p>
 &lt;p>Part 2 : Κεφάλαιο 6 και 7&lt;/p>
 &lt;p>Part 3 : Δομές Δεδομένων και Υποπρογράμματα&lt;/p>
-&lt;p>250 Λυμένα Σωστό-Λάθος για εξάσκηση-Version2.0&lt;/p></content></item><item><title/><link>/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/projects/</guid><description>eVoting_Elections_Decentralized_App eVoting Decentralized Application for the Ethereum Network written in Solidity 0.8.x
-For more information about how you can deploy and how our eVoting Decentralized Application works, please read our paper:
-Developing a Blockchain eVoting Application using Ethereum: Dimitris Vagiakakaos, Konstantinos Karahalis, Stavros Gkinos Smart-Contract Security: Smart Contract Security: Dimitris Vagiakakakos, Stavros Gkinos, Ioannis Karvelas Blockchain related articles,papers,slides written in Greek: Developing a Blockchain eVoting Application using Ethereum(Greek Slides), Dimitris Vagiakakaos, Konstantinos Karahalis, Stavros Gkinos Privacy in Blockchain and Web3.</description><content>&lt;h1 id="evoting_elections_decentralized_app">eVoting_Elections_Decentralized_App&lt;/h1>
-&lt;p>eVoting Decentralized Application for the Ethereum Network written in Solidity 0.8.x&lt;/p>
-&lt;p>For more information about how you can deploy and how our eVoting Decentralized Application works, please read our paper:&lt;/p>
+&lt;p>250 Λυμένα Σωστό-Λάθος για εξάσκηση-Version2.0&lt;/p></content></item><item><title/><link>/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/projects/</guid><description>There are multiple projects running on DimitrisV Channel as well as in other communities. On this Page I will try to achieve all the Projects into a single page in order to be easier for users to find the Projects. For any information, you can find all my social media on whoami section. Educational Series: 🇬🇧 These eLearning Series can be found both on YouTube and LBRY free of cost. If you want to support the Channels, you can like &amp;amp;&amp;amp; subscribe to both channels (on YouTube and LBRY).</description><content>&lt;pre tabindex="0">&lt;code>There are multiple projects running on DimitrisV Channel as well as in other communities. On this Page I will try to achieve all the Projects into a single page in order to be easier for users to find the Projects.
+For any information, you can find all my social media on whoami section.
+&lt;/code>&lt;/pre>&lt;h1 id="educational-series">Educational Series:&lt;/h1>
+&lt;p>🇬🇧 These eLearning Series can be found both on YouTube and LBRY free of cost. If you want to support the Channels, you can like &amp;amp;&amp;amp; subscribe to both channels (on YouTube and LBRY).&lt;/p>
+&lt;p>🇬🇷 Οι εκπαιδευτικές σειρές που βρίσκονται σε αυτή την λίστα μπορούν να βρεθούν στο και εντελώς δωρεάν. Ένα Like &amp;amp;&amp;amp; μία εγγραφή μπορούν να βοηθήσουν το Project να εξελιχθεί σε κάτι μεγαλύτερο!&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://github.com/sv1sjp/eVoting_Elections_Decentralized_App/blob/main/eVoting_Smart_Contract_paper.pdf">Developing a Blockchain eVoting Application using Ethereum: Dimitris Vagiakakaos, Konstantinos Karahalis, Stavros Gkinos&lt;/a>&lt;/li>
+&lt;li>🇬🇷 Linux for Beginners (Greek): &lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWx2Xt4spOOlxKzGJa5FFmoV">YouTube&lt;/a>&lt;/li>
+&lt;li>🇬🇷 Ultimate UNIX Ultimate Tutorial (Greek): &lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzfu1kLBWBbj-3wdKSzDVl4">YouTube&lt;/a>&lt;/li>
+&lt;li>🇬🇷 Smart-Contract Security (Greek): &lt;a href="https://www.youtube.com/watch?v=kmlhkMLF8yk&amp;amp;list=PLZa7COjIxKWzLcMxI9cRNSzOtdR0xvXB7">YouTube&lt;/a> , &lt;a href="https://odysee.com/$/playlist/35cdd869a31e31b26c6a95b3261155a3215243ba">LBRY&lt;/a>&lt;/li>
+&lt;li>🇬🇷 Information Theory (Greek): &lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzq3tyDlMqUmVzd1a7zDpT-">YouTube&lt;/a>&lt;/li>
+&lt;li>🇬🇷 Panellinies_AEPP: Δωρεάν Ασκήσεις και κατηγοριοποιημένη η θεωρία του ΑΕΠΠ για τις Πανελλήνιες: &lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWxh-699iV33AzR6LNPD26nt">YouTube&lt;/a>&lt;/li>
+&lt;li>🇬🇧 Android Hacking (English): &lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWwXANQuJdggsb-aq2kN4lT9">YouTube&lt;/a>&lt;/li>
+&lt;li>🇬🇧 Android Rooting &amp;amp;&amp;amp; Customization (English): &lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzrT4Yig-z__LvhvaWsBkhv">YouTube&lt;/a>&lt;/li>
 &lt;/ul>
+&lt;hr>
+&lt;h1 id="blockchain-projects">Blockchain Projects:&lt;/h1>
+&lt;h2 id="developing-an-ethereum-based-blockchain-camera">Developing an Ethereum Based Blockchain Camera&lt;/h2>
+&lt;p>Turn your Raspberry Pi into an Ethereum-based Blockchain Camera! Powered by Solidity and Python3.&lt;/p>
+&lt;ul>
+&lt;li>Find more information about Blockchain Camera ont is own web page.&lt;a href="https://sv1sjp.github.io/blockchain_camera/">Click Here:&lt;/a> or read Blockchain&amp;rsquo;s Camera paper:&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://github.com/sv1sjp/Blockchain_Camera/blob/main/Blockchain_Camera.pdf">Developing an Ethereum Based Blockchain Camera: Dimitris Vagiakakos (2022)&lt;/a>&lt;/p>
+&lt;h2 id="evoting_elections_decentralized_app">eVoting_Elections_Decentralized_App&lt;/h2>
+&lt;p>eVoting Decentralized Application for the Ethereum Network written in Solidity 0.8.x&lt;/p>
+&lt;ul>
+&lt;li>For more information about how you can deploy and how our eVoting Decentralized Application works, please read our paper:&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://github.com/sv1sjp/eVoting_Elections_Decentralized_App/blob/main/eVoting_Smart_Contract_paper.pdf">Developing a Blockchain eVoting Application using Ethereum: Dimitris Vagiakakaos, Konstantinos Karahalis, Stavros Gkinos&lt;/a>&lt;/p>
 &lt;h2 id="smart-contract-security">Smart-Contract Security:&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/sv1sjp/eVoting_Elections_Decentralized_App/blob/main/smartcontract_security_paper.pdf">Smart Contract Security: Dimitris Vagiakakakos, Stavros Gkinos, Ioannis Karvelas&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h1 id="blockchain-related-articlespapersslides-written-in-greek">Blockchain related articles,papers,slides written in Greek:&lt;/h1>
+&lt;h1 id="other-projects">Other Projects:&lt;/h1>
+&lt;h2 id="ubuntel-linux---the-greek-version-of-ubuntu">Ubuntel Linux - The Greek Version of Ubuntu&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="https://github.com/sv1sjp/eVoting_Elections_Decentralized_App/blob/main/eVoting_Decentralized_Application_PresentationGR.pdf">Developing a Blockchain eVoting Application using Ethereum(Greek Slides), Dimitris Vagiakakaos, Konstantinos Karahalis, Stavros Gkinos&lt;/a>&lt;/li>
+&lt;li>Find more information about Ubuntel Linux on &lt;a href="https://sv1sjp.github.io/ubuntel/">its own web page.&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="privacy-in-blockchain-and-web30">Privacy in Blockchain and Web3.0&lt;/h2>
+&lt;h1 id="blockchain-related-articles-books-papersslides-written-in-greek">Blockchain related articles, books, papers,slides written in Greek🇬🇷:&lt;/h1>
+&lt;h2 id="privacy-in-blockchain-and-web30---second-edition-book">Privacy in Blockchain and Web3.0 - Second Edition (Book):&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="https://github.com/sv1sjp/eVoting_Elections_Decentralized_App/blob/main/Privacy%20in%20Blockchain%20and%20Web3.0%20(Greek).pdf"> Privacy in Blockchain and Web3.0: Dimitris Vagiakakakos, Konstantinos Karahalis, Stavros Gkinos&lt;/a>&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/sv1sjp/eVoting_Elections_Decentralized_App/blob/main/Privacy%20in%20Blockchain%20and%20Web3.0%20(Greek).pdf"> Privacy in Blockchain and Web3.0 - Second Edition: Dimitris Vagiakakakos, Konstantinos Karahalis, Stavros Gkinos&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/sv1sjp/eVoting_Elections_Decentralized_App/blob/main/eVoting_Decentralized_Application_PresentationGR.pdf">Developing a Blockchain eVoting Application using Ethereum(Greek Slides), Dimitris Vagiakakos, Konstantinos Karahalis, Stavros Gkinos&lt;/a>&lt;/p>
+&lt;/li>
 &lt;/ul>
-&lt;h2 id="greek-presentations-and-blockchain-videos">Greek Presentations and Blockchain Videos:&lt;/h2>
+&lt;h2 id="greek-presentations-and-blockchain-videos">Greek Presentations and Blockchain Videos🇬🇷:&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://www.youtube.com/watch?v=QBBQJU2NqiM&amp;amp;list=PLZa7COjIxKWyePlYF29HdKR0raeWMqG8v&amp;amp;index=2">Developing a Blockchain eVoting Application using Ethereum&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.youtube.com/watch?v=QBBQJU2NqiM&amp;amp;list=PLZa7COjIxKWyePlYF29HdKR0raeWMqG8v&amp;amp;index=4"> Privacy in Blockchain and Web3.0 &lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=lS-HPGJks1Y&amp;amp;list=PLZa7COjIxKWyePlYF29HdKR0raeWMqG8v&amp;amp;index=7"> Smart Contract Security &lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=lS-HPGJks1Y&amp;amp;list=PLZa7COjIxKWyePlYF29HdKR0raeWMqG8v&amp;amp;index=7"> Smart Contract Security &lt;/a>
+&amp;ndash; Developing an Ethereum Based Blockchain Camera - Greek : &lt;a href="https://youtu.be/7N7_W0pdbcs">YouTube&lt;/a> , [LBRY]&lt;/li>
 &lt;/ul></content></item><item><title/><link>/ubuntel/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ubuntel/</guid><description>Το Ubuntel είναι η ελληνική έκδοση του Ubuntu με MATE για desktop.Ξεκίνησε επίσημα τον Οκτώβρη του 2011 βασιζόμενο σε Ubuntu 11.10!Σκοπός της διανομής είναι να προσφέρει ό,τι μπορεί να χρειαστεί ένας χρήστης,από τον αρχάριο μέχρι &amp;amp; τον παραγωγό μουσικής/video editor ή τον hardcore χρήστη ,σε μόλις ένα bootable DVD ή USB flash !Χρησιμοποιόντας MATE,γίνεται πιο φιλικό για παλιότερο υλικό,ως αποτέλεσμα να αποτελεί μια καλή λύση για να ζωντανέψετε τα παλιά σας PC !</description><content>&lt;p>&lt;img src="/img/ubuntel.jpg" alt="https://www.youtube.com/linuxosblog">
 Το Ubuntel είναι η ελληνική έκδοση του Ubuntu με MATE για desktop.Ξεκίνησε επίσημα τον Οκτώβρη
 του 2011 βασιζόμενο σε Ubuntu 11.10!Σκοπός της
@@ -2469,4 +2506,67 @@ bootable DVD ή USB flash !Χρησιμοποιόντας MATE,γίνεται π
 &lt;li>Αποστόλης Κοκονός&lt;/li>
 &lt;li>John Karvelas&lt;/li>
 &lt;/ul>
-&lt;p>Download Link υπάρχει στο βίντεο με το Review του Ubuntel 5.0 στο κανάλι στο Youtube :&lt;/p></content></item></channel></rss>
+&lt;p>Download Link υπάρχει στο βίντεο με το Review του Ubuntel 5.0 στο κανάλι στο Youtube :&lt;/p></content></item><item><title/><link>/whoami/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/whoami/</guid><description>$whoami
+Dimitris Vagiakakos Blockchain Security Engineer | Security Consultant at Grant Thornton Greece | educational Technologies The creator of Blockchain Camera Linux User since 2005 - from 5 years old Located in: Athens, Greece, EU 🇪🇺🇬🇷
+From: Mani, Lakonia, Greece, EU 🇪🇺🇬🇷
+Let&amp;rsquo;s get connected:
+Find me on LinkedIn:
+Find me on Instagram:
+Find me on Telegram: @sv1sjp
+Find me on Reddit:
+Find me on Github:
+Find me on YouTube:</description><content>&lt;p>$whoami&lt;/p>
+&lt;h1 id="dimitris-vagiakakos">Dimitris Vagiakakos&lt;/h1>
+&lt;p>&lt;img src="/img/sv1sjp.jpg" alt="">&lt;/p>
+&lt;pre tabindex="0">&lt;code>Blockchain Security Engineer | Security Consultant at Grant Thornton Greece | educational Technologies
+The creator of Blockchain Camera
+Linux User since 2005 - from 5 years old
+&lt;/code>&lt;/pre>&lt;p>Located in: Athens, Greece, EU 🇪🇺🇬🇷&lt;/p>
+&lt;p>From: Mani, Lakonia, Greece, EU 🇪🇺🇬🇷&lt;/p>
+&lt;p>Let&amp;rsquo;s get connected:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://www.linkedin.com/in/sv1sjp">Find me on LinkedIn:&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.instagram.com/sv1sjp/">Find me on Instagram:&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Find me on Telegram: @sv1sjp&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.reddit.com/user/sv1sjp/">Find me on Reddit:&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/sv1sjp">Find me on Github:&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="www.youtube.com/LinuxOSblog">Find me on YouTube:&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://odysee.com/@PenguinDodgers:5">Find me on LBRY:&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://twitter.com/sv1sjp">Find me on Twitter:&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Find me on Discord: DimitrisV#9286&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.qrz.com/db/sv1sjp">Find me on QRZ - For the Ham Radio people:&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://linux-user.gr/u/sv1sjp">Find me on Linux-User.gr:&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.instagram.com/panellinies_aepp">Find me on Instagram - Panellinies_AEPP:&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>You don&amp;rsquo;t have anything from all of these? Well, you can send me an email:&lt;/p>
+&lt;pre tabindex="0">&lt;code>dimitrislinuxos@protonmail.ch
+&lt;/code>&lt;/pre>&lt;p>Presenter at the Conferences:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://2021.fosscomm.gr/index.html">FOSSCOMM 2021&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.pychain.org/">PyChain 2022&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://2022.fosscomm.gr/en/">FOSSCOMM 2022&lt;/a>&lt;/li>
+&lt;/ul></content></item></channel></rss>
