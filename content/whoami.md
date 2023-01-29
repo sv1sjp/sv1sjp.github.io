@@ -62,11 +62,11 @@ Presenter at the Conferences:
 
 ### Noticable Projects:
 
-* [Developing an Ethereum Based Blockchain Camera:](https://sv1sjp.github.io/blockchain_camera/)
-* [Ethereum Hacking - Smart Contract Security Series:](https://www.youtube.com/playlist?list=PLZa7COjIxKWzLcMxI9cRNSzOtdR0xvXB7)
-* [Ultimate Linux Terminal Tutorial Series (Greek):](https://www.youtube.com/playlist?list=PLZa7COjIxKWzfu1kLBWBbj-3wdKSzDVl4)
-* [Information Theory Series:](https://www.youtube.com/playlist?list=PLZa7COjIxKWzq3tyDlMqUmVzd1a7zDpT-)
-* [Panellinies_AEPP:](https://sv1sjp.github.io/panellinies_aepp/index.html)
+* [Developing an Ethereum Based Blockchain Camera](https://sv1sjp.github.io/blockchain_camera/)
+* [Ethereum Hacking - Smart Contract Security Series](https://www.youtube.com/playlist?list=PLZa7COjIxKWzLcMxI9cRNSzOtdR0xvXB7)
+* [Ultimate Linux Terminal Tutorial Series (Greek)](https://www.youtube.com/playlist?list=PLZa7COjIxKWzfu1kLBWBbj-3wdKSzDVl4)
+* [Information Theory Series](https://www.youtube.com/playlist?list=PLZa7COjIxKWzq3tyDlMqUmVzd1a7zDpT-)
+* [Panellinies_AEPP](https://sv1sjp.github.io/panellinies_aepp/index.html)
 
 
 
