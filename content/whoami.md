@@ -17,29 +17,29 @@ Currently at: Brussels, Belgium, EU 🇪🇺🇧🇪
 
 Find me on:
 
-* [LinkedIn:](https://www.linkedin.com/in/sv1sjp)
+* [LinkedIn](https://www.linkedin.com/in/sv1sjp)
 
-* [Instagram:](https://www.instagram.com/sv1sjp/)
+* [Instagram](https://www.instagram.com/sv1sjp/)
 
 * Telegram: @sv1sjp 
 
-* [Github:](https://github.com/sv1sjp)
+* [Github](https://github.com/sv1sjp)
 
-* [TuxHouse YouTube:](www.youtube.com/LinuxOSblog)
+* [TuxHouse YouTube](www.youtube.com/LinuxOSblog)
 
-* [Twitter:](https://twitter.com/sv1sjp)
+* [Twitter](https://twitter.com/sv1sjp)
 
-* [QRZ - For the Ham Radio people:](https://www.qrz.com/db/sv1sjp)
+* [QRZ - For the Ham Radio people](https://www.qrz.com/db/sv1sjp)
 
-* [Linux-User.gr:](https://linux-user.gr/u/sv1sjp)
+* [Linux-User.gr](https://linux-user.gr/u/sv1sjp)
 
-* [TuxHouse LBRY:](https://odysee.com/@TuxHouse)
+* [TuxHouse LBRY](https://odysee.com/@TuxHouse)
 
 * [TuxHouse Instagram](https://www.instagram.com/panellinies_aepp)
-* 
+
 * [TuxHouse TikTok](https://www.tiktok.com/@TuxHouse)
 
-* [Reddit:](https://www.reddit.com/user/sv1sjp/)
+* [Reddit](https://www.reddit.com/user/sv1sjp/)
 
 * Discord: DimitrisV#9286
 
