@@ -11,9 +11,11 @@ The creator of Blockchain Camera |
 Linux-User.gr
 
 ```
+```
 From: Mani, Lakonia, Greece, EU 🇪🇺🇬🇷
 Based in: Athens, Greece, EU 🇪🇺🇬🇷
 Currently at: Brussels, Belgium, EU 🇪🇺🇧🇪
+```
 
 Find me on:
 
@@ -44,11 +46,13 @@ Find me on:
 * Discord: DimitrisV#9286
 
 
-You don't have anything from all of these? Well, you can send me an email: 
+
+?? You don't have anything from all of these? Well, you can send me an email: 
 ```
 dimitrislinuxos@protonmail.ch
 ```
-Do you need encryption? You can find my PGP public key [here:](/PDFs/pgp.txt)
+
+?? Do you need to use encryption? You can find my PGP public key [here:](/PDFs/pgp.txt)
 
 ### Other Information:
 
