@@ -72,5 +72,8 @@ Presenter at the Conferences:
 * [Information Theory Series](https://www.youtube.com/playlist?list=PLZa7COjIxKWzq3tyDlMqUmVzd1a7zDpT-)
 * [Panellinies_AEPP](https://sv1sjp.github.io/panellinies_aepp/index.html)
 
+![](/img/Blockchain_Camera_EN.jpg) 
+
+![](/img/series.jpg) 
 
 
