@@ -12,7 +12,7 @@ Linux-User.gr
 
 
 MSc in Blockchain & Digital Currency at University Of Nicosia 🇪🇺🇨🇾
-BSc in Digital System Security at University Of Piraeus 🇪🇺🇬🇷
+BSc in Digital Systems Security at University Of Piraeus 🇪🇺🇬🇷
 
 ```
 ```
@@ -51,7 +51,7 @@ Find me on:
 
 
 
-?? You don't have anything from all of these? Well, you can send me an email: 
+You don't have anything from all of these? Well, you can send me an email: 
 ```
 dimitrislinuxos@protonmail.ch
 ```
