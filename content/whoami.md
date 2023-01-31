@@ -10,6 +10,10 @@ Educational Technologies |
 The creator of Blockchain Camera |
 Linux-User.gr
 
+
+MSc in Blockchain & Digital Currency at University Of Nicosia 🇪🇺🇨🇾
+BSc in Digital System Security at University Of Piraeus 🇪🇺🇬🇷
+
 ```
 ```
 From: Mani, Lakonia, Greece, EU 🇪🇺🇬🇷
@@ -75,5 +79,7 @@ Presenter at the Conferences:
 ![](/img/Blockchain_Camera_EN.jpg) 
 
 ![](/img/series.jpg) 
+
+
 
 
