@@ -1,7 +1,7 @@
 +++
 title = "Naught Coin - Ethernaut"
 date = "2022-01-06"
-author = "DimitrisV"
+author = "Dimitris Vagiakakos"
 +++
 So now we have the challenge "Naught Coin". Naught Coin is an ERC20 token and we are already holding all of them.
 The catch is that we will only be able to transfer them after a 10 year lockout period. Can we figure out how to get them out to another address so that we can transfer them freely?
@@ -81,7 +81,7 @@ Upon reading the source code of the transferFrom function, it appears that it al
 If you want to learn more about Smart Contract Security, please check our paper and eCourses:
 ## Smart-Contract Security:
 
-- [Smart Contract Security: Dimitris Vagiakakakos, Stavros Gkinos, Ioannis Karvelas](https://github.com/sv1sjp/eVoting_Elections_Decentralized_App/blob/main/smartcontract_security_paper.pdf)
+* [Smart Contract Security - Educational eLearning Series in Greek on YouTube - Click Here](https://www.youtube.com/playlist?list=PLZa7COjIxKWzLcMxI9cRNSzOtdR0xvXB7)
 
 
-* [Smart Contract Security - Educational YouTube Series in Greek - Click Here](https://www.youtube.com/playlist?list=PLZa7COjIxKWzLcMxI9cRNSzOtdR0xvXB7)
+* [Smart Contract Security - Educational eLearning Series in Greek on LBRY - Click Here](https://odysee.com/@TuxHouse:1/Ethereum-Hacking-Series-%28Greek%29:b?r=D1QgYeP81GoKPkW5T1jP96zxGA4GMfho&lid=b0b540e62d96ed2811b776519fc460617e4c40747)
