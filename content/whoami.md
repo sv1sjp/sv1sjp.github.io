@@ -18,7 +18,6 @@ BSc in Digital Systems Security at University Of Piraeus 🇪🇺🇬🇷
 ```
 From: Mani, Lakonia, Greece, EU 🇪🇺🇬🇷
 Based in: Athens, Greece, EU 🇪🇺🇬🇷
-Currently at: Brussels, Belgium, EU 🇪🇺🇧🇪
 ```
 
 Find me on:
