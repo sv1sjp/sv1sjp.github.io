@@ -1,7 +1,7 @@
 +++
 title = "CoinFlip - Ethernaut"
 date = "2022-01-15"
-author = "DimitrisV"
+author = "Dimitris Vagiakakos"
 +++
 
 Coin flip is a basic game that we throw a coin and we have 50\% chance of being 0 or 1. In order to win this game we need 10 consecutive wins. To begin with, we check the code of the smart-contract to find some useful stuff: 
@@ -94,7 +94,7 @@ However, as we can understand now, there is an another vulnerability here. As mi
 If you want to learn more about Smart Contract Security, please check our paper and eCourses:
 ## Smart-Contract Security:
 
-- [Smart Contract Security: Dimitris Vagiakakakos, Stavros Gkinos, Ioannis Karvelas](https://github.com/sv1sjp/eVoting_Elections_Decentralized_App/blob/main/smartcontract_security_paper.pdf)
+* [Smart Contract Security - Educational eLearning Series in Greek on YouTube - Click Here](https://www.youtube.com/playlist?list=PLZa7COjIxKWzLcMxI9cRNSzOtdR0xvXB7)
 
 
-* [Smart Contract Security - Educational YouTube Series in Greek - Click Here](https://www.youtube.com/playlist?list=PLZa7COjIxKWzLcMxI9cRNSzOtdR0xvXB7)
+* [Smart Contract Security - Educational eLearning Series in Greek on LBRY - Click Here](https://odysee.com/@TuxHouse:1/Ethereum-Hacking-Series-%28Greek%29:b?r=D1QgYeP81GoKPkW5T1jP96zxGA4GMfho&lid=b0b540e62d96ed2811b776519fc460617e4c40747)
