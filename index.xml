@@ -2098,10 +2098,12 @@ if(!result) revert(&amp;#34;MyBad&amp;#34;);
 &lt;p>If you want to learn more about Smart Contract Security, please check our paper and eCourses:&lt;/p>
 &lt;h2 id="smart-contract-security">Smart-Contract Security:&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="https://github.com/sv1sjp/eVoting_Elections_Decentralized_App/blob/main/smartcontract_security_paper.pdf">Smart Contract Security: Dimitris Vagiakakakos, Stavros Gkinos, Ioannis Karvelas&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;ul>
-&lt;li>&lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzLcMxI9cRNSzOtdR0xvXB7">Smart Contract Security - Educational YouTube Series in Greek - Click Here&lt;/a>&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzLcMxI9cRNSzOtdR0xvXB7">Smart Contract Security - Educational eLearning Series in Greek on YouTube - Click Here&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://odysee.com/@TuxHouse:1/Ethereum-Hacking-Series-%28Greek%29:b?r=D1QgYeP81GoKPkW5T1jP96zxGA4GMfho&amp;amp;lid=b0b540e62d96ed2811b776519fc460617e4c40747">Smart Contract Security - Educational eLearning Series in Greek on LBRY - Click Here&lt;/a>&lt;/p>
+&lt;/li>
 &lt;/ul></content></item><item><title>Naught Coin - Ethernaut</title><link>/blockchain_writeups/naught-coin/</link><pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate><guid>/blockchain_writeups/naught-coin/</guid><description>So now we have the challenge &amp;ldquo;Naught Coin&amp;rdquo;. Naught Coin is an ERC20 token and we are already holding all of them. The catch is that we will only be able to transfer them after a 10 year lockout period. Can we figure out how to get them out to another address so that we can transfer them freely? So, we have NaughtCoins locked for a 10 year period. We have to unlock them and then, get them to an another address.</description><content>&lt;p>So now we have the challenge &amp;ldquo;Naught Coin&amp;rdquo;. Naught Coin is an ERC20 token and we are already holding all of them.
 The catch is that we will only be able to transfer them after a 10 year lockout period. Can we figure out how to get them out to another address so that we can transfer them freely?
 So, we have NaughtCoins locked for a 10 year period. We have to unlock them and then, get them to an another address. Let&amp;rsquo;s check the code&lt;/p>
