@@ -2275,10 +2275,12 @@ The &amp;ldquo;withdraw&amp;rdquo; function can help us with that which can be e
 &lt;p>If you want to learn more about Smart Contract Security, please check our paper and eCourses:&lt;/p>
 &lt;h2 id="smart-contract-security">Smart-Contract Security:&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="https://github.com/sv1sjp/eVoting_Elections_Decentralized_App/blob/main/smartcontract_security_paper.pdf">Smart Contract Security: Dimitris Vagiakakakos, Stavros Gkinos, Ioannis Karvelas&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;ul>
-&lt;li>&lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzLcMxI9cRNSzOtdR0xvXB7">Smart Contract Security - Educational YouTube Series in Greek - Click Here&lt;/a>&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzLcMxI9cRNSzOtdR0xvXB7">Smart Contract Security - Educational eLearning Series in Greek on YouTube - Click Here&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://odysee.com/@TuxHouse:1/Ethereum-Hacking-Series-%28Greek%29:b?r=D1QgYeP81GoKPkW5T1jP96zxGA4GMfho&amp;amp;lid=b0b540e62d96ed2811b776519fc460617e4c40747">Smart Contract Security - Educational eLearning Series in Greek on LBRY - Click Here&lt;/a>&lt;/p>
+&lt;/li>
 &lt;/ul></content></item><item><title/><link>/blockchain_camera/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/blockchain_camera/</guid><description>Ethereum Blockchain Camera Turn your Raspberry Pi into an Ethereum-based Blockchain Camera! Powered by Solidity and Python3. Blockchain Camera provides an easy and safe way to capture and guarantee the existence of videos reducing the impact of modified videos as it can preserve the integrity and validity of videos using Blockchain Technology. Blockchain Camera sends to Ethereum Network the hash of each video and the time the video has been recorded in order to be able validate that a video is genuine and hasn&amp;rsquo;t been modified using a Blockchain Camera Validation Tool.</description><content>&lt;h1 id="ethereum-blockchain-camera">Ethereum Blockchain Camera&lt;/h1>
 &lt;h2 id="turn-your-raspberry-pi-into-an-ethereum-based-blockchain-camera-powered-by-solidity-and-python3">Turn your Raspberry Pi into an Ethereum-based Blockchain Camera! Powered by Solidity and Python3.&lt;/h2>
 &lt;hr>
