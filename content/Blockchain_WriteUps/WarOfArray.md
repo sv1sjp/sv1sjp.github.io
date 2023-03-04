@@ -1,5 +1,4 @@
 
-----
 +++
 title = "War Of Array"
 date = "2023-03-04"
