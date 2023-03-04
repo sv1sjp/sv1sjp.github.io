@@ -2168,10 +2168,12 @@ Upon reading the source code of the transferFrom function, it appears that it al
 &lt;p>If you want to learn more about Smart Contract Security, please check our paper and eCourses:&lt;/p>
 &lt;h2 id="smart-contract-security">Smart-Contract Security:&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="https://github.com/sv1sjp/eVoting_Elections_Decentralized_App/blob/main/smartcontract_security_paper.pdf">Smart Contract Security: Dimitris Vagiakakakos, Stavros Gkinos, Ioannis Karvelas&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;ul>
-&lt;li>&lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzLcMxI9cRNSzOtdR0xvXB7">Smart Contract Security - Educational YouTube Series in Greek - Click Here&lt;/a>&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzLcMxI9cRNSzOtdR0xvXB7">Smart Contract Security - Educational eLearning Series in Greek on YouTube - Click Here&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://odysee.com/@TuxHouse:1/Ethereum-Hacking-Series-%28Greek%29:b?r=D1QgYeP81GoKPkW5T1jP96zxGA4GMfho&amp;amp;lid=b0b540e62d96ed2811b776519fc460617e4c40747">Smart Contract Security - Educational eLearning Series in Greek on LBRY - Click Here&lt;/a>&lt;/p>
+&lt;/li>
 &lt;/ul></content></item><item><title>Force - Ethernaut</title><link>/blockchain_writeups/force/</link><pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate><guid>/blockchain_writeups/force/</guid><description>We have an empty smart-contract without any functions, constructor or even Fallback Function. Our goal is to send some Ether to it.
 Ethereum smart-contracts typically they have 3 ways to receive ether from an another address.
 // SPDX-License-Identifier: MIT pragma solidity ^0.6.0; contract Force {/* MEOW ? /\_/\ / ____/ o o \ /~____ =ø= / (______)__m_m) */} As we have already mentioned, by using a payable function. We don&amp;rsquo;t have any kind of function on this smart-contract so we cannot use this way.</description><content>&lt;p>We have an empty smart-contract without any functions, constructor or even Fallback Function. Our goal is to send some Ether to it.&lt;/p>
