@@ -2210,10 +2210,12 @@ Noticeably, when we use the selfdestruct() function and we send the amount of et
 &lt;p>If you want to learn more about Smart Contract Security, please check our paper and eCourses:&lt;/p>
 &lt;h2 id="smart-contract-security">Smart-Contract Security:&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="https://github.com/sv1sjp/eVoting_Elections_Decentralized_App/blob/main/smartcontract_security_paper.pdf">Smart Contract Security: Dimitris Vagiakakakos, Stavros Gkinos, Ioannis Karvelas&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;ul>
-&lt;li>&lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzLcMxI9cRNSzOtdR0xvXB7">Smart Contract Security - Educational YouTube Series in Greek - Click Here&lt;/a>&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzLcMxI9cRNSzOtdR0xvXB7">Smart Contract Security - Educational eLearning Series in Greek on YouTube - Click Here&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://odysee.com/@TuxHouse:1/Ethereum-Hacking-Series-%28Greek%29:b?r=D1QgYeP81GoKPkW5T1jP96zxGA4GMfho&amp;amp;lid=b0b540e62d96ed2811b776519fc460617e4c40747">Smart Contract Security - Educational eLearning Series in Greek on LBRY - Click Here&lt;/a>&lt;/p>
+&lt;/li>
 &lt;/ul></content></item><item><title>Fallback - Ethernaut</title><link>/blockchain_writeups/fallback/</link><pubDate>Sun, 19 Dec 2021 00:00:00 +0000</pubDate><guid>/blockchain_writeups/fallback/</guid><description>We have the smart-contract Fallback and we are requested to claim the ownership of the contract, and then reduce it&amp;rsquo;s balance to 0. At first, let&amp;rsquo;s read the smart contract&amp;rsquo;s code and search if something interesting is going on there:
 // SPDX-License-Identifier: MIT pragma solidity ^0.6.0; import &amp;#39;@openzeppelin/contracts/math/SafeMath.sol&amp;#39;; contract Fallback { using SafeMath for uint256; mapping(address =&amp;gt; uint) public contributions; address payable public owner; constructor() public { owner = msg.sender; contributions[msg.</description><content>&lt;p>We have the smart-contract Fallback and we are requested to claim the ownership of the contract, and then reduce it&amp;rsquo;s balance to 0.
 At first, let&amp;rsquo;s read the smart contract&amp;rsquo;s code and search if something interesting is going on there:&lt;/p>
