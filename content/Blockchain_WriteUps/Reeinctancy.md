@@ -1,7 +1,7 @@
 +++
 title = "Reeintrancy - Ethernaut"
 date = "2022-02-01"
-author = "DimitrisV && Stavros Gkinos"
+author = "Dimitris Vagiakakos && Stavros Gkinos"
 +++
 On this challenge, we will learn how the infamous DAO occured and how to prevent such an incident to occur again. Ethereum splitted into two Blockchains, Ethereum and Ethereum Classic because of a DAO Attack.
 So we have this smart-contract and we have to withdraw all of it's ether:
@@ -92,7 +92,7 @@ There are multiple ways to protect your smart-contract in order to prevent issue
 If you want to learn more about Smart Contract Security, please check our paper and eCourses:
 ## Smart-Contract Security:
 
-- [Smart Contract Security: Dimitris Vagiakakakos, Stavros Gkinos, Ioannis Karvelas](https://github.com/sv1sjp/eVoting_Elections_Decentralized_App/blob/main/smartcontract_security_paper.pdf)
+* [Smart Contract Security - Educational eLearning Series in Greek on YouTube - Click Here](https://www.youtube.com/playlist?list=PLZa7COjIxKWzLcMxI9cRNSzOtdR0xvXB7)
 
 
-* [Smart Contract Security - Educational YouTube Series in Greek - Click Here](https://www.youtube.com/playlist?list=PLZa7COjIxKWzLcMxI9cRNSzOtdR0xvXB7)
+* [Smart Contract Security - Educational eLearning Series in Greek on LBRY - Click Here](https://odysee.com/@TuxHouse:1/Ethereum-Hacking-Series-%28Greek%29:b?r=D1QgYeP81GoKPkW5T1jP96zxGA4GMfho&lid=b0b540e62d96ed2811b776519fc460617e4c40747)
