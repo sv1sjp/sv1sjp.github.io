@@ -1857,10 +1857,12 @@ From this challenge, we learnt that we can send Ethers to a deterministic addres
 &lt;p>If you want to learn more about Smart Contract Security, please check our paper and eCourses:&lt;/p>
 &lt;h2 id="smart-contract-security">Smart-Contract Security:&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="https://github.com/sv1sjp/eVoting_Elections_Decentralized_App/blob/main/smartcontract_security_paper.pdf">Smart Contract Security: Dimitris Vagiakakakos, Stavros Gkinos, Ioannis Karvelas&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;ul>
-&lt;li>&lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzLcMxI9cRNSzOtdR0xvXB7">Smart Contract Security - Educational YouTube Series in Greek - Click Here&lt;/a>&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzLcMxI9cRNSzOtdR0xvXB7">Smart Contract Security - Educational eLearning Series in Greek on YouTube - Click Here&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://odysee.com/@TuxHouse:1/Ethereum-Hacking-Series-%28Greek%29:b?r=D1QgYeP81GoKPkW5T1jP96zxGA4GMfho&amp;amp;lid=b0b540e62d96ed2811b776519fc460617e4c40747">Smart Contract Security - Educational eLearning Series in Greek on LBRY - Click Here&lt;/a>&lt;/p>
+&lt;/li>
 &lt;/ul></content></item><item><title>Privacy - Ethernaut</title><link>/blockchain_writeups/privacy/</link><pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate><guid>/blockchain_writeups/privacy/</guid><description>On this challenge, we have to unlock a vault again, but this is a more advanced one.
 // SPDX-License-Identifier: MIT pragma solidity ^0.6.0; contract Privacy { bool public locked = true; uint256 public ID = block.timestamp; uint8 private flattening = 10; uint8 private denomination = 255; uint16 private awkwardness = uint16(now); bytes32[3] private data; constructor(bytes32[3] memory _data) public { data = _data; } function unlock(bytes16 _key) public { require(_key == bytes16(data[2])); locked = false; } /* A bunch of super advanced solidity algorithms.</description><content>&lt;p>On this challenge, we have to unlock a vault again, but this is a more advanced one.&lt;/p>
 &lt;pre tabindex="0">&lt;code>// SPDX-License-Identifier: MIT
