@@ -1,4 +1,49 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DimitrisV SV1SJP</title><link>/</link><description>Recent content on DimitrisV SV1SJP</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>TuxHouse - Dimitris LinuxOS - 2011-2023</copyright><lastBuildDate>Fri, 11 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>./welcome.sh</title><link>/posts/hello/</link><pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate><guid>/posts/hello/</guid><description>Hello stranger, My name is DimitrisV SV1SJP, I am from Greece,EU and this is my small website. On this website I will organise all the educational stuff I have created in both Greek and English. This is the very first release so expect bugs and glitches.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DimitrisV SV1SJP</title><link>/</link><description>Recent content on DimitrisV SV1SJP</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>TuxHouse - Dimitris LinuxOS - 2011-2023</copyright><lastBuildDate>Sat, 04 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>War Of Array</title><link>/blockchain_writeups/warofarray/</link><pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate><guid>/blockchain_writeups/warofarray/</guid><description>On this challenge, we have the smart-contract WarOfArray and we are requested to claim the ownership of the contract, and then add 2 numbers on the &amp;ldquo;myArray&amp;rdquo; array. Using Remix IDE from remix.ethereum.org is recommended on this challenge.
+// SPDX-License-Identifier: GPL-3.0-or-later pragma solidity 0.8.18; contract WarOfArray { uint[] public myArray; address public owner; constructor() { owner = address(0x1234567890123456789012345678901234567890); } function addToMyArray(uint _value) public { require(msg.sender == owner, &amp;#34;Only the contract owner can add to the array&amp;#34;); myArray.</description><content>&lt;p>On this challenge, we have the smart-contract WarOfArray and we are requested to claim the ownership of the contract, and then add 2 numbers on the &amp;ldquo;myArray&amp;rdquo; array.
+Using Remix IDE from remix.ethereum.org is recommended on this challenge.&lt;/p>
+&lt;pre tabindex="0">&lt;code>// SPDX-License-Identifier: GPL-3.0-or-later
+pragma solidity 0.8.18;
+contract WarOfArray {
+uint[] public myArray;
+address public owner;
+constructor() {
+owner = address(0x1234567890123456789012345678901234567890);
+}
+function addToMyArray(uint _value) public {
+require(msg.sender == owner, &amp;#34;Only the contract owner can add to the array&amp;#34;);
+myArray.push(_value);
+}
+function isOwner() public view returns (bool) {
+return (msg.sender == owner);
+}
+function hasTwoElements() public view returns (bool) {
+require(msg.sender == owner, &amp;#34;Only the contract owner can check the array length&amp;#34;);
+return (myArray.length &amp;gt;= 2);
+}
+function changeOwnership(address newOwner) public {
+owner = newOwner;
+}
+}
+&lt;/code>&lt;/pre>&lt;hr>
+&lt;h3 id="how-to-deploy-warofarray">How to deploy WarOfArray?&lt;/h3>
+&lt;p>Paste this smart-contract as a new contract to Remix IDE with the name WarOfArray. Then, on the third tab, click compile and then, in the fourth tab, click deploy in any testnet or directly via browser.&lt;/p>
+&lt;p>Remix, is the official online IDE provided by Ethereum.org and it is used to create and deploy Ethereum smart contracts using Solidity programming language. It is one of the tools that helped us to deploy our attacks to other smart-contracts or to call contract functions. It has several built-in Solidity compiler versions andit runs through the web browser. Furthermore, it is used to provide a connection with Web3.js to interact with wallets like Metamask in Ethereum Mainet or Testnets.&lt;/p>
+&lt;hr>
+&lt;p>First of all, let&amp;rsquo;s talk about the constructor. Constructor is an optional function and is used to initialize state variables of a contract. State variables are variables whose values are permanently stored in smart-contract&amp;rsquo;s storage. We have to mention here that each contract can have only one constructor. A constructor code is executed once when a contract is created and it is used to initialize contract state. After a constructor code executed, the final code is deployed to blockchain.
+On this smart-contract, constructor sets a specific address as the owner of this smart-contract.
+Furthermore, we can see an array and some functions. However, in order to call them. being the owner is required. But not all of those.&lt;/p>
+&lt;p>Unfortunately, the developer of this smart-contract created by mistake a function changeOwnership(address), which as it is public, everyone can call it and then gain ownership. Using Remix IDE, we can very easily, copy our wallet&amp;rsquo;s public address and then paste it on the changeOwnership() field and then press the button.&lt;/p>
+&lt;p>Then, we call the function isOwner() by clicking the button from Remix, and this time, it returns &amp;ldquo;TRUE&amp;rdquo;. Now we own this smart-contract.&lt;/p>
+&lt;p>As we own the smart-contract right now, we can call any function which requires ownership (msg.sender == owner). So all we have to do now is just add 2 numbers on the array by calling the function &amp;ldquo;addToArray()&amp;rdquo;.&lt;/p>
+&lt;p>Then, we call the function &amp;ldquo;hasTwoElements(): and it returns &amp;ldquo;TRUE&amp;rdquo; and we have successfully finished the challenge.&lt;/p>
+&lt;p>This challenge was a pretty easy one, however it is a nice motivation to try to use Remix IDE to audit and exploit vulnerabilites in smart-contracts.&lt;/p>
+&lt;hr>
+&lt;p>If you want to learn more about Smart Contract Security, please check our paper and eCourses:&lt;/p>
+&lt;h2 id="smart-contract-security">Smart-Contract Security:&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzLcMxI9cRNSzOtdR0xvXB7">Smart Contract Security - Educational eLearning Series in Greek on YouTube - Click Here&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://odysee.com/@TuxHouse:1/Ethereum-Hacking-Series-%28Greek%29:b?r=D1QgYeP81GoKPkW5T1jP96zxGA4GMfho&amp;amp;lid=b0b540e62d96ed2811b776519fc460617e4c40747">Smart Contract Security - Educational eLearning Series in Greek on LBRY - Click Here&lt;/a>&lt;/li>
+&lt;/ul></content></item><item><title>./welcome.sh</title><link>/posts/hello/</link><pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate><guid>/posts/hello/</guid><description>Hello stranger, My name is DimitrisV SV1SJP, I am from Greece,EU and this is my small website. On this website I will organise all the educational stuff I have created in both Greek and English. This is the very first release so expect bugs and glitches.
 Wishing you the best,
 Dimitris Vagiakakos dimitrislinuxos@protonmail.ch</description><content>&lt;p>Hello stranger,
 My name is DimitrisV SV1SJP, I am from Greece,EU and this is my small website. On this website I will organise all the educational stuff I have created in both Greek and English.
