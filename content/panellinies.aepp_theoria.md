@@ -48,12 +48,18 @@ _____________________________________________________________
 TuxHouse is an Educational community which aims to teach people about Linux, Blockchain, Android && Cybersecurity using the new technologies and trends. Stay tuned for more educational content.
 
 Feel free to contact me in any social media as: @TuxHouse && @sv1sjp 
+
 Let's educate the world!
 _____________________________________________________________
 YouTube: https://www.youtube.com/@TuxHouseEdu
+
 TikTok: https://www.tiktok.com/@tuxhouse
+
 Instagram: https://www.instagram.com/tuxhouseedu
+
 LBRY: https://odysee.com/@TuxHouse:1
+
 Twitter: https://twitter.com/TuxHouseEdu
+
 
 ![](/img/tuxhouse_logo_with_name.png)
