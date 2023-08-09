@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Greek_Articles on DimitrisV SV1SJP</title><link>/greek_articles/</link><description>Recent content in Greek_Articles on DimitrisV SV1SJP</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>TuxHouse - Dimitris LinuxOS - 2011-2023</copyright><lastBuildDate>Wed, 28 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="/greek_articles/index.xml" rel="self" type="application/rss+xml"/><item><title>Τέλος το Reddit; Καλώς Ορίσατε στο Lemmy</title><link>/greek_articles/lemmy/</link><pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate><guid>/greek_articles/lemmy/</guid><description>Σημαντική Ανακοίνωση: Το παρών άρθρο έχει δημοσιτευτεί επίσημα στο Linux-User.gr και διατηρείται εδώ για καθαρά λόγους αρχειοθέτησης.
+Αφού αναφέραμε τι συμβαίνει με τους εκβιασμούς του Reddit σε moderators από όσα subreddits έγιναν private τις ημέρες τις διαμαρτυρίας, ήρθε η ώρα να αναφερθούμε στην επόμενη ημέρα.
+Σήμερα 30/06/2023 είναι η τελευταία ημέρα που δουλεύουν μαζικά όλες οι third party εφαρμογές. Από 01/07/2023, οι χρήστες του Reddit θα πρέπει να κατεβάσουν είτε την επίσημη εφαρμογή του Reddit με τους γνωστούς της περιορισμούς, είτε να κάνουν compile χειροκίνητα με δικά τους API keys τις εφαρμογές που θέλουν να χρησιμοποιήσουν.</description><content>&lt;p>&lt;a href="https://linux-user.gr/t/telos-to-reddit-kalws-orisate-sto-lemmy/4988">Σημαντική Ανακοίνωση: Το παρών άρθρο έχει δημοσιτευτεί επίσημα στο Linux-User.gr και διατηρείται εδώ για καθαρά λόγους αρχειοθέτησης.&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://linux-user.gr/uploads/default/optimized/2X/d/d433e17b9a0d3659dbc57015a23e1b57605c744d_2_690x454.jpeg" alt="">&lt;/p>
+&lt;p>&lt;a href="https://linux-user.gr/t/to-reddit-kai-to-linux-user-gr/4985">Αφού αναφέραμε τι συμβαίνει με τους εκβιασμούς του Reddit σε moderators από όσα subreddits έγιναν private τις ημέρες τις διαμαρτυρίας&lt;/a>, ήρθε η ώρα να αναφερθούμε στην επόμενη ημέρα.&lt;/p>
+&lt;p>Σήμερα 30/06/2023 είναι η τελευταία ημέρα που δουλεύουν μαζικά όλες οι third party εφαρμογές. Από 01/07/2023, οι χρήστες του Reddit θα πρέπει να κατεβάσουν είτε την επίσημη εφαρμογή του Reddit με τους γνωστούς της περιορισμούς, είτε να κάνουν compile χειροκίνητα με δικά τους API keys τις εφαρμογές που θέλουν να χρησιμοποιήσουν.&lt;/p>
+&lt;h2 id="στα-σημαντικά-της-πληροφορίας">Στα σημαντικά της πληροφορίας:&lt;/h2>
+&lt;p>Μέσα στα πλαίσια της διαμαρτυρίας, το Lemmy, ένα αποκεντρωμένο link aggregator που μοιάζει αρκετά με το Reddit και είναι συνδεδεμένο με το Mastodon στο Fediverse, απέκτησε μεγάλη φήμη. Γρήγορα, πάρα πολλά subreddits άρχισαν και μετακινόντουσαν εκεί ως νέα communities ενώ παράλληλα μετέφεραν μαζί και το περιεχόμενο τους. Το Linux-User.gr βρίσκεται μέσα σε αυτά, και δημιούργησε τον δικό του χώρο στην ομοσπονδία του Lemmy ως &lt;a href="https://lemmy.world/c/linuxuser_gr">&lt;strong>linuxuser_gr@lemmy.world&lt;/strong>&lt;/a> .&lt;/p>
+&lt;p>Στα παρακάτω κεφάλαια θα παρουσιάσουμε συνοπτικά το Lemmy καθώς θα δούμε και πώς δουλεύει. Ο οδηγός στοχεύει για χρήση από το ευρύ Ελληνικό κοινό, συνεπώς θα αποφύγω να εμβαθύνω σε πολές λεπτομέρειες.&lt;/p>
+&lt;h2 id="πώς-δουλεύει-το-lemmy">Πώς δουλεύει το Lemmy;&lt;/h2>
+&lt;p>Το Lemmy αποτελείται πρακτικά από μία ομοσπονδία από servers (ή αλλιώς instances), οι οποίοι τρέχουν τις δικές τους εκδόσεις του Lemmy τοπικά (locally). Κάθε server έχει το δικό του όνομα (ενδεικτικά &lt;a href="https://lemmy.world">lemmy.world&lt;/a>, &lt;a href="https://sh.itjust.works">sh.itjust.works&lt;/a> , &lt;a href="https://feddit.de">feddit.de&lt;/a> , &lt;a href="https://lemm.ee">lemm.ee&lt;/a> , &lt;a href="https://programming.dev">programming.dev&lt;/a> , &lt;a href="https://social.fossware.space/">FOSSware&lt;/a> κ.α.) Κάθε server από αυτούς αποτελείται από τα δικά του μέλη, τις δικές του κοινότητες (communities), αλλά και τους δικούς του κανόνες.&lt;/p>
+&lt;p>Μέχρι εδώ θα μπορούσε κανείς να πει ότι το concept μοιάζει σαν το &lt;a href="https://www.discourse.org/">Discourse&lt;/a>, το ανοικτού κώδικα δηλαδή φόρουμ που χρησιμοποιούμαι και στο Linux-User.gr .&lt;/p>
+&lt;h2 id="η-ώρα-της-ομοσπονδίας">Η ώρα της Ομοσπονδίας:&lt;/h2>
+&lt;p>Το Lemmy εκτός από αυτά που προαναφέρθηκαν, προσφέρει μία ακόμη σημαντικότατη πινελιά, που το κάνει απίστευτα σημαντικό. Την δημιουργία ομοσπονδιών.&lt;/p>
+&lt;p>Δηλαδή, οι διάφοροι servers που τρέχουν τις δικές τους εκδόσεις του Lemmy, μπορούν αν το αποφασίσουν, να συνδεθούν μεταξύ τους, και έτσι με αυτό τον τρόπο, όλοι οι χρήστες εκείνων των συνδεδεμένων servers, να μπορούν να επικοινωνούν μεταξύ τους, να έχουν πρόσβαση στα communities ο ένας του άλλου κτλπ. Συνεπώς, κατασκευάζεται ένα δίκτυο με πάρα πολλά instances, οπού όλα επικοινωνούν μεταξύ τους (εφόσων το επιθυμούν οι διαχειριστές του κάθε Lemmy server).&lt;/p>
+&lt;p>Ο κάθε Lemmy server administrator μπορεί να διαλέξει με ποιούς servers θέλει να συνδεθεί ως ομοσπονδία.&lt;/p>
+&lt;h2 id="η-δομή-ενός-community">Η Δομή ενός Community:&lt;/h2>
+&lt;p>&lt;code>Όνομα_Κοινότητας@Server_Οπού_Βρίσκεται &lt;/code>&lt;/p>
+&lt;p>Και έτσι ώς παράδειγμα, το community: &lt;code>linuxuser_gr@lemmy.world&lt;/code> , καταλαβαίνουμε πώς βρίσκεται στον server &lt;a href="https://lemmy.world">lemmy.world&lt;/a>.&lt;/p>
+&lt;p>Αντίστοιχα ισχυει και για τους χρήστες. Για παράδειγμα, εγώ είμαι ο &lt;a href="https://lemmy.world/u/sv1sjp">sv1sjp@lemmy.world&lt;/a> .
+Η δομή των χρηστών είναι:
+&lt;code>Όνομα_Χρήστη@Server_Οπού_Βρίσκεται &lt;/code>&lt;/p>
+&lt;p>Το &lt;a href="https://lemmy.world">lemmy.world&lt;/a> αποτελεί τον μεγαλύτερο και διασημότερο generic Lemmy instance, με πάνω από 11 χιλιάδες χρήστες. Το lemmy.world είναι ενωμένο ως ομοσπονδία με τα περισσότερα δίκτυα Lemmy εκεί έξω, συνεπώς για να συμμετέχετε στο &lt;a href="mailto:linuxuser_gr@lemmy.world">linuxuser_gr@lemmy.world&lt;/a> , μπορείτε να δημιουργήσετε λογαριασμό σε όποιο instance σας αρέσει. Δεν έχει ιδιαίτερο νόημαη επιλογή ποιού από τα παραπάνω που ανάφερα δηλαδή, για να σας προβληματίζει. Όλοι επικοινωνούν με όλους! Μπορείτε επίσης να είστε και moderators από διαφορετικούς servers στο ίδιο community.&lt;/p>
+&lt;p>Εδώ θα βρείτε την λίστα με όλα τα Lemmy instances που τρέχουν (γνωστά) αυτή την στιγμή. Όσα αναγράφουν &amp;ldquo;Yes&amp;rdquo; στο Fed, σημαίνει ότι είναι ενωμένα μεταξύ τους:&lt;/p>
+&lt;p>&lt;a href="https://github.com/maltfield/awesome-lemmy-instances">https://github.com/maltfield/awesome-lemmy-instances&lt;/a>&lt;/p>
+&lt;h3 id="δεν-μου-εμφανίζεται-το-linux-usergr-ή-κάποια-άλλη-κοινότητα-στο-lemmy-server-που-επέλεξα">Δεν μου εμφανίζεται το Linux-User.gr ή κάποια άλλη κοινότητα στο Lemmy server που επέλεξα;&lt;/h3>
+&lt;p>Σε αυτό το σημείο πρέπει να ανφερθεί ότι παρόλο που οι servers είναι ενωμένοι, &lt;strong>δεν&lt;/strong> συγχρονίζουν αυτόματα &lt;strong>όλες&lt;/strong> τις κοινότητες, αν δεν υπάρξει η ζήτηση από &lt;strong>τουλάχιστον&lt;/strong> 1 άτομο του server.&lt;/p>
+&lt;h3 id="και-πότε-συγχρονίζεται-μία-κοινότητα">Και πότε συγχρονίζεται μία κοινότητα;&lt;/h3>
+&lt;p>Μία κοινότητα συγχρονίζεται όταν κάποιος χρήστης της για πρώτη φορά γράψει το &lt;code>community@server&lt;/code> (π.χ. &lt;a href="mailto:linuxuser_gr@lemmy.world">linuxuser_gr@lemmy.world&lt;/a>) στην αναζήτηση του Lemmy instance οπού βρίσκεται, είτε κάνει copy-paste το link του server μαζί με το link του community (π.χ. στην περίπτωση μας: &lt;a href="https://lemmy.world/c/linuxuser_gr)">https://lemmy.world/c/linuxuser_gr)&lt;/a>. Από εκεί και πέρα, μόλις ο χρήστης πατήσει subscribe, οι 2 σέρβερς αυτοί &lt;strong>αυτόματα&lt;/strong> θα συγχρονίζουν όλο το περιεχόμενο που βρίσκεται σε αυτή την κοινότητα. Τόσο απλά.&lt;/p>
+&lt;h2 id="είναι-τόσο-δύσκολο-όσο-φάινεται">Είναι τόσο δύσκολο όσο φάινεται;&lt;/h2>
+&lt;p>Το Lemmy παρόλο που υπάρχει από το 2019, πήρε απότομα δημοσιότητα με την διαμαρτυρία κατά του Reddit. Συνεπώς, το scalability παραμένει θέμα και μιας και πλέον υπάρχουν χιλιάδες χρήστες ενεργοί ταυτόχρονα, παρατηρούνται διάφορα bugs. Σε γενικές γραμμές όμως, όλα δουλεύουν μία χαρά, και το σίγουρο είναι ότι όσο μεγαλώνει η κοινότητα, τόσο περισσότερος κόσμος θα βοηθάει στο να επιλυθούν τα διάφορα bugs, μετάφραση σε διαφορετικές γλώσσες και φυσικά Android &amp;amp;&amp;amp; iOS εφαρμογές.
+Επιπλέον αξίζει να επισημαθεί, ότι το Mastodon έχει κανονική επικοινωνία με το Lemmy μιας και τα 2 βρίσκονται στο Fediverse και συνεπώς μπορείτε να ψάξετε posts μέσα από αυτό.&lt;/p>
+&lt;h2 id="faq">FAQ:&lt;/h2>
+&lt;p>Αφού παρουσιάσαμε διάφορα βασικά χαρακτηριστικά του Lemmy, ας δούμε τώρα κάποιες συχνές ερωτήσεις/απαντήσεις για ευκολότερη μετάβαση.&lt;/p>
+&lt;h3 id="χρειάζεται-να-φτιάξω-περισσότερο-από-έναν-λογαριασμό-στο-lemmy">Χρειάζεται να φτιάξω περισσότερο από έναν λογαριασμό στο Lemmy;&lt;/h3>
+&lt;ul>
+&lt;li>Όχι. Όσο τα communities που χρησιμοποείς βρίσκονται στην ίδια ομοσπονδία, ένας λογαριασμός επαρκεί για να επικοινωνείς με όλα.&lt;/li>
+&lt;/ul>
+&lt;h3 id="υπάρχουν-δηλαδή-και-ανεξάρτητα-lemmy-instances-που-δεν-αποτελούν-μέλος-της-ομοσπονδίας">Υπάρχουν δηλαδή και ανεξάρτητα Lemmy instances που δεν αποτελούν μέλος της ομοσπονδίας;&lt;/h3>
+&lt;ul>
+&lt;li>Ναι. Το &lt;a href="https://beehaw.org">beehaw.org&lt;/a> έκανε defederate λίγες ημέρες πριν σε προσπάθεια να μειώσει το spam και να χτίσει έναν ανεξάρτητο Lemmy instance με μεγαλύτερη ασφάλεια. Αντίθετα, ο server Exploding Heads, έγινε defederate από το lemmy.world, διότι οι administrators τους &lt;a href="https://lemmy.world/post/747912">κακοποιούσαν λεκτικά τυχαίους ανθρώπους στο διαδίκτυο.&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="μπορώ-να-σηκώσω-τον-δικό-μου-server-στο-lemmy-και-να-γίνω-ο-user-mhtsosiusearchbtw-">Μπορώ να σηκώσω τον δικό μου server στο Lemmy και να γίνω ο user &lt;a href="mailto:mhtsos@iusearch.btw">mhtsos@iusearch.btw&lt;/a> ?&lt;/h3>
+&lt;ul>
+&lt;li>Φυσικά. Μπορείς εύκολα με το docker image τους να σηκώσεις τον δικό σου σέρβερ και να γίνεις ομοσπονδία με τους σέρβερ που επιθυμείς εσύ.&lt;/li>
+&lt;/ul>
+&lt;h3 id="προτεινόμενη-android-εφαρμογή-για-lemmy">Προτεινόμενη Android εφαρμογή για Lemmy;&lt;/h3>
+&lt;ul>
+&lt;li>Για όσους servers τρέχουν 0.18 έκδοση του Lemmy, προτείνεται το &lt;a href="https://f-droid.org/packages/com.jerboa/">Jerboa for Lemmy&lt;/a> (διαθέσιμο και σε Google Play Store και σε F-Droid). Για servers που τρέχουν 0.17.4, θα χρειαστεί λίγη υπομονή ακόμα έτσι ώστε να αναβαθμιστούν :) .&lt;/li>
+&lt;/ul>
+&lt;h3 id="προτεινόμενη-εφαρμογή-για-ios">Προτεινόμενη εφαρμογή για iOS;&lt;/h3>
+&lt;ul>
+&lt;li>Προτείνεται η εφαρμογή: (SOON)&lt;/li>
+&lt;/ul>
+&lt;h3 id="υπάρχει-διαφορετικό-ui-ως-webapp-με-πιο-στυλ-iphone">Υπάρχει διαφορετικό UI ως webapp με πιο στυλ iPhone;&lt;/h3>
+&lt;ul>
+&lt;li>Φυσικά και δουλεύει με τα πάντα:
+&lt;a href="https://wefwef.app">https://wefwef.app&lt;/a>
+Μπορείτε να το κάνετε και selfhost στον server σας.&lt;/li>
+&lt;/ul>
+&lt;h3 id="άλλες-εφαρμογές-ακόμα-και-για-linux-συστήματα">Άλλες εφαρμογές, ακόμα και για LInux συστήματα;&lt;/h3>
+&lt;ul>
+&lt;li>Μπορείς να βρεις όλες τις διαθέσιμες εφαρμογές εδώ: &lt;a href="https://join-lemmy.org/apps">https://join-lemmy.org/apps&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;h3 id="μπορώ-να-φτιάξω-τις-δικές-μου-κοινότητες">Μπορώ να φτιάξω τις δικές μου κοινότητες;&lt;/h3>
+&lt;ul>
+&lt;li>Ναι αν το επιτρέπει ο server που γράφτηκες. Π.χ, ο lemmy.ml δεν επιτρέπει δημιουργία κοινοτήτων αυτή την περίοδο.&lt;/li>
+&lt;/ul>
+&lt;h3 id="μπορώ-να-φτιάξω-λογαριασμό-στο-lemmy-χωρίς-email">Μπορώ να φτιάξω λογαριασμό στο Lemmy χωρίς email?&lt;/h3>
+&lt;ul>
+&lt;li>Ναι, αν το επιτρέπει ο server που γράφτηκες.&lt;/li>
+&lt;/ul>
+&lt;h2 id="τα-δικαιώματα-αυτού-του-άρθρου">Τα Δικαιώματα αυτού του Άρθρου:&lt;/h2>
+&lt;p>Με στόχο την διάδοση του Lemmy, το άθρρο αυτό επιτρέπεται να δημοσιευτει στην ιστοσελίδα σας αυτούσιο, με την μόνη υποχρέωσή σας να εμφανίζομαι ως συντάκτης αλλά και το Linux-User.gr ως η πηγή για το άρθρο.&lt;/p>
+&lt;p>Σας περιμένουμε στο Lemmy!!!
+&lt;strong>Στα σχόλια μπορείτε να προσθέσετε ενδιαφέροντα Rooms του Lemmy ακόμα και να μην έχουν να κάνουν απαραίτητα με Πληροφορίκη.&lt;/strong>&lt;/p>
+&lt;p>&lt;img src="https://linux-user.gr/uploads/default/optimized/2X/a/a12bb9fcb6ce98fc67eef6e5d8729525f79269f1_2_248x500.jpeg" alt="">&lt;/p>
+&lt;h2 id="extra-info">Extra Info&lt;/h2>
+&lt;p>Αν δεν υπάρχει στόχος να δημιουργηθούν νέες κοινότητες, τότε συμφέρει να δημιουργούμε λογαριασμούς σε μικρότερα/διαφορετικά instances ώστε να είναι πιο balanced ο φόρτος εργασίας.&lt;/p>
+&lt;p>Από όλα τα instances οπού είναι σε ομοσπονδία, βλέπετε όλοι το ίδιο υλικό.
+Το Lemmy.world πήγε από 11.000 χρήστες στους 70.000+ σε 14 ώρες περίπου. Κλάταρε από το traffic.&lt;/p>
+&lt;p>Όλα τα instances που αναφέρω στο άρθρο είναι δοκιμασμένα, δουλεύουν σωστά και τα υποστηρίζουν αξιόλογοι άνθρωποι ή εταιρείες (π.χ. το Ubuntu μετανάστευσε στο FOSSwave.&lt;/p>
+&lt;p>Σε άλλα νέα, μόλις έκανα τις τελικές αλλαγές στην Ελληνική Μετάφραση στο Jerboa (Android app for Lemmy), και επίσημα έχουμε και Ελληνικά από την επόμενη έκδοση της εφαρμογής.&lt;/p></content></item><item><title>Self-Hosted SMTP Server για δοκιμές με emails</title><link>/greek_articles/mailhog/</link><pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate><guid>/greek_articles/mailhog/</guid><description>Σημαντική Ανακοίνωση: Το παρών άρθρο έχει δημοσιτευτεί επίσημα στο Linux-User.gr και διατηρείται εδώ για καθαρά λόγους αρχειοθέτησης.
+Στην προσπάθεια μου να διοργανώσω ένα Security Awareness Campaign, χρειάστηκα να δοκιμάσω αποστολές μαζικών email σε ένα λογισμικό που φτιάξαμε.
+Το θέμα είναι ότι αφού προσωπικά το χρειαζόμουν για να το δοκιμάσω τοπικά, πριν γίνει deploy εκεί οπού έπρεπε, ήθελα να δοκιμάσω ότι η υποδομή λειτουργεί και στέλνει κανονικά email.
+Και εκεί βρήκα το Mailhog το οποίο μου έλυσε τα χέρια.</description><content>&lt;p>&lt;a href="https://linux-user.gr/t/self-hosted-smtp-server-gia-dokimes-me-emails/4920/5">Σημαντική Ανακοίνωση: Το παρών άρθρο έχει δημοσιτευτεί επίσημα στο Linux-User.gr και διατηρείται εδώ για καθαρά λόγους αρχειοθέτησης.&lt;/a>&lt;/p>
+&lt;p>Στην προσπάθεια μου να διοργανώσω ένα Security Awareness Campaign, χρειάστηκα να δοκιμάσω αποστολές μαζικών email σε ένα λογισμικό που φτιάξαμε.&lt;/p>
+&lt;p>Το θέμα είναι ότι αφού προσωπικά το χρειαζόμουν για να το δοκιμάσω τοπικά, πριν γίνει deploy εκεί οπού έπρεπε, ήθελα να δοκιμάσω ότι η υποδομή λειτουργεί και στέλνει κανονικά email.&lt;/p>
+&lt;p>Και εκεί βρήκα το &lt;a href="https://github.com/mailhog/MailHog">Mailhog&lt;/a> το οποίο μου έλυσε τα χέρια.&lt;/p>
+&lt;p>Το MaiHog τρέχει σε Go και είναι εξαιρετικά απλό στην χρήση ώστε να έχουμε έναν basic smtp server για δοκιμαστικούς σκοπούς στο σύστημα μας, ο οποίος μπορεί να λάβει emails από άλλες εφαρμογές.&lt;/p>
+&lt;h2 id="deploy-μέσω-docker">Deploy μέσω Docker:&lt;/h2>
+&lt;p>Πολύ εύκολα και απλά δίνουμε σε ένα τερματικό:&lt;/p>
+&lt;pre tabindex="0">&lt;code>docker run -d --name mailhog -p 1025:1025 -p 8025:8025 mailhog/mailhog
+&lt;/code>&lt;/pre>&lt;p>Και είμαστε έτοιμοι!! :slight_smile:&lt;/p>
+&lt;h2 id="web-client">Web Client&lt;/h2>
+&lt;p>Στην πόρτα 8025 μπορούμε να βρούμε ένα βασικό mail client ώστε να λαμβάνουμε τα τοπικά mail οπού στέλνονται:&lt;/p>
+&lt;p>&lt;img src="https://linux-user.gr/uploads/default/original/2X/c/cbb5d6389561223a2a1f3df23a31857bf6674845.png" alt="image|690x407">&lt;/p>
+&lt;h2 id="πώς-στέλνουμε-emails">Πώς στέλνουμε emails;&lt;/h2>
+&lt;p>Το MailHog θα εμφανίζει οποιοδήποτε mail (ανεξαρτήτου domain name - &lt;a href="mailto:dimitris@linux.gr">dimitris@linux.gr&lt;/a>, &lt;a href="mailto:michaeljackson@greece.eu">michaeljackson@greece.eu&lt;/a> , &lt;a href="mailto:fosscomm@earth.gov">fosscomm@earth.gov&lt;/a>) σταλθεί με &amp;ldquo;στόχο&amp;rdquo; την ΙΡ και πόρτα 1025 (π.χ. localhost:1025)&lt;/p>
+&lt;p>Σε αυτό το σημείο αξίζει να επισημανθεί ξανά πως η λογική του MailHog είναι καθαρά για development για δοκιμή αποστολής email και όχι για πραγματική χρήση σε περιβάλλοντα παραγωγής.&lt;/p></content></item><item><title>To Linux-User.gr στην FOSDEM 2023 στις Βρυξέλλες</title><link>/greek_articles/fossdem2023/</link><pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate><guid>/greek_articles/fossdem2023/</guid><description>Σημαντική Ανακοίνωση: Το παρών άρθρο έχει δημοσιτευτεί επίσημα στο Linux-User.gr και διατηρείται εδώ για καθαρά λόγους αρχειοθέτησης.
+To Linux-User.gr στην FOSDEM 2023 στις Βρυξέλλες, Bέλγιο Η FOSDEM αποτελεί το ετήσιο πανευρωπαϊκό συνέδριο ανοικτού λογισμικού που διοργανώνεται από το University libre de Bruxelles (UBL). Backstory: Μετά το ταξίδι μας στο Πανεπιστήμιο Θεσσαλίας για την FOSSCOMM2022, ο @kgiannakis είχε την ιδεά να παρεβρεθούμε στην FOSDEM 2023 έτσι ώστε να εξερευνήσουμε το Βέλγιο, αλλά και το πιο διάσημο πανευρωπαικό συνέδριο ανοικτού λογισμικού που θα πραγματοποιούταν για 23ο χρόνο.</description><content>&lt;p>&lt;a href="https://linux-user.gr/t/self-hosted-smtp-server-gia-dokimes-me-emails/4920/5">Σημαντική Ανακοίνωση: Το παρών άρθρο έχει δημοσιτευτεί επίσημα στο Linux-User.gr και διατηρείται εδώ για καθαρά λόγους αρχειοθέτησης.&lt;/a>&lt;/p>
+&lt;h1 id="to-linux-usergr-στην-fosdem-2023-στις-βρυξέλλες-bέλγιο">To Linux-User.gr στην FOSDEM 2023 στις Βρυξέλλες, Bέλγιο&lt;/h1>
+&lt;p>&lt;img src="upload://5xqp4hPmlL04xLKC7J0OetPTHY4.jpeg" alt="Screenshot_20230208-231629_Gallery|377x500, 75%">&lt;/p>
+&lt;p>Η FOSDEM αποτελεί το ετήσιο πανευρωπαϊκό συνέδριο ανοικτού λογισμικού που διοργανώνεται από το University libre de Bruxelles (UBL).
+&lt;img src="upload://hOEhot6zSFtLjcBNMyRiNAqGKtQ.png" alt="FOSDEM_logo|496x500, 50%">&lt;/p>
+&lt;h3 id="backstory">Backstory:&lt;/h3>
+&lt;p>Μετά το ταξίδι μας στο Πανεπιστήμιο Θεσσαλίας για την FOSSCOMM2022, ο @kgiannakis είχε την ιδεά να παρεβρεθούμε στην FOSDEM 2023 έτσι ώστε να εξερευνήσουμε το Βέλγιο, αλλά και το πιο διάσημο πανευρωπαικό συνέδριο ανοικτού λογισμικού που θα πραγματοποιούταν για 23ο χρόνο.&lt;/p>
+&lt;p>Έτσι λοιπόν, Τετάρτη 1 Φεβρουαρίου επιβιβαζόμαστε στο αεροπλάνο από Αθήνα για Σαρλερουά, προσγειωνόμαστε στο Βέλγιο. Έπειτα, ακολούθησε εξερεύνηση σε Βρυξέλλες και Βρύγη για 2 ημέρες. Την τρίτη ημέρα λοιπόν, επισκεπτόμαστε το Ελεύθερο Πανεπιστήμιο των Βρυξελλών, γεμάτοι ενθουσιασμό, για τα γεγονότα οπού θα ακολουθήσουν.&lt;/p>
+&lt;h3 id="ήρθε-η-ώρα-της-fosdem">Ήρθε η ώρα της FOSDEM:&lt;/h3>
+&lt;p>&lt;img src="upload://pi9sqbQl6qj4TGWpyuZ7WHaBcFv.jpeg" alt="Screenshot_20230208-231740_Gallery|405x500, 100%">&lt;/p>
+&lt;p>Το συνέδριο της FOSDEM 2023 ήταν πραγματικά τεράστιο! Πραγματοποιήθηκε το Σαββατοκύριακο στις 4 και 5 Φεβρουαρίου 2023. 6 ολόκληρα κτήρια στέγαζαν την φετινή FOSDEM. Δεκάδες αμφιθέατρα υπέρ-πλήρης με χιλιάδες άτομα, άπειρα stands από διάφορες εταιρείες. Όλοι ήταν εκεί!!&lt;/p>
+&lt;p>Πρώτα επισκεπτήκαμε το κτήριο &amp;ldquo;J&amp;rdquo;, στο οποίο υπήρχαν τα stands όπως αυτά του Ubuntu, του Fedora, αλλά και του OpenSUSE, το οποίο μάλιστα πρόσφερε και δικό του brand μπύρας.
+&lt;img src="upload://bzKrWMH8ebibo8S0wyBiTAofMmS.jpeg" alt="Screenshot_20230208-231903_Gallery|491x500">&lt;/p>
+&lt;p>Λίγο πιο δίπλα, βρισκόταν και το τραπεζάκι του AlmaLinux καθώς και το CentOS, οπού μοίραζε σκουφάκια και ποτήρια για καφέ.
+&lt;img src="upload://8QoLZTV91gWBubMyKzG9ZFnP6kG.jpeg" alt="signal-2023-02-08-14-11-06-026-6|666x500">&lt;/p>
+&lt;p>Προσωπικά, χρησιμοποίησα το σκουφάκι αυτό για να αποθηκεύσω τα εκατοντάδες αυτοκόλλητα που κυκλοφορούσαν από διάφορες εταιρείες και Projects στην FOSDEM, ήταν κάτι παραπάνω από χρήσιμος ομολογώ!&lt;/p>
+&lt;p>Επιπλέον, δεν μπορεί να μην αναφερθεί το stand του Gentoo Linux (ναι, αυτής της διανομής GNU/Linux που κάνεις compile τα πάντα μόνος σου), οπού για να πάρεις το αυτοκόλλητο τους, έπρεπε να πάρεις το ψαλίδι και κυριολεκτικά να κόψεις 1 αυτοκόλλητο μόνος σου. Μάλιστα, αν ήθελες να φτιάξεις και κοκάνδρα, υπήρχε αναλυτικός οδηγός για το πώς να το φτιάξεις μόνος σου&amp;hellip;και φυσικά και τα αντίστοιχα εργαλεία οπού θα έπρεπε να χρησιμοποιήσεις. Τo stand του Gentoo πρόσφερε όλα τα εργαλεία που ήταν απαραίτητο για να επιτευχθεί αυτό!!
+&lt;img src="upload://fgiizC8mLv0Zuvv5OsQEN0JZA8B.jpeg" alt="Screenshot_20230208-231833_Gallery|653x500, 100%">
+&lt;img src="upload://gW5AIb7tWYqiagVThU0xrV8ZQD5.jpeg" alt="Screenshot_20230208-231839_Gallery|533x500, 75%">&lt;/p>
+&lt;p>Έπειτα, αφού παρακολουθήσαμε κάποιες ομιλίες που θέλαμε σε εκείνο το κτήριο, επισκεπτήκαμε το κτήριο H, οπού εκεί βρισκόντουσαν και τα περισσότερα stands εταιρειών.
+&lt;img src="upload://m7QsqbOSHyXj3CV4K5UKsaK6AmA.jpeg" alt="Screenshot_20230208-231750_Gallery|456x500">&lt;/p>
+&lt;p>Σε αυτό το Room, την παράσταση έκλεβε το stand του VLC, στο οποίο άνθρωποι ντυμένοι ως κώνοι, οδηγούσαν το κοινό να παίξουν στον τροχό τους..οπού το μεγάλο έπαθλο δεν ήταν άλλο, από το να γίνουν και οι ίδιοι κόνοι! Ο φίλος μας ο &lt;a href="https://screwdycrow.artstation.com/">Δημήτρης Τζιλιβάκης&lt;/a> (φοβερός Linuxας illustrator με krita), κέρδισε κι εκείνος τον δικό του VLC κώνο.
+&lt;img src="upload://mJjLkMpordOARonR6V33vBWcaCt.jpeg" alt="Screenshot_20230208-231756_Gallery|378x500">&lt;/p>
+&lt;p>&lt;img src="upload://3vYRsqpBXTD2FpUeWne1ReNSHc8.jpeg" alt="photo_2023-02-04_20-43-21|666x500">
+&lt;code>@kgiannakis, Δημήτρης Τζιλιβάκης, Δημήτρης Βαγιακάκος (εγώ - ο σκούφος λυγίζει από το βάρος των αυτοκολλήτων που βρίσκονται μέσα σε αυτόν!)&lt;/code>&lt;/p>
+&lt;p>Στο ίδιο κτήριο βρισκόντουσαν και άλλα διάσημα stands όπως αυτό του LibreOffice, CryptPad, DAVx5 και αρκετά άλλα (εδώ μπορείτε να δείτε όλα τα stands οπού παρευρέθηκαν στην FOSDEM2023).
+&lt;img src="upload://7U7xskmDg1ZWgwYqUYqmfQsn1fZ.jpeg" alt="signal-2023-02-08-14-11-06-026|375x500, 75%">&lt;/p>
+&lt;p>Άλλο ένα stand που δεν μπορεί να μν αναφερθεί, είναι το Linux on Mobile, με διάφορες φορητές συσκευές να τρέχουν Mobian καθώς και άλλα Mobile Linux λειτουργικά με GNOME και KDE. (Μόνο το degoogled foss Android έλειπε)
+&lt;img src="upload://kn3B0ELEKAoHnx91RBGM0nRW0EJ.jpeg" alt="Screenshot_20230208-231730_Gallery|372x500">&lt;/p>
+&lt;p>Επιπλέον, πολλά από τα stands εκεί ήταν από διάφορες Ασιατικές χώρες.
+Συμμετοχές από Σιγκαπούρη, αλλά και ΤαΪβάν με ένα foss επιτραπέζιο ήταν μερικές από τις ενδιαφέρουσες προσθήκες.
+&lt;img src="upload://7gfp4PYYoqw7z2H0RdUCJN8Lk2g.jpeg" alt="Screenshot_20230208-231713_Gallery|380x500">&lt;/p>
+&lt;p>Φυσικά, πρέπει να αναφερθεί και το παραμύθι της FSFE σχετικά με την έννοια του ανοικτού λογισμικού και της ελευθερίας παραμετροποίησης.
+&lt;img src="upload://knDqd0P08Nzz0NXUELCLqkE6Y6X.jpeg" alt="Screenshot_20230208-231621_Gallery|399x500, 50%">&lt;/p>
+&lt;h3 id="bonus-ham-radio-experience">BONUS Ham Radio experience&lt;/h3>
+&lt;p>Εκτός από το ανοικτό λογισμικό, κατά την διάρκεια της επίσκεψης μας στις Βρυξέλλες, ως ραδιοερασιτέχνης &lt;a href="https://www.qrz.com/db/sv1sjp">(SV1SJP)&lt;/a>, κοινοποίησα την τοποθεσία μου μέσω APRS έχοντας ως σχόλιο &amp;ldquo;FOSDEM 2023&amp;rdquo;.
+&lt;img src="upload://qnT6IcagayITm9p1dFFnoLP8cDC.jpeg" alt="Screenshot_20230208-234118_Gallery|539x500, 50%">&lt;/p>
+&lt;p>Μετά από λίγες ώρες λοιπόν, έλαβα αυτό το email στο inbox μου:
+&lt;img src="upload://bVl16kkAqfYiVoNj5wORkWqIHEA.png" alt="Screenshot_20230208-234046|680x500, 50%">&lt;/p>
+&lt;p>Και έτσι βρεθήκαμε και με την ομάδα Ραδιοερασιτεχνών του Βελγίου.
+&lt;img src="upload://A6DC1tFBsfJLMyUK4BDdLXijJKQ.jpeg" alt="Screenshot_20230208-231548_Gallery|220x500">&lt;/p>
+&lt;p>Για την λιγούρα από το πολύ ανοικτό λογισμικό, στο camp του Πανεπιστημίου υπήρχαν αρκετές καντίνες με burgers, hot dogs, βέλγικες πατάτες και βάφλες για να ταϊσουν τους χιλιάδες επισκέπτες της φετινής FOSDEM.&lt;/p>
+&lt;p>&lt;img src="upload://nNrXdxfdc6KhkFY8RcVn5kWcbbo.jpeg" alt="signal-2023-02-08-14-11-06-026-3|375x500">&lt;/p>
+&lt;p>Μετά το συνέδριο, υπήρξαν και πάρτυ,,, ωστόσο η εξάντληση μας δεν μας επέτρεψε να παρευρεθούμε. (Παραμένει στην λίστα TODO για επόμενη επίσκεψη).&lt;/p>
+&lt;h3 id="fosdem-android-application">FOSDEM Android Application&lt;/h3>
+&lt;p>Στα οργανωτικά του συνεδρίου, η FOSDEM διατέθει Android εφαρμογή οπού μπορούσε να μας βοηθήσει να οργανώσουμε τις εκατοντάδες ομιλίες οπού μας ενδιέφεραν να παρακολουθήσουμε (είτε φυσικά είτε remote), καθώς και διατείθε και χάρτη για τους χώρους του Πανεπιστημίου, κάτι επίσης εξαιρετικά σημαντικό!
+&lt;img src="upload://awa22yNz37hzUZf8NiyfohjbzOG.png" alt="Screenshot_20230208-234359_FOSDEM Companion|543x500, 75%">&lt;/p>
+&lt;p>Μέσα από το συνέδριο, γνωρίσαμε αρκετούς ανθρώπους από όλο τον κόσμο που ενδιαφέρονται για το ανοικτό λογισμικό, ακούσαμε διαφορετικές απόψεις αλλά και επεκτείναμε τα social network μας σε όλες τις πλευρές της γης. Από Σουηδία μέχρι Κολομβία, από Μαλαισία μέχρι Ρουμανία.&lt;/p>
+&lt;p>&lt;img src="upload://5WgmJSaGEk2q4m6PHOTCjnMzDuO.jpeg" alt="IMG_20230205_192731_363|375x500, 100%">
+Φωτογραφία μεταξύ Ελλήνων,Σουηδών και Κολομβιανών - Ο &lt;a href="https://www.linkedin.com/in/mongrelion/">Carlos Leon&lt;/a> μαζί με @kgiannakis, Δημήτρης Τζιλιβάκης και εγώ.&lt;/p>
+&lt;h3 id="επίλογος">Επίλογος&lt;/h3>
+&lt;p>Ευχαριστούμε όλους αυτούς τους ανθρώπους που μας υπενθύμισαν σε αυτό το γεμάτο 2ήμερο ότι η κοινότητα ανοικτού λογισμικού είναι τεράστια και βρίσκεται σε όλα τα μήκη του πλανήτη. Ανεξαρτήτου έθνους, χώρας, χρώματος, διανομής Linux, η αγάπη μας για την πρόοδο και την ανάπτυξη της ανθρωπότητας μέσω νέων τεχνολογιών, παραμένει ίδια!!!&lt;/p>
+&lt;h2 id="ακολουθούν-περισσότερες-φωτογραφίες-από-fosdem">Ακολουθούν περισσότερες φωτογραφίες από FOSDEM&lt;/h2>
+&lt;p>&lt;img src="upload://vaVEQVC1IcROIs1odn2SbwpFdjL.jpeg" alt="signal-2023-02-08-14-11-06-026-4|666x500">&lt;/p>
+&lt;p>&lt;img src="upload://ibd3WBTJw1paHmsnUv2zAvYN2JC.jpeg" alt="signal-2023-02-08-14-11-06-026-5|666x500">
+&lt;img src="upload://3LYJCT6PG5eMvkCjmkrD1uKfNa8.jpeg" alt="signal-2023-02-08-14-11-06-026-7|666x500">
+&lt;img src="upload://tBYnMGq3O6Uv1YEVmVfxKIH5m1m.jpeg" alt="Screenshot_20230208-231638_Gallery|382x500">
+&lt;img src="upload://9Fg5mxOzAScQvPnPAsmV2sakHDw.jpeg" alt="Screenshot_20230208-235404_Gallery|377x500">
+&lt;img src="upload://f5aeS23feHasqECWZHd8j51PxiD.jpeg" alt="Screenshot_20230208-235411_Gallery|385x500">&lt;/p>
+&lt;p>&lt;img src="upload://AdBbfGlOfVUKlbRYJP73vWDmPRc.jpeg" alt="signal-2023-02-08-14-11-06-026-2|375x500">
+&lt;img src="upload://cj1dwFIKsehau0dE2OTv2Tv5UU4.jpeg" alt="Screenshot from 2023-02-09 00-10-35|389x500">&lt;/p></content></item><item><title>Τραινάκι στο Τερματικό του Linux</title><link>/greek_articles/sl/</link><pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate><guid>/greek_articles/sl/</guid><description>Σημαντική Ανακοίνωση: Το παρών άρθρο έχει δημοσιτευτεί επίσημα στο Linux-User.gr και διατηρείται εδώ για καθαρά λόγους αρχειοθέτησης. Αφού είδαμε το iSemedaki για το GNOME, ήρθε η ώρα να μάθουμε πώς να εμφανίσουμε ένα μαγικό τραινάκι στο τερματικό του Linux.
+Η εντολή ls αποτελεί μία εντολή οπού εμφανίζει τα αρχεία &amp;amp; φακέλους όπου εμπεριέχονται σε έναν φάκελο. (Μάθημα στο Ultimate Linux Terminal Tutorial σχετικά με αυτά).
+Το sl από την άλλη, αποτελεί την εντολή &amp;ldquo;τιμωρία&amp;rdquo; σε περίπτωση που ο χρήστης πληκτρολογήσει ανάποδα το ls.</description><content>&lt;p>&lt;a href="https://linux-user.gr/t/trainaki-sto-termatiko-toy-linux/4658">Σημαντική Ανακοίνωση: Το παρών άρθρο έχει δημοσιτευτεί επίσημα στο Linux-User.gr και διατηρείται εδώ για καθαρά λόγους αρχειοθέτησης.&lt;/a>
+Αφού είδαμε το &lt;a href="https://linux-user.gr/t/isemedaki-h-epektash-gnome-poy-den-prepei-na-leipei-apo-kanena-ellhniko-spiti/3590">iSemedaki&lt;/a> για το GNOME, ήρθε η ώρα να μάθουμε πώς να εμφανίσουμε ένα μαγικό τραινάκι στο τερματικό του Linux.&lt;/p>
+&lt;p>&lt;img src="upload://2kkTXf8gO5WtEZZnbZldEIxE8Kd.jpeg" alt="image|690x465">&lt;/p>
+&lt;p>Η εντολή ls αποτελεί μία εντολή οπού εμφανίζει τα αρχεία &amp;amp; φακέλους όπου εμπεριέχονται σε έναν φάκελο. &lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzfu1kLBWBbj-3wdKSzDVl4">(Μάθημα στο Ultimate Linux Terminal Tutorial σχετικά με αυτά)&lt;/a>.&lt;/p>
+&lt;p>Το sl από την άλλη, αποτελεί την εντολή &amp;ldquo;τιμωρία&amp;rdquo; σε περίπτωση που ο χρήστης πληκτρολογήσει ανάποδα το ls.&lt;/p>
+&lt;p>Για τιμωρία, το sl θα εμφανίσει ένα τραινάκι να τρέχει εντός του τερματικού μας.&lt;/p>
+&lt;p>Εκτός βέβαια από το παραδοσιακό τραινάκι, χρησιμοποιώντας παραμέτρους θα δούμε και διαφορετικά κόλπα με το τραινάκι:&lt;/p>
+&lt;pre tabindex="0">&lt;code>sl -a : Accident mode με ανθρώπους να ζητούν βοήθεια
+sl -l : Εμφανίζει ένα μικρότερο τραίνο
+sl -F : Το τραίνο αρχίζει και πετάει
+&lt;/code>&lt;/pre>&lt;p>Για να κάνουμε εγκατάσταση το sl, δίνουμε από γραμμή εντολών:&lt;/p>
+&lt;p>Για Debian Based (Ubuntu,Linux Mint):&lt;/p>
+&lt;pre tabindex="0">&lt;code>sudo apt install sl
+&lt;/code>&lt;/pre>&lt;p>Για Fedora:&lt;/p>
+&lt;pre tabindex="0">&lt;code>sudo dnf install sl
+&lt;/code>&lt;/pre>&lt;p>Για Android Termux:&lt;/p>
+&lt;pre tabindex="0">&lt;code>pkg install sl
+&lt;/code>&lt;/pre>&lt;p>Ενδεικτικό short Video:
+&lt;a href="https://youtube.com/shorts/jbbRa-lYQoc?feature=share">https://youtube.com/shorts/jbbRa-lYQoc?feature=share&lt;/a>&lt;/p></content></item><item><title>Κάντε Auto-mount συσκευές κατά την εκκίνηση του συστήματος χωρίς αλλαγές στο /etc/fstab</title><link>/greek_articles/fstab/</link><pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate><guid>/greek_articles/fstab/</guid><description>Σημαντική Ανακοίνωση: Το παρών άρθρο έχει δημοσιτευτεί επίσημα στο Linux-User.gr και διατηρείται εδώ για καθαρά λόγους αρχειοθέτησης.
+Η Ιστορία: Ένα από τα προβλήματα που εντόπισα όταν αποφάσισα να προσθέσω εξωτερικό δίσκο στο Raspberry Pi 4 server μου, ήταν ότι για να πραγματοποιηθεί αυτόματα το mount κατά το boot, έπρεπε να κάνω κάποιες αλλαγές στο /etc/fstab . To πρόβλημα που υπήρχε με αυτή την λύση ήταν η Ρώσικη ρουλέτα.
+Το πρόβλημα: Οποιοδήποτε συντακτικό/λογικό λάθος πάνω στην αλλαγή, κατέληγες σε grub rescue που έπρεπε να μπει ποντίκι-πληκτρολόγιο για να πραγματοποιηθούν αλλαγές, είτε να αφαιρεθεί η sd από το Raspberry Pi, να συνδεθεί σε άλλο σύστημα και να αναιρεθεί η αλλαγή.</description><content>&lt;p>&lt;a href="https://linux-user.gr/t/kante-auto-mount-syskeyes-kata-thn-ekkinhsh-toy-systhmatos-chwris-allages-sto-etc-fstab/4602">Σημαντική Ανακοίνωση: Το παρών άρθρο έχει δημοσιτευτεί επίσημα στο Linux-User.gr και διατηρείται εδώ για καθαρά λόγους αρχειοθέτησης.&lt;/a>&lt;/p>
+&lt;h2 id="η-ιστορία">Η Ιστορία:&lt;/h2>
+&lt;p>Ένα από τα προβλήματα που εντόπισα όταν αποφάσισα να προσθέσω εξωτερικό δίσκο στο Raspberry Pi 4 server μου, ήταν ότι για να πραγματοποιηθεί αυτόματα το mount κατά το boot, έπρεπε να κάνω κάποιες αλλαγές στο &lt;a href="https://linux-user.gr/t/auto-mount-devices-kata-thn-ekkinhsh-toy-systhmatos-video-guide/3193">/etc/fstab&lt;/a> . To πρόβλημα που υπήρχε με αυτή την λύση ήταν η Ρώσικη ρουλέτα.&lt;/p>
+&lt;h3 id="το-πρόβλημα">Το πρόβλημα:&lt;/h3>
+&lt;p>Οποιοδήποτε συντακτικό/λογικό λάθος πάνω στην αλλαγή, κατέληγες σε grub rescue που έπρεπε να μπει ποντίκι-πληκτρολόγιο για να πραγματοποιηθούν αλλαγές, είτε να αφαιρεθεί η sd από το Raspberry Pi, να συνδεθεί σε άλλο σύστημα και να αναιρεθεί η αλλαγή.
+Επιπλέον, υπήρχε και το πρόβλημα του αν για οποιοδήποτε λόγο δεν ήταν συνδεδεμένη η συσκευή κατά το boot, πάλι κατέληγε σε grub rescue.. Και αν εκείνη την ώρα απουσίαζες από το σπίτι και έκανες αλλαγές μέσω ssh και VPN.. και κάποιος από λάθος αφαίρεσε/κούνησε το καλώδιο&amp;hellip;.. RIP&lt;/p>
+&lt;p>Συνεπώς, έπρεπε να βρω μία διαφορετική προσέγγιση για να επιλύσω το πρόβλημα μου με το automount. Εκεί έρχεται η λύση που προσφέρει το Auto-Fs.&lt;/p>
+&lt;h3 id="η-λύση-στο-πρόβλημα">Η λύση στο πρόβλημα:&lt;/h3>
+&lt;p>Το autofs πρόκειται για ένα πρόγραμμα για την αυτόματη προσάρτηση συσκευών ανάλογα με τις ανάγκες του χρήστη σε πραγματικό χρόνο. Οι αυτόματες προσαρτήσεις γίνονται mount μόνο κατά την προσπέλαση και un-mount μετά από μια περίοδο αδράνειας. Εξαιτίας αυτού, η αυτόματη προσάρτηση κοινών αρχείων NFS/Samba εξοικονομεί bandwith και τελικά προσφέρει καλύτερες συνολικές επιδόσεις σε σύγκριση με τις στατικές προσαρτήσεις μέσω της fstab.&lt;/p>
+&lt;p>Παραδοσιακά για εγκατάσταση του autofs σε Debian based συστήματα δίνουμε:&lt;/p>
+&lt;pre tabindex="0">&lt;code>sudo apt install autofs
+&lt;/code>&lt;/pre>&lt;p>Για τα Fed-ωραία και τα υπόλοιπα distros ( i use arch btw), μπορείτε να δώσετε τις αντίστοιχες εντολές εγκατάστασης βάση του package manager &amp;amp;&amp;amp; repository που χρησιμοποιεί η δικιά σας διανομή Linux. DuckDuckGo it λοιπόν!&lt;/p>
+&lt;h2 id="ρύθμιση-του-autofs">Ρύθμιση του autofs&lt;/h2>
+&lt;p>Για να λειτουργήσει ομαλά το mount με το AutoFs, πρέπει να κάνουμε αλλαγές σε 2 αρχεία:&lt;/p>
+&lt;ul>
+&lt;li>Στο auto.master έτσι ώστε να το οδηγήσουμε στο directory που θέλουμε να κάνει αυτόματα mount,&lt;/li>
+&lt;li>Στο auto.usb οπού θα εξηγεί στο autofs τα τι που πώς, σχετικά με την συσκευή που θέλουμε να κάνουμε mount.&lt;/li>
+&lt;/ul>
+&lt;h3 id="επεξεργασία-automaster">Επεξεργασία auto.master&lt;/h3>
+&lt;p>Ανοίγουμε έναν test editor για να το επεξεργαστούμε (εγώ δουλεύω με nano):&lt;/p>
+&lt;pre tabindex="0">&lt;code>sudo nano /etc/auto.master
+&lt;/code>&lt;/pre>&lt;p>και έπειτα προσθέτουμε το εξής:&lt;/p>
+&lt;pre tabindex="0">&lt;code>/media /etc/auto.usb --timeout=60 --ghost
+&lt;/code>&lt;/pre>&lt;p>Kαι τώρα μπορούμε να δημιουργήσουμε το auto.usb αρχείο. Συνεχίζουμε από τερματικό:&lt;/p>
+&lt;pre tabindex="0">&lt;code>sudo nano /etc/auto.usb
+&lt;/code>&lt;/pre>&lt;p>Και προσθέτουμε την παρακάτω γραμμή:&lt;/p>
+&lt;pre tabindex="0">&lt;code>myUSB -fstype=auto,uid=pi,gid=pi,rw UUID=YOUR_UUID
+&lt;/code>&lt;/pre>&lt;p>Οπού:&lt;/p>
+&lt;ul>
+&lt;li>myUSB : Το όνομα του φακέλου που θα εμφανιστεί εντός /media. Στο παράδειγμα π.χ. θα εμφανιστεί ως &lt;code>/media/myUSB&lt;/code>,&lt;/li>
+&lt;li>Το -fstype ορίζουμε τον τύπο του filesystem οπού είναι η συσκευή οπού θα κάνουμε mount.&lt;/li>
+&lt;li>uid του χρήστη μας,&lt;/li>
+&lt;li>gid της ομάδας που συμμετέχει ο χρήστης μας,&lt;/li>
+&lt;li>rw οπού δίνουμε read write δικαιώματα,&lt;/li>
+&lt;li>το UUID της συσκευής.&lt;/li>
+&lt;/ul>
+&lt;p>Για να βρούμε το UUID της συσκευής μας, δίνουμε:&lt;/p>
+&lt;pre tabindex="0">&lt;code>sudo lsblk -f | grep -v loop
+&lt;/code>&lt;/pre>&lt;p>Φυσικά αποθηκεύουμε τις αλλαγές και έπειτα κάνουμε και μία επανεκκίνηση στο systemd service:&lt;/p>
+&lt;pre tabindex="0">&lt;code>sudo systemctl restart autofs.service
+&lt;/code>&lt;/pre>&lt;p>Και είμαστε έτοιμοι!!!&lt;/p>
+&lt;h3 id="unmount">Unmount&lt;/h3>
+&lt;p>Φυσικά, αν για οποιοδήποτε λόγο θέλουμε να αφαιρέσουμε την συσκευή ενώ έχουμε τo PC/RaspberryPi/Server ανοικτό, απλά δίνουμε:&lt;/p>
+&lt;pre tabindex="0">&lt;code>sudo umount /media/myUSB
+&lt;/code>&lt;/pre>&lt;p>Και όταν τον συνδέσουμε ξανά, το autofs θα τον ξανακάνει mount αυτόματα. :)&lt;/p></content></item><item><title>Tο PUBG και άλλες 117 εφαρμογές μπλοκάρει η Ινδία</title><link>/greek_articles/india_ban/</link><pubDate>Sat, 12 Sep 2020 00:00:00 +0000</pubDate><guid>/greek_articles/india_ban/</guid><description>Σημαντική Ανακοίνωση: Το παρών άρθρο έχει δημοσιτευτεί επίσημα στο Funky-bit.gr και διατηρείται εδώ για καθαρά λόγους αρχειοθέτησης.
+Το Υπουργείο Ηλεκτρονικής και Πληροφορικής της Κυβέρνησης της Ινδίας μόλις εξέδωσε ένα δελτίο τύπου που ανακοινώνει την απαγόρευση 118 εφαρμογών που είναι «επιζήμιες για την κυριαρχία και την ακεραιότητα της Ινδίας, την άμυνα της Ινδίας, την ασφάλεια του κράτους και τη δημόσια τάξη».
+Η λίστα των απαγορευμένων εφαρμογών περιλαμβάνει το PUBG μεταξύ άλλων καθώς και διάσιμες εφαρμογές όπως το Baidu, Alipay , Wechat ,ενώ δεν λείπουν και άλλες εφαρμογές τύπου App Locks, Cleaners,Web Browsers που είχαν απασχολήσει και παλιότερα την επικαιρότητα.</description><content>&lt;p>&lt;a href="https://funkybit.gr/2020/09/%ce%ba%ce%b1%ce%b9-%cf%84%ce%bf-pubg-%ce%ba%ce%b1%ce%b9-%ce%ac%ce%bb%ce%bb%ce%b5%cf%82-117-%ce%b5%cf%86%ce%b1%cf%81%ce%bc%ce%bf%ce%b3%ce%ad%cf%82-%ce%bc%cf%80%ce%bb%ce%bf%ce%ba%ce%ac%cf%81%ce%b5/">Σημαντική Ανακοίνωση: Το παρών άρθρο έχει δημοσιτευτεί επίσημα στο Funky-bit.gr και διατηρείται εδώ για καθαρά λόγους αρχειοθέτησης.&lt;/a>&lt;/p>
+&lt;p>Το Υπουργείο Ηλεκτρονικής και Πληροφορικής της Κυβέρνησης της Ινδίας μόλις εξέδωσε ένα δελτίο τύπου που ανακοινώνει την απαγόρευση 118 εφαρμογών που είναι «επιζήμιες για την κυριαρχία και την ακεραιότητα της Ινδίας, την άμυνα της Ινδίας, την ασφάλεια του κράτους και τη δημόσια τάξη».&lt;/p>
+&lt;p>Η λίστα των απαγορευμένων εφαρμογών περιλαμβάνει το PUBG μεταξύ άλλων καθώς και διάσιμες εφαρμογές όπως το Baidu, Alipay , Wechat ,ενώ δεν λείπουν και άλλες εφαρμογές τύπου App Locks, Cleaners,Web Browsers που είχαν απασχολήσει και παλιότερα την επικαιρότητα.&lt;/p>
+&lt;p>Aυτή είναι η λίστα με τις 118 εφαρμογές που απαγορεύτηκαν στην Ινδία:&lt;/p>
+&lt;p>1.APUS Launcher Pro- Theme, Live Wallpapers, Smart
+2. APUS Launcher -Theme, Call Show, Wallpaper, HideApps
+3. APUS Security -Antivirus, Phone security, Cleaner
+4. APUS Turbo Cleaner 2020- Junk Cleaner, Anti-Virus
+5. APUS Flashlight-Free &amp;amp; Bright
+6. Cut Cut – Cut Out &amp;amp; Photo Background Editor
+7. Baidu
+8. Baidu Express Edition
+9. FaceU – Inspire your Beauty
+10. ShareSave by Xiaomi: Latest gadgets, amazing deals
+11. CamCard – Business Card Reader
+12. CamCard Business
+13. CamCard for Salesforce
+14. CamOCR
+15. InNote
+16. VooV Meeting – Tencent Video Conferencing
+17. Super Clean – Master of Cleaner, Phone Booster
+18. WeChat reading
+19. Government WeChat
+20. Small Q brush
+21. Tencent Weiyun
+22. Pitu
+23. WeChat Work
+24. Cyber Hunter
+25. Cyber Hunter Lite
+26. Knives Out-No rules, just fight!
+27. Super Mecha Champions
+28. LifeAfter
+29. Dawn of Isles
+30. Ludo World-Ludo Superstar
+31. Chess Rush
+32. PUBG MOBILE Nordic Map: Livik
+33. PUBG MOBILE LITE
+34. Rise of Kingdoms: Lost Crusade
+35. Art of Conquest: Dark Horizon
+36. Dank Tanks
+37. Warpath
+38. Game of Sultans
+39. Gallery Vault – Hide Pictures And Videos
+40. Smart AppLock (App Protect)
+41. Message Lock (SMS Lock)-Gallery Vault Developer Team&lt;/p>
+&lt;ol start="42">
+&lt;li>
+&lt;p>Hide App-Hide Application Icon&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>AppLock&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>AppLock Lite&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Dual Space – Multiple Accounts &amp;amp; App Cloner&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>ZAKZAK Pro – Live chat &amp;amp; video chat online&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>ZAKZAK LIVE: live-streaming &amp;amp; video chat app&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Music – Mp3 Player&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Music Player – Audio Player &amp;amp; 10 Bands Equalizer&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>HD Camera Selfie Beauty Camera&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Cleaner – Phone Booster&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Web Browser &amp;amp; Fast Explorer&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Video Player All Format for Android&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Photo Gallery HD &amp;amp; Editor&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Photo Gallery &amp;amp; Album&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Music Player – Bass Booster – Free Download&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>HD Camera – Beauty Cam with Filters &amp;amp; Panorama&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>HD Camera Pro &amp;amp; Selfie Camera&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Music Player – MP3 Player &amp;amp; 10 Bands Equalizer&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Gallery HD&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Web Browser – Fast, Privacy &amp;amp; Light Web Explorer&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Web Browser – Secure Explorer&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Music player – Audio Player&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Video Player – All Format HD Video Player&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Lamour Love All Over The World&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Amour- video chat &amp;amp; call all over the world.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>MV Master – Make Your Status Video &amp;amp; Community&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>MV Master – Best Video Maker &amp;amp; Photo Video Editor&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>APUS Message Center-Intelligent management&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>LivU Meet new people &amp;amp; Video chat with strangers&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Carrom Friends : Carrom Board &amp;amp; Pool Game-&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ludo All Star- Play Online Ludo Game &amp;amp; Board Games&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Bike Racing : Moto Traffic Rider Bike Racing Games&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Rangers Of Oblivion : Online Action MMO RPG Game&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Z Camera – Photo Editor, Beauty Selfie, Collage&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>GO SMS Pro – Messenger, Free Themes, Emoji&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>U-Dictionary: Oxford Dictionary Free Now Translate&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ulike – Define your selfie in trendy style&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tantan – Date For Real&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>MICO Chat: New Friends Banaen aur Live Chat karen&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Kitty Live – Live Streaming &amp;amp; Video Live Chat&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Malay Social Dating App to Date &amp;amp; Meet Singles&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Alipay&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>AlipayHK&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Mobile Taobao&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Youku&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Road of Kings- Endless Glory&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sina News&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Netease News&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Penguin FM&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Murderous Pursuits&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Tencent Watchlist (Tencent Technology&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Learn Chinese AI-Super Chinese&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>HUYA LIVE – Game Live Stream&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Little Q Album&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Fighting Landlords – Free and happy Fighting Landlords&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hi Meitu&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Mobile Legends: Pocket&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>VPN for TikTok&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>VPN for TikTok&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Penguin E-sports Live assistant&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Buy Cars-offer everything you need, special offers and low prices&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>iPick&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Beauty Camera Plus – Sweet Camera &amp;amp; Face Selfie&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Parallel Space Lite – Dual App&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>“Chief Almighty: First Thunder BC&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>MARVEL Super War NetEase Games&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>AFK Arena&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Creative Destruction NetEase Games&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Crusaders of Light NetEase Games&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Mafia City Yotta Games&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Onmyoji NetEase Games&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Ride Out Heroes NetEase Games&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Yimeng Jianghu-Chu Liuxiang has been fully upgraded&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Legend: Rising Empire NetEase Games&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Arena of Valor: 5v5 Arena Games&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Soul Hunters&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Rules of Survival&lt;/p>
+&lt;/li>
+&lt;/ol></content></item><item><title>Το FBI συνέλαβε Ρώσο άνδρα που προσέφερε 1 εκατομμύριο δολάρια σε υπάλληλο για εγκατάσταση malware σε εταιρεία</title><link>/greek_articles/russia/</link><pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate><guid>/greek_articles/russia/</guid><description>Σημαντική Ανακοίνωση: Το παρών άρθρο έχει δημοσιτευτεί επίσημα στο Funky-bit.gr και διατηρείται εδώ για καθαρά λόγους αρχειοθέτησης.
+Ο κατηγορούμενος πρόσφερε δωρεά 1 εκατομμυρίου δολαρίων σε έναν υπάλληλο μιας εταιρείας της Νεβάδας σε αντάλλαγμα για τη εγκατάσταση κακόβουλου λογισμικού (malware).Ο κατηγορούμενος συνδέθηκε με μια ομάδα που «εξειδικεύεται» στον εκβιασμό εταιρειών και συνεργάστηκε με έναν χάκερ από κυβερνητική τράπεζα υψηλού επιπέδου στη Ρωσία.
+Ο Kriuchkov, συναντήθηκε με τον υπάλληλο και στη συνέχεια οδήγησε όλο το βράδυ από το Reno στο Λος Άντζελες για να φύγει από την χώρα.</description><content>&lt;p>&lt;a href="https://funkybit.gr/2020/08/%cf%84%ce%bf-fbi-%cf%83%cf%85%ce%bd%ce%ad%ce%bb%ce%b1%ce%b2%ce%b5-%cf%81%cf%8e%cf%83%ce%bf-%ce%ac%ce%bd%ce%b4%cf%81%ce%b1-%cf%80%ce%bf%cf%85-%cf%80%cf%81%ce%bf%cf%83%ce%ad%cf%86%ce%b5%cf%81%ce%b5-1/">Σημαντική Ανακοίνωση: Το παρών άρθρο έχει δημοσιτευτεί επίσημα στο Funky-bit.gr και διατηρείται εδώ για καθαρά λόγους αρχειοθέτησης.&lt;/a>&lt;/p>
+&lt;p>Ο κατηγορούμενος πρόσφερε δωρεά 1 εκατομμυρίου δολαρίων σε έναν υπάλληλο μιας εταιρείας της Νεβάδας σε αντάλλαγμα για τη εγκατάσταση κακόβουλου λογισμικού (malware).Ο κατηγορούμενος συνδέθηκε με μια ομάδα που «εξειδικεύεται» στον εκβιασμό εταιρειών και συνεργάστηκε με έναν χάκερ από κυβερνητική τράπεζα υψηλού επιπέδου στη Ρωσία.&lt;/p>
+&lt;p>Ο Kriuchkov, συναντήθηκε με τον υπάλληλο και στη συνέχεια οδήγησε όλο το βράδυ από το Reno στο Λος Άντζελες για να φύγει από την χώρα. Ωστόσο, το FBI συνέλαβε τον 27χρονο και τον παρουσίασε ενώπιον ομοσπονδιακού δικαστηρίου στο Λος Άντζελες τη Δευτέρα, κατηγορώντας τον για πρόθεση πρόκλησης βλάβης σε έναν “προστατευμένο υπολογιστή”. Ο Kriuchkov στάλθηκε σε κράτηση εν αναμονή της δίκης.
+Τρόπος λειτουργίας:&lt;/p>
+&lt;p>Ο Kriuchkov επικοινώνησε με τον ανώνυμο υπάλληλο στις 16 Ιουλίου στο WhatsApp μέσω αμοιβαίας γνωριμίας. Σύμφωνα με έγγραφα που κατατέθηκαν στο Επαρχιακό Δικαστήριο των ΗΠΑ στο Ρίνο, τότε ταξίδεψε από τη Ρωσία με τουριστική βίζα για να συναντήσει τον υπάλληλο σε ένα ταξίδι στη Λίμνη Ταχόε. Αφού συναντήθηκε με τον υπάλληλο, αποκάλυψε ότι εργάστηκε για μια ομάδα που ειδικεύτηκε σε εκβιασμούς εταιρειών. Ο Kriuchkov του παρείχε επίσης προπληρωμένο κινητό και του ζήτησε να το κρατήσει σε λειτουργία πτήσης μέχρι να μεταφερθούν τα χρήματα.&lt;/p>
+&lt;p>Μέσω της βοήθειάς του, ο Kriuchkov ήθελε να εγκαταστήσει ένα ransomware στην ανώνυμη εταιρεία με έδρα τη Νεβάδα για να συγκεντρώσει περίπου 4 εκατομμύρια δολάρια. Ο Kriuchkov συνέχισε να εξηγεί ότι η ‘ομάδα’ πληρώνει υπαλλήλους εταιρειών-στόχων για να εισάγει κακόβουλο λογισμικό στο σύστημα υπολογιστών της εταιρείας-στόχου”, δήλωσε το FBI στην καταγγελία του.&lt;/p>
+&lt;p>Ransomware Attack&lt;/p>
+&lt;p>Έχοντας ο υπάλληλος συμφωνήσει να βοηθήσει τον Kriuchkov, η ομάδα για την οποία εργαζόταν θα είχε εγκαταστήσει κακόβουλο λογισμικό στον εταιρικό του υπολογιστή που θα είχε “χτυπήσει” το δίκτυο της εταιρείας με επίθεση DDOS. Μέσω μιας δεύτερης επίθεσης, τότε θα κλέψει τα δεδομένα της εταιρείας και θα απειλούσε να δημοσιοποιήσει εάν δεν πληρώνονταν τα λύτρα.&lt;/p>
+&lt;p>Σύμφωνα με το FBI, ο Kriuchkov ήθελε να πληρώσει στον υπάλληλο 500.000 $ μέσω Bitcoin ή μετρητών, αλλά όταν διαφώνησε, ο Ρώσος διπλασίασε το ποσό σε 1 εκατομμύριο δολάρια. “Για να διευκολυνθούν οι ανησυχίες των υπαλλήλων των θυμάτων σχετικά με τη σύλληψή τους, ο Kriuchkov ισχυρίστηκε ότι το παλαιότερο” έργο “στο οποίο είχε εργαστεί το” γκρουπ “, πραγματοποιήθηκε πριν από τριάμισι χρόνια και ο συν-επιλογής του” ομίλου “εξακολουθούσε να εργάζεται για την εταιρεία”, προστέθηκε στην καταγγελία του FBI.&lt;/p>
+&lt;p>Σύνδεση με Ρωσική Κυβέρνηση&lt;/p>
+&lt;p>Παρόλο που δεν αποκαλύφθηκε εάν ο Kriuchkov είχε κάποια σχέση με τη ρωσική κυβέρνηση, αλλά σύμφωνα με το FBI, συνεργάστηκε με έναν χάκερ που ήταν «υψηλού επιπέδου υπάλληλος μιας κυβερνητικής τράπεζας στη Ρωσία».&lt;/p>
+&lt;p>Ο Kriuchkov ήθελε να κάνει τη δουλειά νωρίτερα αυτό το μήνα, αλλά η ομάδα αποφάσισε να καθυστερήσει το έργο. Το FBI κατάφερε να συγκεντρώσει στοιχεία κατά τη διάρκεια αυτής της περιόδου μέσω της παρακολούθησης της συνάντησής του με τον υπάλληλο. Εάν αποδειχθεί ένοχος, οι Ρώσοι θα αντιμετωπίσουν ποινή φυλάκισης πέντε ετών και πρόστιμο 250.000 $.&lt;/p></content></item><item><title>Σε emulator παίζει το Super Mario 3D All-Stars στο Switch;</title><link>/greek_articles/super_mario/</link><pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate><guid>/greek_articles/super_mario/</guid><description>Σημαντική Ανακοίνωση: Το παρών άρθρο έχει δημοσιτευτεί επίσημα στο Funky-bit.gr και διατηρείται εδώ για καθαρά λόγους αρχειοθέτησης.
+Η σειρά Super Mario All-Stars, έκανε επίσημα την εμφάνισή της το 1993 για το SNES, περιλαμβάνοντας το Original Super Mario Bros, το Super Mario Bros The Lost Levels ( Την Ιαπωνική έκδοση του Super Mario 2 – παιχνίδι που μέχρι τότε δεν είχε κυκλοφορήσει ποτέ μέχρι τότε στον υπόλοιπο κόσμο, λόγω της αυξημένης δυσκολίας του) , καθώς και τα Super Mario 2(USA) και 3 , σε μία remastered 16bit έκδοση, με καλύτερα γραφικά και ήχο από την πρώτη τους κυκλοφορία για το NES .</description><content>&lt;p>&lt;a href="https://funkybit.gr/2020/09/%cf%83%ce%b5-emulator-%cf%80%ce%b1%ce%af%ce%b6%ce%b5%ce%b9-%cf%84%ce%bf-super-mario-3d-all-stars-%cf%83%cf%84%ce%bf-switch/">Σημαντική Ανακοίνωση: Το παρών άρθρο έχει δημοσιτευτεί επίσημα στο Funky-bit.gr και διατηρείται εδώ για καθαρά λόγους αρχειοθέτησης.&lt;/a>&lt;/p>
+&lt;p>Η σειρά Super Mario All-Stars, έκανε επίσημα την εμφάνισή της το 1993 για το SNES, περιλαμβάνοντας το Original Super Mario Bros, το Super Mario Bros The Lost Levels ( Την Ιαπωνική έκδοση του Super Mario 2 – παιχνίδι που μέχρι τότε δεν είχε κυκλοφορήσει ποτέ μέχρι τότε στον υπόλοιπο κόσμο, λόγω της αυξημένης δυσκολίας του) , καθώς και τα Super Mario 2(USA) και 3 , σε μία remastered 16bit έκδοση, με καλύτερα γραφικά και ήχο από την πρώτη τους κυκλοφορία για το NES .Έπειτα , κυκλοφόρισε και μία δεύτερη έκδοση όπου περιλάμβανε και το Super Mario World στην λίστα με τα παιχνίδια.&lt;/p>
+&lt;p>To 2010, κυκλοφόρισε μία Limited Edition έκδοση για το Nintendo Wii, οπού περιλάμβανε τα παραπάνω παιχνίδια μάζι με το soundtrack και άλλα διάφορα συλλεκτικά αντικείμενα, για να γιορτάσει τα 25 χρόνια Super Mario!&lt;/p>
+&lt;p>Η συλλογή, με την ονομασία Super Mario 3D All-Stars, έρχεται μετά από 35 χρόνια “ζωής” του Super Mario και θα περιλαμβάνει τα παιχνίδια Super Mario 64, Super Mario Sunshine και Super Mario Galaxy και θα κυκλοφορήσει σε ψηφιακή και φυσική μορφή στις 18 Σεπτεμβρίου για το Nintendo Switch. Όμως, το περίεργο είναι ότι η εταιρεία ανακοίνωσε επίσης ότι ο τίτλος θα σταματήσει να διανέμεται από το Μάρτιο του 2021, κάτι που δε θα περιμέναμε για μία τόσο σημαντική κυκλοφορία από την εταιρεία.&lt;/p>
+&lt;p>Ενδιαφέρον προκαλεί το γεγονός ότι, σύμφωνα με τον χρήστη του Twitter, @OatmealDome , τα παιχνίδια τρέχουν σε emulator. Μάλιστα, αναφέρει πως στο Super Mario Galaxy, η Nintendo έκανε recompile το παιχνίδι να τρέχει απευθείας στον επεξεργαστή του Nintendo Switch, ωστόσο τα γραφικά και ο ήχος τρέχουν μέσα από Emulator!!&lt;/p>
+&lt;p>Το Super Mario 64 κυκλοφόρησε πρώτη φορά για το Nintendo 64 το 1996, με τον τίτλο να είναι η πρώτη 3D εμπειρία που γνωρίσαμε με πρωταγωνιστή, τον Mario και να θεωρείται ακόμα και σήμερα ένα από τα κορυφαία platform όλων των εποχών. Το Super Mario Sunshine ακολούθησε αυτά τα βήματα,στο Nintendo Gamecube, μία όχι και τόσο πετυχημένη κονσόλα της Nintendο , ενώ το Super Mario Galaxy απογείωσε τη φόρμουλα των προαναφερθέντων στο Nintendo Wii.&lt;/p>
+&lt;p>Η τιμή στα Ελληνικά καταστήματα λιανικής κυμαίνεται στα 60 ευρώ!!!&lt;/p>
+&lt;p>Λέτε να δούμε τα επόμενα χρόνια και τα υπόλοιπα παιχνίδια της σειράς (Super Mario Galaxy 2 ) ή ακόμη και το Paper Mario ή άλλα Gamecube,Wii games να κάνουν την εμφάνιση τους στο Switch?&lt;/p></content></item></channel></rss>
