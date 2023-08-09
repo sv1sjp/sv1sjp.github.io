@@ -8,14 +8,14 @@ paginate = 20
   # the list of set content will show up on your index page (baseurl).
   contentTypeName = "posts"
 
-  # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "pink"
+  # ["orange", "blue", "red", "green", "pink", "lime"]
+  themeColor = "lime"
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 10
 
   # show selector to switch language
-  showLanguageSelector = true
+  showLanguageSelector = false
 
   # set theme to full screen width
   fullWidthTheme = false
@@ -42,7 +42,7 @@ paginate = 20
    oneHeadingSize = false # default
 
   # whether to show a page's estimated reading time
-  # readingTime = false # default
+   readingTime = true
 
   # whether to show a table of contents
   # can be overridden in a page's front-matter
@@ -63,12 +63,12 @@ paginate = 20
 [languages]
   [languages.en]
     languageName = "English"
-    title = "DimitrisV SV1SJP"
+    title = "Dimitris Vagiakakos SV1SJP"
     subtitle = "eLearning "
     owner = "Dimitris Vagiakakos"
-    keywords = "linux"
-    copyright = "TuxHouse - Dimitris LinuxOS - 2011-2023"
-    menuMore = "Show more usefull stuff"
+    keywords = "decentralized"
+    copyright = "All rights reserved, TuxHouse Educational Technologies - Dimitris LinuxOS - 2011-2023"
+    menuMore = "Show more useful stuff"
     readMore = "Read more stuff"
     readOtherPosts = "Read other posts"
     newerPosts = "Newer posts"
@@ -86,6 +86,10 @@ paginate = 20
         name = "$whoami"
         url = "/whoami"
      
+     [[languages.en.menu.main]]
+        identifier = "micro-blogging"
+        name = "micro-blogging"
+        url = "https://fosstodon.org/@sv1sjp"
        [[languages.en.menu.main]]
         identifier = "Blockchain Camera"
         name = "Blockchain Camera"
@@ -100,14 +104,26 @@ paginate = 20
         identifier = "Blockchain WriteUps"
         name = "Blockchain WriteUps"
         url = "/Blockchain_WriteUps"
-
+	
+	[[languages.en.menu.main]]
+        identifier = "Greek-Articles"
+        name = "Greek_Articles"
+        url = "/Greek_Articles"
+        
         [[languages.en.menu.main]]
         identifier = "Panellinies_AEPP"
         name = "Panellinies_AEPP"
         url = "/Panellinies_AEPP/index.html"
         
+         [[languages.en.menu.main]]
+        identifier = "Videos"
+        name = "Videos"
+        url = "https://odysee.com/@TuxHouse:1"
+        
         [[languages.en.menu.main]]
         identifier = "Ubuntel"
-        
         name = "Ubuntel"
-        url = "/Ubuntel"
+        url = "/el/Ubuntel"
+        
+        
+   
