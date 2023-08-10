@@ -57,6 +57,9 @@ _____
 
  [FOSSCOMM 2021](https://2021.fosscomm.gr/index.html) | [PyChain 2022](https://www.pychain.org/) | [FOSSCOMM 2022](https://2022.fosscomm.gr/en/) | [FOSSDEM 2023](https://fosdem.org/2023/) | [FOSSCOMM 2023](https://2023.fosscomm.gr/)
 
+Countries I have visited:
+🇪🇺 :🇬🇷|🇧🇬|🇧🇪 
+
 ### Translating in:
 Jebroa | Ethereum.org | SnapDrop | CrDroid | DivestOS | BTCMap | Lemmy | Element | Hypatia | IRR | Fedora | Extiparter
 
