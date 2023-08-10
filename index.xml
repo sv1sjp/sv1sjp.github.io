@@ -1,4 +1,71 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dimitris Vagiakakos SV1SJP</title><link>/</link><description>Recent content on Dimitris Vagiakakos SV1SJP</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>All rights reserved, TuxHouse Educational Technologies - Dimitris LinuxOS - 2011-2023</copyright><lastBuildDate>Wed, 28 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Τέλος το Reddit; Καλώς Ορίσατε στο Lemmy</title><link>/greek_articles/lemmy/</link><pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate><guid>/greek_articles/lemmy/</guid><description>Σημαντική Ανακοίνωση: Το παρών άρθρο έχει δημοσιτευτεί επίσημα στο Linux-User.gr και διατηρείται εδώ για καθαρά λόγους αρχειοθέτησης.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dimitris Vagiakakos SV1SJP</title><link>/</link><description>Recent content on Dimitris Vagiakakos SV1SJP</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>All rights reserved, TuxHouse Educational Technologies - Dimitris LinuxOS - 2011-2023</copyright><lastBuildDate>Wed, 28 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>DS.Unipi</title><link>/ds.unipi/</link><pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate><guid>/ds.unipi/</guid><description>./Welcome.sh 🏛 Καλώς όρισες στο Τμήμα Ψηφιακών Συστημάτων του Πανεπιστημίου Πειραιώς. Μία νέα αρχή στην ζωή σου ξεκινάει. Μία Δύσκολη νέα αρχή. Σε αυτή την σελίδα θα γίνει προσπάθεια συσσώρευσης γνώσης σχετικά με το τμήμα Ψηφιακών Συστημάτων του ΠΑΠΕΙ για τους πρωτοετείς φοιτητές.
+Πρώτα βήματα🚶: Πριν κάνεις οποιαδήποτε ενέργεια, οφείλεις να δεις το 20λέπτο επεισόδιο του Panellinies_AEPP με τίτλο:
+Πέρασες σε σχολή Πληροφορικής/Πολυτεχνείο; 9 Συμβουλές από έναν Software Engineer, από τον Kyriakos Giannakis και τον Dimitris Vagiakakos : YouTube Link 📺.</description><content>&lt;h1 id="welcomesh">./Welcome.sh&lt;/h1>
+&lt;p>&lt;img src="https://sso.unipi.gr/images/unipi-logo.jpg" alt="">&lt;/p>
+&lt;h3 id="-καλώς-όρισες-στο-τμήμα-ψηφιακών-συστημάτων-του-πανεπιστημίου-πειραιώς">🏛 Καλώς όρισες στο Τμήμα Ψηφιακών Συστημάτων του Πανεπιστημίου Πειραιώς.&lt;/h3>
+&lt;pre tabindex="0">&lt;code>Μία νέα αρχή στην ζωή σου ξεκινάει. Μία Δύσκολη νέα αρχή.
+&lt;/code>&lt;/pre>&lt;p>Σε αυτή την σελίδα θα γίνει προσπάθεια συσσώρευσης γνώσης σχετικά με το τμήμα Ψηφιακών Συστημάτων του ΠΑΠΕΙ για τους πρωτοετείς φοιτητές.&lt;/p>
+&lt;h2 id="πρώτα-βήματα">Πρώτα βήματα🚶:&lt;/h2>
+&lt;p>Πριν κάνεις οποιαδήποτε ενέργεια, &lt;strong>οφείλεις&lt;/strong> να δεις το 20λέπτο επεισόδιο του &lt;a href="https://sv1sjp.github.io/panellinies_aepp/">Panellinies_AEPP&lt;/a> με τίτλο:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Πέρασες σε σχολή Πληροφορικής/Πολυτεχνείο; 9 Συμβουλές από έναν Software Engineer&lt;/strong>, από τον &lt;a href="https://www.linkedin.com/in/kgiannakis">Kyriakos Giannakis&lt;/a> και τον &lt;a href="https://sv1sjp.github.io/whoami/">Dimitris Vagiakakos&lt;/a> : &lt;a href="https://www.youtube.com/watch?v=iNKmOlEptLc&amp;amp;list=PLZa7COjIxKWxh-699iV33AzR6LNPD26nt&amp;amp;index=5">YouTube Link&lt;/a> 📺.&lt;/li>
+&lt;/ul>
+&lt;p>Έπειτα, προτείνεται να μπεις στην Ομάδα των Ψηφιακών Συστημάτων στο Facebook: &lt;a href="https://www.facebook.com/groups/156975941004275">Ψηφιακά ftw!!!&lt;/a> 📘 καθώς και να ακολουθήσεις για να μαθαίνεις νέα, τον λογαριασμό των Ψηφιακών Συστημάτων του ΠΑΠΕΙ στο &lt;a href="https://instagram.com/unipi.ds">Instagram&lt;/a> 📸.&lt;/p>
+&lt;p>&lt;code>Και φυσικά ψάχνεις να βρεις συμφοιτητές σου της ηλικίας σου οπού θα συνεργαστείτε τα επόμενα χρόνια.&lt;/code> Μέσα από το &lt;a href="https://instagram.com/topa_peirazeiofficiail">Το ΠΑ,ΠΕΙράζει;&lt;/a>, μπορείτε πολύ εύκολα να βρείτε άτομα από το ίδιο τμήμα με εσάς αλλά και άτομα που σπουδάζουν σε άλλα τμήματα.&lt;/p>
+&lt;hr>
+&lt;h1 id="συμβουλές-επιβιώσης-ψηφιακών-συστημάτων-παπει">Συμβουλές Επιβιώσης Ψηφιακών Συστημάτων ΠΑΠΕΙ:💡&lt;/h1>
+&lt;p>Από ψυχικής άποψης, το &lt;a href="https://instagram.com/topa_peirazeiofficiail">Το ΠΑ,ΠΕΙράζει;&lt;/a> έχει γράψει ένα πολύ ωραίο κείμενο σχετικά με το πώς να το διαχειριστείτε, το οποίο μπορέιτε να βρείτε &lt;a href="https://www.facebook.com/topapeirazeiofc/posts/pfbid02WLoVC7rvcvZpuHppUbDaaDRxhWjW4Kpz27LinNLv6oDqxYwopspmVfqewkqW5vJal">εδώ:&lt;/a>&lt;/p>
+&lt;h3 id="από-πρακτικής-άποψης-συμβουλές-επιβίωσης-ψηφιακών-συστημάτων-παπει">Από πρακτικής άποψης🔐: Συμβουλές Επιβίωσης Ψηφιακών Συστημάτων ΠΑΠΕΙ:&lt;/h3>
+&lt;p>Ως προς στρατηγική διαβάσματος, το τμήμα Ψηφιακών Συστημάτων του ΠΑΠΕΙ είναι αρκετά hardcore. Η αρχή θα είναι δύσκολη. Οι καθηγητές κάνουν γερά καψόνια με στόχο να διώξουν από την σχολή όσους έχουν έρθει για άραγμα αλλά και να σας σκληραγωγήσουν για να αντέξετε στα επόμενα που έρχονται. Μην σας παίρνει από κάτω όμως, όποιος προσπαθεί σε longterm ανταμείβεται.
+Όσο πιο νωρίς συνηθίσεις στο να κόβεσαι, τόσο καλύτερο για την ψυχική σου υγεία. Δεν χρειάζεται να είσαι αδιάβαστος για να κοπείς, δεν χρειάζεται να είσαι διαβασμένος για να περάσεις. Επίσης, δεν σημαίνει ότι επειδή ο δίπλα σου δεν έχει πατήσει ποτέ του, δεν θα περάσει. Αυτά είναι τα κύρια ψυχικά χτυπήματα του πρώτου καιρού στα οποία θα καλεστείς να ξεπεράσεις.
+Ορισμένοι καθηγητές από την πρώτη μέρα που θα μπείτε στο τμήμα θα σας κάνουν καψόνια για να τα παρατήσετε και να πάτε για 10% στο ΟΔΕ του ΠΑΠΕΙ. Ένας άλλος επίτηδες θα σας κουράζει με πάρα πολλές ασκήσεις και διάβασμα,επίτηδες, θα σας κάνει να νίωσετε ανήμποροι, επίτηδες θα σας κάνει να μην μπορείτε να ανταπεξέλθετε και να επιλέξετε την εύκολη λύση της παραίτησης. Όσοι αντέξουν όμως, στο τέλος θα δούνε ότι είναι εφικτό να ολοκληρώσουν τις σπουδές στην ώρα τους καθώς και να βρούν σε μηδενικό χρόνο θέση εργασίας στο αντικείμενο που τους αρέσει.&lt;/p>
+&lt;p>Η σχολή μας θέλει πολύ γερό στομάχι, έχουμε πάρα πολλά μαθηματικά και αυστηρότατους καθηγητές. Μην σας φανεί καθόλου περίεργο αν πρώτο εξάμηνο περάσετε μόλις 2/5 και τον Σεπτέμβριο βρεθείτε με 5/10 χρωστούμενα. Είναι μία συνήθεια που σε κάνει να νιώσεις άσχημα ψυχικά, αλλά μόλις αντιμετωπίσεις τον εαυτό σου, όλα γίνονται εύκολα μετά.&lt;/p>
+&lt;p>Εσύ είσαι ο εχθρός του εαυτού σου και η αδυναμία σου να κρατήσεις υψηλά την ψυχραιμία και αυτοπεποίθηση σου. Οι καθηγητές στα πρώτα εξάμηνα κάνουν το ξεσκατάρισμα της σχολής. Από τους 200 φοιτητές που θα περάσουν, καταλήγουμε 50-60 άτομα και από αυτούς ενεργοί μένουν τελικά οι 20, και στα αμφιθέατρα πατάνε οι 10-15. Οπότε, το point είναι &lt;em>διαβάζετε και μην λυγίζετε&lt;/em>. Στο τέλος θα τα περάσετε. Με την 2η; Με την 3η; &lt;em>who cares&lt;/em>. Απλά μην αφήνετε κενά, ακόμα και να μην περάσετε ένα μάθημα, αν έχετε καταλάβει σε καλό ποσοστό τι γίνεται, μπορείτε να επιβιώσετε στα επόμενα.&lt;/p>
+&lt;pre tabindex="0">&lt;code>Μπορείς να τα καταφέρεις!
+&lt;/code>&lt;/pre>&lt;p>Όπως είπα και πριν, η αρχή είναι δύσκολη, μετά θα μάθετε τον χορό και θα τα περνάτε σκούπα! Το πιο σημαντικό όμως είναι να ψάχνεστε συνεχώς μόνοι σας και να μην μένετε μόνο σε ο,τι είδατε στην σχολή. Το εξηγώ ακόμα πιο αναλυτικά &lt;a href="https://www.youtube.com/watch?v=iNKmOlEptLc&amp;amp;list=PLZa7COjIxKWxh-699iV33AzR6LNPD26nt&amp;amp;index=5">στο βίντεο με τον Κυριάκο Γιαννάκη που αναφέρθηκε στην αρχή αυτού του οδηγού επιβίωσης.&lt;/a>&lt;/p>
+&lt;p>Αν αρχίσετε να τα αφήνετε, θα μαζευτούν πολλά και δύσκολα. Αν ασχολείστε συστηματικά, στην αρχή θα φανεί challenging, μετέπειτα θα έχετε το πάνω χέρι εσείς. Άλλο ένα φρούτο επίσης κάνει το εξής γνωστό bullying: κάθε χρόνο παίζει μία κασέτα: &lt;strong>Ο μέσος όρος της σχολής είναι στα 6.5 χρόνια, δεν θα πάρετε ποτέ πτυχίο, δεν θα πετύχετε&lt;/strong> κτλπ κτλπ Ισχυόυν; Ναι ισχύουν εν μέρη. Γιατί ισχύουν; Γιατί τα παιδιά δεν αντέχουν να πισμώσουν να αντιμετωπίσουν τις δυσκολίες και τα παρατάνε. Άρα συνωψίζοντας, διαβάζουμε, δεν αγχωνόμαστε όταν κοβόμαστε, περνιούνται πανεύκολα την επόμενη και γενικά ΠΡΟΣΠΑΘΟΥΜΕ! Υλικό για διάβασμα υπάρχει αμέτρητο. Εκτός από το άφθονο δωρεάν υλικό που υπάρχει στο YouTube, Udemy, στις ανακοινώσεις του facebook group μας κτλπ, το τμήμα μας βρίσκεται στην ευχάριστη θέση να διαθέτει και ανθρώπους που σχεδιάζουν &lt;em>Δωρεάν Courses&lt;/em> στο YouTube και στο LBRY, αποκλειστικά για τα Μαθήματα των Ψηφιακών Συστημάτων του ΠΑΠΕΙ.&lt;/p>
+&lt;hr>
+&lt;h2 id="elearning-courses-σχεδιασμένα-για-μαθήματα-των-ψηφιακών-συστημάτων-του-παπει">eLearning Courses σχεδιασμένα για Μαθήματα των Ψηφιακών Συστημάτων του ΠΑΠΕΙ:&lt;/h2>
+&lt;p>🏛 Οι εκπαιδευτικές σειρές που βρίσκονται σε αυτή την λίστα μπορούν να βρεθούν στο LBRY και YouTube εντελώς δωρεάν. Ένα Like &amp;amp;&amp;amp; μία εγγραφή μπορούν να βοηθήσουν τα Projects να εξελιχθoύν σε κάτι μεγαλύτερο!&lt;/p>
+&lt;ul>
+&lt;li>🇬🇷 Linux for Beginners (Greek) by TuxHouse - &lt;a href="https://sv1sjp.github.io/whoami/">Dimitris Vagiakakos @sv1sjp&lt;/a>: &lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWx2Xt4spOOlxKzGJa5FFmoV">YouTube&lt;/a>&lt;/li>
+&lt;li>🇬🇷 Ultimate UNIX Tutorial (Greek) by TuxHouse - &lt;a href="https://sv1sjp.github.io/whoami/">Dimitris Vagiakakos @sv1sjp&lt;/a>: &lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzfu1kLBWBbj-3wdKSzDVl4">YouTube&lt;/a> , &lt;a href="https://odysee.com/@TuxHouse:1/ultimate_linux_terminal_tutorial_greek_part1:e?lid=9590f4f28cecd27d8e9414a284ae9296e3a0a81f">LBRY&lt;/a>&lt;/li>
+&lt;li>🇬🇷 Linux Master Class by (flare.gr)[flare.gr] - &lt;a href="https://www.linkedin.com/in/kgiannakis">Kyriakos Giannakis&lt;/a>: &lt;a href="https://www.youtube.com/watch?v=Kg5wl8JeO5o&amp;amp;list=PLrAcBWPfJzPTBOkH-2ErM0nTzdo44FBH9">YouTube&lt;/a>&lt;/li>
+&lt;li>🇬🇷 Pointers in C Programming Language by Pliromatics - [Aristomenis Tressos)[https://www.linkedin.com/in/aristomenis-tressos-783938265] : &lt;a href="https://www.youtube.com/watch?v=S7Wcp_1yO5w&amp;amp;list=PLTB_YxFt6y5PvezCMC52cBc9aH8d--OcO&amp;amp;pp=iAQB">YouTube&lt;/a>&lt;/li>
+&lt;li>🇬🇷 Mathematical Induction by Pliromatics - [Aristomenis Tressos)[https://www.linkedin.com/in/aristomenis-tressos-783938265] : &lt;a href="https://www.youtube.com/watch?v=OBYSJgExyfo&amp;amp;list=PLTB_YxFt6y5PCSsNazhk9_ZXYflZHFqiq">YouTube&lt;/a>&lt;/li>
+&lt;li>🇬🇷 Information Theory (Greek) by TuxHouse - &lt;a href="https://sv1sjp.github.io/whoami/">Dimitris Vagiakakos @sv1sjp&lt;/a> &lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzq3tyDlMqUmVzd1a7zDpT-">YouTube&lt;/a> , &lt;a href="https://odysee.com/$/playlist/9793029be347028f406fa73c0c2a2797fff50b9b">LBRY&lt;/a>&lt;/li>
+&lt;li>🇬🇷 Cryptography by Pliromatics - [Aristomenis Tressos)[https://www.linkedin.com/in/aristomenis-tressos-783938265] : &lt;a href="https://www.youtube.com/watch?v=OBYSJgExyfo&amp;amp;list=PLTB_YxFt6y5PCSsNazhk9_ZXYflZHFqiq">YouTube&lt;/a>&lt;/li>
+&lt;li>🇬🇷 Smart-Contract Security (Greek) TuxHouse - &lt;a href="https://sv1sjp.github.io/whoami/">Dimitris Vagiakakos @sv1sjp&lt;/a>: &lt;a href="https://www.youtube.com/watch?v=kmlhkMLF8yk&amp;amp;list=PLZa7COjIxKWzLcMxI9cRNSzOtdR0xvXB7">YouTube&lt;/a> , &lt;a href="https://odysee.com/$/playlist/35cdd869a31e31b26c6a95b3261155a3215243ba">LBRY&lt;/a>&lt;/li>
+&lt;li>🇬🇷 Για Μαθηματική Λογική, Λογικές Πύλες, Πολυπλοκότητα, Τεχνητή Νοημοσύνη,Γλώσσες Προγραμματισμού, Βάσεις Δεδομένων και άλλα πολλά, δείτε το κανάλι του: &lt;a href="https://www.youtube.com/@psounis/playlists">Δημήτρης Ψούνης [YouTube]&lt;/a>&lt;/li>
+&lt;li>🇬🇷 Στο κανάλι &lt;a href="https://www.youtube.com/channel/UCAWpP1vI-O-IiVc6TQcNZkg">Science and Tech GR&lt;/a> επίσης θα βρείτε αρκετές εκπαιδευτικές διαλέξεις, οργανωμένες ανά μάθημα.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="/img/series.jpg" alt="">&lt;/p>
+&lt;h2 id="βιβλία--papers-που-έχουν-δημιουργηθεί-εντός-των-ψηφιακών-συστημάτων-του-παπει">Βιβλία &amp;amp;&amp;amp; papers που έχουν δημιουργηθεί εντός των Ψηφιακών Συστημάτων του ΠΑΠΕΙ:&lt;/h2>
+&lt;p>&lt;strong>(Για να προσθέσετε δικές σας πτυχιακές και papers σε αυτή την λίστα, &lt;a href="https://sv1sjp.github.io/whoami/">στείλτε ένα μήνυμα σε κάποιο social media από την κατηγορία whoami&lt;/a>.&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>🇬🇧 &lt;a href="https://github.com/sv1sjp/Blockchain_Camera/blob/main/Blockchain_Camera.pdf"> Developing an Ethereum Based Blockchain Camera: Dimitris Vagiakakakos&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>🇬🇷 &lt;a href="https://github.com/sv1sjp/eVoting_Elections_Decentralized_App/blob/main/Privacy%20in%20Blockchain%20and%20Web3.0%20(Greek).pdf"> Privacy in Blockchain and Web3.0 - Second Edition (Book in Greek): Dimitris Vagiakakakos, Konstantinos Karahalis, Stavros Gkinos&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>🇬🇧 &lt;a href="">Developing a Blockchain eVoting Application using Ethereum, Dimitris Vagiakakos, Konstantinos Karahalis, Stavros Gkinos&lt;/a>. 🇬🇷 Greek Slides from this paper can be found &lt;a href="https://github.com/sv1sjp/eVoting_Elections_Decentralized_App/blob/main/eVoting_Decentralized_Application_PresentationGR.pdf">there:&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>🇬🇧 &lt;a href="https://github.com/sv1sjp/eVoting_Elections_Decentralized_App/blob/main/smartcontract_security_paper.pdf">Smart Contract Security: Dimitris Vagiakakakos, Stavros Gkinos, Ioannis Karvelas&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://www.ds.unipi.gr/wp-content/uploads/2019/04/University-of-Piraeus-Logo.png" alt="">&lt;/p>
+&lt;p>&lt;em>Καλή αρχή!!!&lt;/em> 🚀&lt;/p>
+&lt;pre tabindex="0">&lt;code> .--.
+|o_o |
+|:_/ | (\__/)
+// \ \ (o^-^)
+(| | ) z(_(&amp;#34;)(&amp;#34;)
+/&amp;#39;\_ _/`\
+\___)=(___/
+&lt;/code>&lt;/pre></content></item><item><title>Τέλος το Reddit; Καλώς Ορίσατε στο Lemmy</title><link>/greek_articles/lemmy/</link><pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate><guid>/greek_articles/lemmy/</guid><description>Σημαντική Ανακοίνωση: Το παρών άρθρο έχει δημοσιτευτεί επίσημα στο Linux-User.gr και διατηρείται εδώ για καθαρά λόγους αρχειοθέτησης.
 Αφού αναφέραμε τι συμβαίνει με τους εκβιασμούς του Reddit σε moderators από όσα subreddits έγιναν private τις ημέρες τις διαμαρτυρίας, ήρθε η ώρα να αναφερθούμε στην επόμενη ημέρα.
 Σήμερα 30/06/2023 είναι η τελευταία ημέρα που δουλεύουν μαζικά όλες οι third party εφαρμογές. Από 01/07/2023, οι χρήστες του Reddit θα πρέπει να κατεβάσουν είτε την επίσημη εφαρμογή του Reddit με τους γνωστούς της περιορισμούς, είτε να κάνουν compile χειροκίνητα με δικά τους API keys τις εφαρμογές που θέλουν να χρησιμοποιήσουν.</description><content>&lt;p>&lt;a href="https://linux-user.gr/t/telos-to-reddit-kalws-orisate-sto-lemmy/4988">Σημαντική Ανακοίνωση: Το παρών άρθρο έχει δημοσιτευτεί επίσημα στο Linux-User.gr και διατηρείται εδώ για καθαρά λόγους αρχειοθέτησης.&lt;/a>&lt;/p>
 &lt;p>&lt;img src="https://linux-user.gr/uploads/default/optimized/2X/d/d433e17b9a0d3659dbc57015a23e1b57605c744d_2_690x454.jpeg" alt="">&lt;/p>
@@ -269,7 +336,272 @@ sl -F : Το τραίνο αρχίζει και πετάει
 &lt;h3 id="unmount">Unmount&lt;/h3>
 &lt;p>Φυσικά, αν για οποιοδήποτε λόγο θέλουμε να αφαιρέσουμε την συσκευή ενώ έχουμε τo PC/RaspberryPi/Server ανοικτό, απλά δίνουμε:&lt;/p>
 &lt;pre tabindex="0">&lt;code>sudo umount /media/myUSB
-&lt;/code>&lt;/pre>&lt;p>Και όταν τον συνδέσουμε ξανά, το autofs θα τον ξανακάνει mount αυτόματα. :)&lt;/p></content></item><item><title>./welcome.sh</title><link>/posts/hello/</link><pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate><guid>/posts/hello/</guid><description>Hello stranger, My name is DimitrisV SV1SJP, I am from Greece,EU and this is my small website. On this website I will organise all the educational stuff I have created in both Greek and English. This is the very first release so expect bugs and glitches.
+&lt;/code>&lt;/pre>&lt;p>Και όταν τον συνδέσουμε ξανά, το autofs θα τον ξανακάνει mount αυτόματα. :)&lt;/p></content></item><item><title>$whoami</title><link>/whoami/</link><pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate><guid>/whoami/</guid><description>$whoami
+Dimitris Vagiakakos @sv1sjp 🏠 Founder of TuxHouseEdu 🔗 Blockchain Security Engineer 🔍 Penetration Tester at Grant Thornton Greece 🎓 Specializing in Educational Technologies 📸 Creator of Blockchain Camera 🐧 Moderating Linux-User.gr
+MSc in Blockchain &amp;amp; Digital Currency at University Of Nicosia 🇪🇺🇨🇾 BSc in Digital Systems Security at University Of Piraeus 🇪🇺🇬🇷 From: Mani, Lakonia, Greece, EU 🇪🇺🇬🇷 Based in: Athens, Greece, EU 🇪🇺🇬🇷 Find me on: Platform ./ 🔗 LinkedIn 📸 Instagram 🍋 Lemmy 🐘 Mastodon 💬 Telegram 🐙 Github 📺 TuxHouse YouTube 🏠 TuxHouse LBRY 📸 TuxHouse Instagram 🎵 TuxHouse TikTok 🐧 Linux-User.</description><content>&lt;p>$whoami&lt;/p>
+&lt;h1 id="dimitris-vagiakakos-sv1sjp">Dimitris Vagiakakos @sv1sjp&lt;/h1>
+&lt;p>&lt;img src="/img/sv1sjp.jpg" alt="">&lt;/p>
+&lt;p>🏠 Founder of TuxHouseEdu
+🔗 Blockchain Security Engineer
+🔍 Penetration Tester at Grant Thornton Greece
+🎓 Specializing in Educational Technologies
+📸 Creator of Blockchain Camera
+🐧 Moderating Linux-User.gr&lt;/p>
+&lt;pre tabindex="0">&lt;code>MSc in Blockchain &amp;amp; Digital Currency at University Of Nicosia 🇪🇺🇨🇾
+BSc in Digital Systems Security at University Of Piraeus 🇪🇺🇬🇷
+&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code>From: Mani, Lakonia, Greece, EU 🇪🇺🇬🇷
+Based in: Athens, Greece, EU 🇪🇺🇬🇷
+&lt;/code>&lt;/pre>&lt;h2 id="find-me-on">Find me on:&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Platform&lt;/th>
+&lt;th>./&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>🔗 &lt;a href="https://www.linkedin.com/in/sv1sjp">LinkedIn&lt;/a>&lt;/td>
+&lt;td>📸 &lt;a href="https://www.instagram.com/sv1sjp/">Instagram&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🍋 &lt;a href="https://lemmy.world/u/sv1sjp">Lemmy&lt;/a>&lt;/td>
+&lt;td>🐘 &lt;a href="https://fosstodon.org/@sv1sjp">Mastodon&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>💬 &lt;a href="https://t.me/sv1sjp">Telegram&lt;/a>&lt;/td>
+&lt;td>🐙 &lt;a href="https://github.com/sv1sjp">Github&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>📺 &lt;a href="https://youtube.com/@TuxHouseEdu">TuxHouse YouTube&lt;/a>&lt;/td>
+&lt;td>🏠 &lt;a href="https://odysee.com/@TuxHouse">TuxHouse LBRY&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>📸 &lt;a href="https://www.instagram.com/tuxhouseedu">TuxHouse Instagram&lt;/a>&lt;/td>
+&lt;td>🎵 &lt;a href="https://www.tiktok.com/@tuxhouseedu">TuxHouse TikTok&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>🐧 &lt;a href="https://linux-user.gr/u/sv1sjp">Linux-User.gr&lt;/a>&lt;/td>
+&lt;td>📻 &lt;a href="https://www.qrz.com/db/sv1sjp">QRZ&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>💬 &lt;a href="https://discordapp.com/users/sv1sjp">Discord&lt;/a>&lt;/td>
+&lt;td>📡 &lt;a href="https://matrix.to/#/@sv1sjp:matrix.org">Matrix&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>You don&amp;rsquo;t have anything from all of these? Well, you can send me an email:&lt;/p>
+&lt;pre tabindex="0">&lt;code>dimitrislinuxos@protonmail.ch
+&lt;/code>&lt;/pre>&lt;p>?? Do you need to use encryption? You can find my PGP public key &lt;a href="/PDFs/pgp.txt">here:&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h2 id="other-information">Other Information:&lt;/h2>
+&lt;h3 id="noticable-projects">Noticable Projects:&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://sv1sjp.github.io/blockchain_camera/">Developing an Ethereum Based Blockchain Camera&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzLcMxI9cRNSzOtdR0xvXB7">Ethereum Hacking - Smart Contract Security Series&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzfu1kLBWBbj-3wdKSzDVl4">Ultimate Linux Terminal Tutorial Series (Greek)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzq3tyDlMqUmVzd1a7zDpT-">Information Theory Series&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://sv1sjp.github.io/panellinies_aepp/index.html">Panellinies_AEPP&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="/img/Blockchain_Camera_EN.jpg" alt="">&lt;/p>
+&lt;p>&lt;img src="/img/series.jpg" alt="">&lt;/p>
+&lt;h3 id="presenter-at-the-conferences">Presenter at the Conferences:&lt;/h3>
+&lt;p>&lt;a href="https://2021.fosscomm.gr/index.html">FOSSCOMM 2021&lt;/a> | &lt;a href="https://www.pychain.org/">PyChain 2022&lt;/a> | &lt;a href="https://2022.fosscomm.gr/en/">FOSSCOMM 2022&lt;/a> | &lt;a href="https://fosdem.org/2023/">FOSSDEM 2023&lt;/a> | &lt;a href="https://2023.fosscomm.gr/">FOSSCOMM 2023&lt;/a>&lt;/p>
+&lt;h3 id="countries-i-have-visited">Countries I have visited:&lt;/h3>
+&lt;p>🇬🇷🇧🇬🇧🇪🇪🇺&lt;/p>
+&lt;h3 id="translating-in">Translating in:&lt;/h3>
+&lt;p>Jebroa | Ethereum.org | SnapDrop | CrDroid | DivestOS | BTCMap | Lemmy | Element | Hypatia | IRR | Fedora | Extiparter&lt;/p></content></item><item><title>Panellinies_AEPP Ασκήσεις</title><link>/panellinies.aepp_ask/</link><pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate><guid>/panellinies.aepp_ask/</guid><description>Προσοχή: Από τις 28 Δεκεμβρίου το Project Panellinies_AEPP απενεργοποιεί όλες τις διαφημίσεις πάνω στο εκπαιδευτικό υλικό. Τo Project πλέον λειτουργεί και υποστηρίζεται αποκλειστικά από τις χορηγίες σας σε Basic Attention Token (BAT) μέσω του Brave Browser στο κανάλι στο Youtube καθώς και σε άλλα κρυπτονομίσματα στις παρακάτω διευθύνσεις:
+Bitcoin: bc1q6j959m3whh44ztr8k6p7545n5pzcsncple7qmy
+Ethereum: 0x3f27F05Ca28a5B5F876A3A7d435E2E852756F873
+Cardano: addr1qxewtm0y5yk2mgf93ct4ghguus2shu34fu786t62j3tv7296evenhmr0ltmx3hdyw4d6d8gj8qspry5pe3raaw4nu8as7jsr9l
+Monero: 46ewn3rgXMSceuEUEng1bze1RzG61rEiFV3hJ6VKuzvHU62jPntydJRBcFinQ62Pad8AvdoX9YbQcY5HKX3Cr3UQPkhiQ4L
+VeChain:0x3f27F05Ca28a5B5F876A3A7d435E2E852756F873
+Shiba:0x3f27F05Ca28a5B5F876A3A7d435E2E852756F873
+AIOZ:0x3f27F05Ca28a5B5F876A3A7d435E2E852756F873
+Για το πώς θα κερδίσετε δωρεάν BAT, διαβάστε αυτό το άρθρο κάνοντας κλικ εδώ</description><content>&lt;p>&lt;img src="/img/brave.png" alt="">&lt;/p>
+&lt;p>Προσοχή: Από τις 28 Δεκεμβρίου το Project Panellinies_AEPP απενεργοποιεί όλες τις διαφημίσεις πάνω στο εκπαιδευτικό υλικό.
+Τo Project πλέον λειτουργεί και υποστηρίζεται αποκλειστικά από τις χορηγίες σας σε Basic Attention Token (BAT) μέσω του Brave Browser &lt;a href="https://www.youtube.com/LinuxOSblog/">στο κανάλι στο Youtube&lt;/a> καθώς και σε άλλα κρυπτονομίσματα στις παρακάτω διευθύνσεις:&lt;/p>
+&lt;p>Bitcoin: bc1q6j959m3whh44ztr8k6p7545n5pzcsncple7qmy&lt;/p>
+&lt;p>Ethereum: 0x3f27F05Ca28a5B5F876A3A7d435E2E852756F873&lt;/p>
+&lt;p>Cardano: addr1qxewtm0y5yk2mgf93ct4ghguus2shu34fu786t62j3tv7296evenhmr0ltmx3hdyw4d6d8gj8qspry5pe3raaw4nu8as7jsr9l&lt;/p>
+&lt;p>Monero: 46ewn3rgXMSceuEUEng1bze1RzG61rEiFV3hJ6VKuzvHU62jPntydJRBcFinQ62Pad8AvdoX9YbQcY5HKX3Cr3UQPkhiQ4L&lt;/p>
+&lt;p>VeChain:0x3f27F05Ca28a5B5F876A3A7d435E2E852756F873&lt;/p>
+&lt;p>Shiba:0x3f27F05Ca28a5B5F876A3A7d435E2E852756F873&lt;/p>
+&lt;p>AIOZ:0x3f27F05Ca28a5B5F876A3A7d435E2E852756F873&lt;/p>
+&lt;p>Για το πώς θα κερδίσετε δωρεάν BAT, διαβάστε αυτό το άρθρο κάνοντας κλικ &lt;a href="https://cerebrux.net/2021/02/25/brave-bat-token/">εδώ&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h1 id="season-3">Season 3:&lt;/h1>
+&lt;h1 id="θέματα-αβ-">Θέματα Α+Β :&lt;/h1>
+&lt;p>&lt;a href="/PDFs/askhseisA+B/panellinies_aepp_a+b_1.pdf"> Θέματα Α+Β - Part1&lt;/a>&lt;/p>
+&lt;p>&lt;a href="/PDFs/askhseisA+B/panellinies_aepp_a+b_1.pdf">Θέματα Α+Β - Part2&lt;/a>&lt;/p>
+&lt;h1 id="θέματα-γδ-">Θέματα Γ+Δ :&lt;/h1>
+&lt;p>&lt;a href="/PDFs/askhseisG+D/panellinies_aepp_g+d_1.pdf">Θέματα Γ+Δ - Part1&lt;/a>&lt;/p>
+&lt;p>&lt;a href="/PDFs/askhseisG+D/panellinies_aepp_g+d_2.pdf">Θέματα Γ+Δ - Part2&lt;/a>&lt;/p>
+&lt;p>&lt;a href="/PDFs/askhseisG+D/panellinies_aepp_g+d_3.pdf">Θέματα Γ+Δ - Part3&lt;/a>&lt;/p>
+&lt;h1 id="διαγωνίσματα-προσομοίωσης">Διαγωνίσματα προσομοίωσης:&lt;/h1>
+&lt;p>&lt;a href="/PDFs/askhseisG+D/test1.pdf">Διαγώνισμα Προσωμοίωσης &lt;/a>&lt;/p>
+&lt;h2 id="iστορικό">Iστορικό:&lt;/h2>
+&lt;hr>
+&lt;p>SEASON 2:&lt;/p>
+&lt;p>ΘΕΜΑΤΑ Α ΚΑΙ Β :&lt;/p>
+&lt;p>Φυλλάδιο 00 - Εισαγωγικές Ασκήσεις στον κόσμο του ΑΕΠΠ&lt;/p>
+&lt;p>Θέματα Α και Β - 2ο PDF&lt;/p>
+&lt;p>ΘΕΜΑΤΑ Γ ΚΑΙ Δ :&lt;/p>
+&lt;p>Φυλλάδιο 00 - Δομές Επιλογής-Επανάληψης
+Θέματα Γ και Δ - 2ο PDF - Δομές Δεδομένων:Πίνακες
+Θέματα Γ και Δ - 3o PDF - Ασκήσεις στα Υποπρογράμματα&lt;/p>
+&lt;p>Διαγώνισμα Προσομοίωσης Πανελληνίων στην Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον.&lt;/p>
+&lt;p>SEASON 1:&lt;/p>
+&lt;p>Φυλλάδιο 00 - Δομές Επιλογής-Επανάληψης
+Φυλλάδιο 01 - Μονοδιάστατοι πίνακες &amp;amp; Ιδιότητες Πινάκων
+Φυλλάδιο 02 - Δισδιάστατοι πίνακες
+Φυλλάδιο 03 - Υποπρογράμματα
+Τελικές Ασκήσεις
+1ο διαγώνισμα προσομοίωσης&lt;/p></content></item><item><title>Panellinies_AEPP Θεωρία</title><link>/panellinies.aepp_theoria/</link><pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate><guid>/panellinies.aepp_theoria/</guid><description>⚠️ Προσοχή: Από τις 28 Δεκεμβρίου 2021, το Project Panellinies_AEPP απενεργοποιεί όλες τις διαφημίσεις πάνω στο εκπαιδευτικό υλικό.
+🔰 Τo Project Panellinies_AEPP πλέον λειτουργεί και υποστηρίζεται αποκλειστικά από τις χορηγίες σας μέσω YouTube και σε Basic Attention Token (BAT) μέσω του Brave Browser στο κανάλι στο Youtube, καθώς και σε άλλα κρυπτονομίσματα στις παρακάτω διευθύνσεις:
+🔷 Bitcoin: bc1q6j959m3whh44ztr8k6p7545n5pzcsncple7qmy 🔷 Ethereum: 0x3f27F05Ca28a5B5F876A3A7d435E2E852756F873 🔷 Cardano: addr1qxewtm0y5yk2mgf93ct4ghguus2shu34fu786t62j3tv7296evenhmr0ltmx3hdyw4d6d8gj8qspry5pe3raaw4nu8as7jsr9l 🔷 Monero: 46ewn3rgXMSceuEUEng1bze1RzG61rEiFV3hJ6VKuzvHU62jPntydJRBcFinQ62Pad8AvdoX9YbQcY5HKX3Cr3UQPkhiQ4L 🔷 VeChain:0x3f27F05Ca28a5B5F876A3A7d435E2E852756F873 🔷 Shiba:0x3f27F05Ca28a5B5F876A3A7d435E2E852756F873 🔷 AIOZ:0x3f27F05Ca28a5B5F876A3A7d435E2E852756F873</description><content>&lt;p>⚠️ &lt;strong>Προσοχή&lt;/strong>: Από τις 28 Δεκεμβρίου 2021, το Project Panellinies_AEPP απενεργοποιεί όλες τις διαφημίσεις πάνω στο εκπαιδευτικό υλικό.&lt;/p>
+&lt;p>🔰 Τo Project Panellinies_AEPP πλέον λειτουργεί και υποστηρίζεται αποκλειστικά από τις χορηγίες σας μέσω YouTube και σε Basic Attention Token (BAT) μέσω του Brave Browser &lt;a href="https://www.youtube.com/@TuxHouseEdu">στο κανάλι στο Youtube&lt;/a>, καθώς και σε άλλα κρυπτονομίσματα στις παρακάτω διευθύνσεις:&lt;/p>
+&lt;p>🔷 Bitcoin: bc1q6j959m3whh44ztr8k6p7545n5pzcsncple7qmy
+🔷 Ethereum: 0x3f27F05Ca28a5B5F876A3A7d435E2E852756F873
+🔷 Cardano: addr1qxewtm0y5yk2mgf93ct4ghguus2shu34fu786t62j3tv7296evenhmr0ltmx3hdyw4d6d8gj8qspry5pe3raaw4nu8as7jsr9l
+🔷 Monero: 46ewn3rgXMSceuEUEng1bze1RzG61rEiFV3hJ6VKuzvHU62jPntydJRBcFinQ62Pad8AvdoX9YbQcY5HKX3Cr3UQPkhiQ4L
+🔷 VeChain:0x3f27F05Ca28a5B5F876A3A7d435E2E852756F873
+🔷 Shiba:0x3f27F05Ca28a5B5F876A3A7d435E2E852756F873
+🔷 AIOZ:0x3f27F05Ca28a5B5F876A3A7d435E2E852756F873&lt;/p>
+&lt;p>Για το πώς θα κερδίσετε δωρεάν BAT, διαβάστε αυτό το άρθρο κάνοντας κλικ &lt;a href="https://cerebrux.net/2021/02/25/brave-bat-token/">εδώ&lt;/a>&lt;/p>
+&lt;p>&lt;img src="/img/brave.png" alt="">&lt;/p>
+&lt;hr>
+&lt;h2 id="-season-4">📚 Season 4:&lt;/h2>
+&lt;h1 id="η-θεωρία-του-αεππ---part1pdfstheoriapanellinies_aepp_theoria_part1pdf">&lt;a href="/PDFs/theoria/panellinies_aepp_theoria_part1.pdf">Η Θεωρία του ΑΕΠΠ - Part1&lt;/a>&lt;/h1>
+&lt;h1 id="η-θεωρία-του-αεππ---part2pdfstheoriapanellinies_aepp_theoria_part2pdf">&lt;a href="/PDFs/theoria/panellinies_aepp_theoria_part2.pdf">Η Θεωρία του ΑΕΠΠ - Part2&lt;/a>&lt;/h1>
+&lt;h1 id="η-θεωρία-του-αεππ---part3pdfstheoriapanellinies_aepp_theoria_part3pdf">&lt;a href="/PDFs/theoria/panellinies_aepp_theoria_part3.pdf">Η Θεωρία του ΑΕΠΠ - Part3&lt;/a>&lt;/h1>
+&lt;h1 id="η-θεωρία-του-αεππ---πίνακεςpdfstheoriapanellinies_aepp_theoria_arrayspdf">&lt;a href="/PDFs/theoria/panellinies_aepp_theoria_arrays.pdf">Η Θεωρία του ΑΕΠΠ - Πίνακες&lt;/a>&lt;/h1>
+&lt;h1 id="η-θεωρία-του-αεππ---υποπρογράμματαpdfstheoriapanellinies_aepp_theoria_ypoprogrammatapdf">&lt;a href="/PDFs/theoria/panellinies_aepp_theoria_ypoprogrammata.pdf">Η Θεωρία του ΑΕΠΠ - Υποπρογράμματα&lt;/a>&lt;/h1>
+&lt;h1 id="η-θεωρία-του-αεππ---προηγμένες-δομές-δεδομένωνpdfstheoriapanellinies_aepp_theoria_datastrpdf">&lt;a href="/PDFs/theoria/panellinies_aepp_theoria_datastr.pdf">Η Θεωρία του ΑΕΠΠ - Προηγμένες Δομές Δεδομένων&lt;/a>&lt;/h1>
+&lt;h1 id="η-θεωρία-του-αεππ---debugging-και-αντικειμενοστραφής-προγραμματισμόςpdfstheoriapanellinies_aepp_theoria_debugpdf">&lt;a href="/PDFs/theoria/panellinies_aepp_theoria_debug.pdf">Η Θεωρία του ΑΕΠΠ - Debugging και Αντικειμενοστραφής Προγραμματισμός&lt;/a>&lt;/h1>
+&lt;h1 id="270-σωστό-λάθος-λυμένα---5η-έκδοσηpdfsswsto_lathospdf">&lt;a href="/PDFs/swsto_lathos.pdf">270+ Σωστό Λάθος Λυμένα - 5η έκδοση&lt;/a>&lt;/h1>
+&lt;h1 id="όλη-η-θεωρία-του-αεππ---4η-έκδοσηpdfstheoriapanellinies_aepp_theoria_fullpdf">&lt;a href="/PDFs/theoria/panellinies_aepp_theoria_full.pdf">ΌΛΗ Η Θεωρία του ΑΕΠΠ - 4η έκδοση&lt;/a>&lt;/h1>
+&lt;hr>
+&lt;p>🎯 Στόχος του Panellinies_AEPP είναι να προσφέρει λυμένες ασκήσεις και κατηγοριοποιημένη την Θεωρία του ΑΕΠΠ, τόσο σε άτομα που δεν έχουν την οικονομική δυνατότητα για φροντιστήρια, όσο και σε άτομα που θέλουν να δουν το &amp;ldquo;κάτι παραπάνω&amp;rdquo; και να κάνουν περισσότερη εξάσκηση.&lt;/p>
+&lt;p>🔗 Όλο το υλικό μπορεί να βρεθεί κάνοντας click στο Panellinies_AEPP στο &lt;a href="https://sv1sjp.github.io/">https://sv1sjp.github.io/&lt;/a>&lt;/p>
+&lt;hr>
+&lt;p>🎓 TuxHouse is an Educational community which aims to teach people about Linux, Blockchain, Android &amp;amp;&amp;amp; Cybersecurity using the new technologies and trends. Stay tuned for more educational content.&lt;/p>
+&lt;p>Feel free to contact me on any social media as: @TuxHouse &amp;amp;&amp;amp; @sv1sjp&lt;/p>
+&lt;p>🌐 Let&amp;rsquo;s educate the world!&lt;/p>
+&lt;hr>
+&lt;p>🔵 YouTube: &lt;a href="https://www.youtube.com/@TuxHouseEdu">https://www.youtube.com/@TuxHouseEdu&lt;/a>&lt;/p>
+&lt;p>🔵 TikTok: &lt;a href="https://www.tiktok.com/@tuxhouseedu">https://www.tiktok.com/@tuxhouse&lt;/a>&lt;/p>
+&lt;p>🔵 Instagram: &lt;a href="https://www.instagram.com/sv1sjp">https://www.instagram.com/tuxhouseedu&lt;/a>&lt;/p>
+&lt;p>🔵 LBRY: &lt;a href="https://odysee.com/@TuxHouse:1">https://odysee.com/@TuxHouse:1&lt;/a>&lt;/p>
+&lt;p>🔵 Mastodon: &lt;a href="https://fosstodon.org/@sv1sjp">https://fosstodon.org/@sv1sjp&lt;/a>&lt;/p>
+&lt;p>More social media can be found in the &lt;a href="https://sv1sjp.github.io/whoami">whoami&lt;/a> section.&lt;/p>
+&lt;p>&lt;img src="/img/tuxhouse_logo_with_name.png" alt="">&lt;/p></content></item><item><title>Projects</title><link>/projects/</link><pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate><guid>/projects/</guid><description>There are multiple projects running on TuxHouse as well as in other communities. On this Page I will try to achieve all the Projects I run into a single page. For any information, you can find all my social media on whoami section. Educational Series: 🇬🇧 These eLearning Series can be found both on YouTube and LBRY free of cost. If you want to support the Channel, you can like &amp;amp;&amp;amp; subscribe to both channels (on YouTube and LBRY).</description><content>&lt;pre tabindex="0">&lt;code>There are multiple projects running on TuxHouse as well as in other communities.
+On this Page I will try to achieve all the Projects I run into a single page.
+For any information, you can find all my social media on whoami section.
+&lt;/code>&lt;/pre>&lt;h1 id="educational-series">Educational Series:&lt;/h1>
+&lt;p>&lt;img src="/img/series.jpg" alt="">&lt;/p>
+&lt;p>🇬🇧 These eLearning Series can be found both on YouTube and LBRY free of cost. If you want to support the Channel, you can like &amp;amp;&amp;amp; subscribe to both channels (on YouTube and LBRY).&lt;/p>
+&lt;p>🇬🇷 Οι εκπαιδευτικές σειρές που βρίσκονται σε αυτή την λίστα μπορούν να βρεθούν στο LBRY και YouTube εντελώς δωρεάν. Ένα Like &amp;amp;&amp;amp; μία εγγραφή μπορούν να βοηθήσουν το Project να εξελιχθεί σε κάτι μεγαλύτερο!&lt;/p>
+&lt;ul>
+&lt;li>🇬🇷 Linux for Beginners (Greek): &lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWx2Xt4spOOlxKzGJa5FFmoV">YouTube&lt;/a>&lt;/li>
+&lt;li>🇬🇷 Ultimate UNIX Ultimate Tutorial (Greek): &lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzfu1kLBWBbj-3wdKSzDVl4">YouTube&lt;/a> , &lt;a href="https://odysee.com/@TuxHouse:1/ultimate_linux_terminal_tutorial_greek_part1:e?lid=9590f4f28cecd27d8e9414a284ae9296e3a0a81f">LBRY&lt;/a>&lt;/li>
+&lt;li>🇬🇷 Smart-Contract Security (Greek): &lt;a href="https://www.youtube.com/watch?v=kmlhkMLF8yk&amp;amp;list=PLZa7COjIxKWzLcMxI9cRNSzOtdR0xvXB7">YouTube&lt;/a> , &lt;a href="https://odysee.com/$/playlist/35cdd869a31e31b26c6a95b3261155a3215243ba">LBRY&lt;/a>&lt;/li>
+&lt;li>🇬🇷 Information Theory (Greek): &lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzq3tyDlMqUmVzd1a7zDpT-">YouTube&lt;/a> , &lt;a href="https://odysee.com/$/playlist/9793029be347028f406fa73c0c2a2797fff50b9b">LBRY&lt;/a>&lt;/li>
+&lt;li>🇬🇷 Panellinies_AEPP: Δωρεάν Ασκήσεις και κατηγοριοποιημένη η θεωρία του ΑΕΠΠ για τις Πανελλήνιες: &lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWxh-699iV33AzR6LNPD26nt">YouTube&lt;/a>&lt;/li>
+&lt;li>🇬🇧 Android Hacking (English): &lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWwXANQuJdggsb-aq2kN4lT9">YouTube&lt;/a>&lt;/li>
+&lt;li>🇬🇧 Android Rooting &amp;amp;&amp;amp; Customization (English): &lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzrT4Yig-z__LvhvaWsBkhv">YouTube&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h1 id="blockchain-projects">Blockchain Projects:&lt;/h1>
+&lt;h2 id="developing-an-ethereum-based-blockchain-camera">Developing an Ethereum Based Blockchain Camera&lt;/h2>
+&lt;p>Turn your Raspberry Pi into an Ethereum-based Blockchain Camera! Powered by Solidity and Python3.&lt;/p>
+&lt;ul>
+&lt;li>Find more information about Blockchain Camera on is own web page.&lt;a href="https://sv1sjp.github.io/blockchain_camera/">Click Here:&lt;/a> or read Blockchain&amp;rsquo;s Camera paper:&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://github.com/sv1sjp/Blockchain_Camera/blob/main/Blockchain_Camera.pdf">Developing an Ethereum Based Blockchain Camera: Dimitris Vagiakakos (2022)&lt;/a>&lt;/p>
+&lt;h2 id="evoting_elections_decentralized_app">eVoting_Elections_Decentralized_App&lt;/h2>
+&lt;p>eVoting Decentralized Application for the Ethereum Network written in Solidity 0.8.x&lt;/p>
+&lt;ul>
+&lt;li>For more information about how you can deploy and how our eVoting Decentralized Application works, please read our paper:&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;p>&lt;a href="https://github.com/sv1sjp/eVoting_Elections_Decentralized_App/blob/main/eVoting_Smart_Contract_paper.pdf">Developing a Blockchain eVoting Application using Ethereum: Dimitris Vagiakakaos, Konstantinos Karahalis, Stavros Gkinos&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h2 id="smart-contract-security">Smart-Contract Security:&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/sv1sjp/eVoting_Elections_Decentralized_App/blob/main/smartcontract_security_paper.pdf">Smart Contract Security: Dimitris Vagiakakakos, Stavros Gkinos, Ioannis Karvelas&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h1 id="other-projects">Other Projects:&lt;/h1>
+&lt;h2 id="ubuntel-linux----the-greek-version-of-ubuntu">Ubuntel Linux 🇬🇷 - The Greek Version of Ubuntu&lt;/h2>
+&lt;ul>
+&lt;li>Find more information about Ubuntel Linux on &lt;a href="https://sv1sjp.github.io/ubuntel/">its own web page.&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="-privacy-in-blockchain-and-web30---second-edition-book">🇬🇷 Privacy in Blockchain and Web3.0 - Second Edition (Book):&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/sv1sjp/eVoting_Elections_Decentralized_App/blob/main/Privacy%20in%20Blockchain%20and%20Web3.0%20(Greek).pdf"> Privacy in Blockchain and Web3.0 - Second Edition: Dimitris Vagiakakakos, Konstantinos Karahalis, Stavros Gkinos&lt;/a>&lt;/li>
+&lt;/ul></content></item><item><title>Blockchain Camera</title><link>/blockchain_camera/</link><pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate><guid>/blockchain_camera/</guid><description>Ethereum Blockchain Camera Turn your Raspberry Pi into an Ethereum-based Blockchain Camera! Powered by Solidity and Python3. Blockchain Camera provides an easy and safe way to capture and guarantee the existence of videos reducing the impact of modified videos as it can preserve the integrity and validity of videos using Blockchain Technology. Blockchain Camera sends to Ethereum Network the hash of each video and the time the video has been recorded in order to be able validate that a video is genuine and hasn&amp;rsquo;t been modified using a Blockchain Camera Validation Tool.</description><content>&lt;h1 id="ethereum-blockchain-camera">Ethereum Blockchain Camera&lt;/h1>
+&lt;h2 id="turn-your-raspberry-pi-into-an-ethereum-based-blockchain-camera-powered-by-solidity-and-python3">Turn your Raspberry Pi into an Ethereum-based Blockchain Camera! Powered by Solidity and Python3.&lt;/h2>
+&lt;hr>
+&lt;p>&lt;img src="/img/Blockchain_Camera_EN.jpg" alt="">&lt;/p>
+&lt;h2 id="blockchain-camera-provides-an-easy-and-safe-way-to-capture-and-guarantee-the-existence-of-videos-reducing-the-impact-of-modified-videos-as-it-can-preserve-the-integrity-and-validity-of-videos-using-blockchain-technology-blockchain-camera-sends-to-ethereum-network-the-hash-of-each-video-and-the-time-the-video-has-been-recorded-in-order-to-be-able-validate-that-a-video-is-genuine-and-hasnt-been-modified-using-a-blockchain-camera-validation-tool">Blockchain Camera provides an easy and safe way to capture and guarantee the existence of videos reducing the impact of modified videos as it can preserve the integrity and validity of videos using Blockchain Technology. Blockchain Camera sends to Ethereum Network the hash of each video and the time the video has been recorded in order to be able validate that a video is genuine and hasn&amp;rsquo;t been modified using a Blockchain Camera Validation Tool.&lt;/h2>
+&lt;p>Blockchain Camera works in any GNU/Linux Distribution that supports ffmpeg and Python3.&lt;/p>
+&lt;pre tabindex="0">&lt;code>Created by Dimitris Vagiakakos @sv1sjp
+&lt;/code>&lt;/pre>&lt;h2 id="video-presentations">Video Presentations:&lt;/h2>
+&lt;h3 id="youtube">YouTube:&lt;/h3>
+&lt;p>&lt;a href="https://youtu.be/1CvG0aa9PdM">Presentation of Blockchain Camera in English&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://youtu.be/7N7_W0pdbcs">Presentation of Blockchain Camera in Greek&lt;/a>&lt;/p>
+&lt;h3 id="lbry">LBRY:&lt;/h3>
+&lt;p>&lt;a href="https://odysee.com/@PenguinDodgers/Blockchain_Camera">Presentation of Blockchain Camera in English&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://odysee.com/@PenguinDodgers/Blockchain_Camera_GR">Presentation of Blockchain Camera in Greek&lt;/a>&lt;/p>
+&lt;p>&lt;img src="/img/bc_poc.png" alt="">&lt;/p>
+&lt;h2 id="getting-started">Getting Started:&lt;/h2>
+&lt;p>Blockchain Camera is an open-source Project. Find the source-code &lt;a href="https://github.com/sv1sjp/Blockchain_Camera">here:&lt;/a>&lt;/p>
+&lt;p>For more information about how it works and how you can create your own Blockchain Camera and implementation ideas, reading the full paper is recommended.
+&lt;a href="https://github.com/sv1sjp/Blockchain_Camera/blob/main/Blockchain_Camera.pdf">Click here&lt;/a>&lt;/p>
+&lt;p>Contents of the paper:&lt;/p>
+&lt;ul>
+&lt;li>The idea of Blockchain Camera&lt;/li>
+&lt;li>How Blockchain Camera works&lt;/li>
+&lt;li>Blockchain Camera implementation ideas&lt;/li>
+&lt;li>Blockchain Camera implementation ideas in European Union&lt;/li>
+&lt;li>Blockchain Camera Tools and Hardware Recommendations&lt;/li>
+&lt;li>How Solidity code works&lt;/li>
+&lt;li>How Blockchain Camera Works&lt;/li>
+&lt;li>How Blockchain Camera Validation Tools (GUI and CLI) work&lt;/li>
+&lt;li>How to deploy BlockchainCamera Smart-Contract&lt;/li>
+&lt;li>How to install Blockchain Camera software&lt;/li>
+&lt;li>User Manual for Blockchain Camera Validation Tools (GUI and CLI)&lt;/li>
+&lt;li>The cost of building your own Blockchain Camera stand-alone device&lt;/li>
+&lt;li>Extra Implementantion Ideas&lt;/li>
+&lt;li>Blockchain Camera Hardening&lt;/li>
+&lt;/ul>
+&lt;h1 id="contribution">Contribution:&lt;/h1>
+&lt;p>💰💵💲Blockchain Camera is a new Open-Source Project. You can support this project by donating Crypto. ₿💰💵💲&lt;/p>
+&lt;p>Bitcoin: bc1q6j959m3whh44ztr8k6p7545n5pzcsncple7qmy&lt;/p>
+&lt;p>Ethereum: 0x3f27F05Ca28a5B5F876A3A7d435E2E852756F873&lt;/p>
+&lt;p>Cardano: addr1qxewtm0y5yk2mgf93ct4ghguus2shu34fu786t62j3tv7296evenhmr0ltmx3hdyw4d6d8gj8qspry5pe3raaw4nu8as7jsr9l&lt;/p>
+&lt;p>Monero: 46ewn3rgXMSceuEUEng1bze1RzG61rEiFV3hJ6VKuzvHU62jPntydJRBcFinQ62Pad8AvdoX9YbQcY5HKX3Cr3UQPkhiQ4L&lt;/p>
+&lt;p>New implementation ideas are welcomed :) - Share the beaty of Open-Source.&lt;/p>
+&lt;p>&lt;img src="/img/validation_tool_gui.png" alt="">&lt;/p>
+&lt;h1 id="license">License:&lt;/h1>
+&lt;h2 id="blockchain-camera-cames-under-the-terms-of-the-gnu-general-public-license-version-3-or-any-later-version-without-warranty">Blockchain Camera cames under the terms of the GNU General Public License version 3 or any later version without warranty.&lt;/h2>
+&lt;p>&lt;img src="/img/EU.jpg" alt="">&lt;/p>
+&lt;hr>
+&lt;p>If you want to learn more about Smart Contract Security, please check our paper and eCourses:&lt;/p>
+&lt;h2 id="smart-contract-security">Smart-Contract Security:&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/sv1sjp/eVoting_Elections_Decentralized_App/blob/main/smartcontract_security_paper.pdf">Smart Contract Security: Dimitris Vagiakakakos, Stavros Gkinos, Ioannis Karvelas&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://www.youtube.com/playlist?list=PLZaCOjIxKWzLcMxI9cRNSzOtdR0xvXB7">Smart Contract Security - Educational YouTube Series in Greek - Click Here&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="find-more-educational-content">Find More Educational Content:&lt;/h2>
+&lt;p>More educational videos about Blockchain, Linux, Android Hacking and Telecommunications can be found on my YouTube Channel &lt;a href="www.youtube.com/LinuxOSblog">DimitrisV&lt;/a> as well as on LBRY &lt;a href="https://odysee.com/@PenguinDodgers:5">PenguinDodgers&lt;/a>&lt;/p>
+&lt;h2 id="find-more-awesome-projects">Find more awesome Projects:&lt;/h2>
+&lt;p>Click the sector &amp;ldquo;Projects&amp;rdquo; on this website to find more projects and educational content.&lt;/p>
+&lt;p>&lt;img src="/img/bc_cli.jpg" alt="">&lt;/p></content></item><item><title>./welcome.sh</title><link>/posts/hello/</link><pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate><guid>/posts/hello/</guid><description>Hello stranger, My name is DimitrisV SV1SJP, I am from Greece,EU and this is my small website. On this website I will organise all the educational stuff I have created in both Greek and English. This is the very first release so expect bugs and glitches.
 Wishing you the best,
 Dimitris Vagiakakos dimitrislinuxos@protonmail.ch</description><content>&lt;p>Hello stranger,
 My name is DimitrisV SV1SJP, I am from Greece,EU and this is my small website. On this website I will organise all the educational stuff I have created in both Greek and English.
@@ -2866,258 +3198,7 @@ The &amp;ldquo;withdraw&amp;rdquo; function can help us with that which can be e
 &lt;p>Ενδιαφέρον προκαλεί το γεγονός ότι, σύμφωνα με τον χρήστη του Twitter, @OatmealDome , τα παιχνίδια τρέχουν σε emulator. Μάλιστα, αναφέρει πως στο Super Mario Galaxy, η Nintendo έκανε recompile το παιχνίδι να τρέχει απευθείας στον επεξεργαστή του Nintendo Switch, ωστόσο τα γραφικά και ο ήχος τρέχουν μέσα από Emulator!!&lt;/p>
 &lt;p>Το Super Mario 64 κυκλοφόρησε πρώτη φορά για το Nintendo 64 το 1996, με τον τίτλο να είναι η πρώτη 3D εμπειρία που γνωρίσαμε με πρωταγωνιστή, τον Mario και να θεωρείται ακόμα και σήμερα ένα από τα κορυφαία platform όλων των εποχών. Το Super Mario Sunshine ακολούθησε αυτά τα βήματα,στο Nintendo Gamecube, μία όχι και τόσο πετυχημένη κονσόλα της Nintendο , ενώ το Super Mario Galaxy απογείωσε τη φόρμουλα των προαναφερθέντων στο Nintendo Wii.&lt;/p>
 &lt;p>Η τιμή στα Ελληνικά καταστήματα λιανικής κυμαίνεται στα 60 ευρώ!!!&lt;/p>
-&lt;p>Λέτε να δούμε τα επόμενα χρόνια και τα υπόλοιπα παιχνίδια της σειράς (Super Mario Galaxy 2 ) ή ακόμη και το Paper Mario ή άλλα Gamecube,Wii games να κάνουν την εμφάνιση τους στο Switch?&lt;/p></content></item><item><title/><link>/blockchain_camera/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/blockchain_camera/</guid><description>Ethereum Blockchain Camera Turn your Raspberry Pi into an Ethereum-based Blockchain Camera! Powered by Solidity and Python3. Blockchain Camera provides an easy and safe way to capture and guarantee the existence of videos reducing the impact of modified videos as it can preserve the integrity and validity of videos using Blockchain Technology. Blockchain Camera sends to Ethereum Network the hash of each video and the time the video has been recorded in order to be able validate that a video is genuine and hasn&amp;rsquo;t been modified using a Blockchain Camera Validation Tool.</description><content>&lt;h1 id="ethereum-blockchain-camera">Ethereum Blockchain Camera&lt;/h1>
-&lt;h2 id="turn-your-raspberry-pi-into-an-ethereum-based-blockchain-camera-powered-by-solidity-and-python3">Turn your Raspberry Pi into an Ethereum-based Blockchain Camera! Powered by Solidity and Python3.&lt;/h2>
-&lt;hr>
-&lt;p>&lt;img src="/img/Blockchain_Camera_EN.jpg" alt="">&lt;/p>
-&lt;h2 id="blockchain-camera-provides-an-easy-and-safe-way-to-capture-and-guarantee-the-existence-of-videos-reducing-the-impact-of-modified-videos-as-it-can-preserve-the-integrity-and-validity-of-videos-using-blockchain-technology-blockchain-camera-sends-to-ethereum-network-the-hash-of-each-video-and-the-time-the-video-has-been-recorded-in-order-to-be-able-validate-that-a-video-is-genuine-and-hasnt-been-modified-using-a-blockchain-camera-validation-tool">Blockchain Camera provides an easy and safe way to capture and guarantee the existence of videos reducing the impact of modified videos as it can preserve the integrity and validity of videos using Blockchain Technology. Blockchain Camera sends to Ethereum Network the hash of each video and the time the video has been recorded in order to be able validate that a video is genuine and hasn&amp;rsquo;t been modified using a Blockchain Camera Validation Tool.&lt;/h2>
-&lt;p>Blockchain Camera works in any GNU/Linux Distribution that supports ffmpeg and Python3.&lt;/p>
-&lt;pre tabindex="0">&lt;code>Created by Dimitris Vagiakakos @sv1sjp
-&lt;/code>&lt;/pre>&lt;h2 id="video-presentations">Video Presentations:&lt;/h2>
-&lt;h3 id="youtube">YouTube:&lt;/h3>
-&lt;p>&lt;a href="https://youtu.be/1CvG0aa9PdM">Presentation of Blockchain Camera in English&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://youtu.be/7N7_W0pdbcs">Presentation of Blockchain Camera in Greek&lt;/a>&lt;/p>
-&lt;h3 id="lbry">LBRY:&lt;/h3>
-&lt;p>&lt;a href="https://odysee.com/@PenguinDodgers/Blockchain_Camera">Presentation of Blockchain Camera in English&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://odysee.com/@PenguinDodgers/Blockchain_Camera_GR">Presentation of Blockchain Camera in Greek&lt;/a>&lt;/p>
-&lt;p>&lt;img src="/img/bc_poc.png" alt="">&lt;/p>
-&lt;h2 id="getting-started">Getting Started:&lt;/h2>
-&lt;p>Blockchain Camera is an open-source Project. Find the source-code &lt;a href="https://github.com/sv1sjp/Blockchain_Camera">here:&lt;/a>&lt;/p>
-&lt;p>For more information about how it works and how you can create your own Blockchain Camera and implementation ideas, reading the full paper is recommended.
-&lt;a href="https://github.com/sv1sjp/Blockchain_Camera/blob/main/Blockchain_Camera.pdf">Click here&lt;/a>&lt;/p>
-&lt;p>Contents of the paper:&lt;/p>
-&lt;ul>
-&lt;li>The idea of Blockchain Camera&lt;/li>
-&lt;li>How Blockchain Camera works&lt;/li>
-&lt;li>Blockchain Camera implementation ideas&lt;/li>
-&lt;li>Blockchain Camera implementation ideas in European Union&lt;/li>
-&lt;li>Blockchain Camera Tools and Hardware Recommendations&lt;/li>
-&lt;li>How Solidity code works&lt;/li>
-&lt;li>How Blockchain Camera Works&lt;/li>
-&lt;li>How Blockchain Camera Validation Tools (GUI and CLI) work&lt;/li>
-&lt;li>How to deploy BlockchainCamera Smart-Contract&lt;/li>
-&lt;li>How to install Blockchain Camera software&lt;/li>
-&lt;li>User Manual for Blockchain Camera Validation Tools (GUI and CLI)&lt;/li>
-&lt;li>The cost of building your own Blockchain Camera stand-alone device&lt;/li>
-&lt;li>Extra Implementantion Ideas&lt;/li>
-&lt;li>Blockchain Camera Hardening&lt;/li>
-&lt;/ul>
-&lt;h1 id="contribution">Contribution:&lt;/h1>
-&lt;p>💰💵💲Blockchain Camera is a new Open-Source Project. You can support this project by donating Crypto. ₿💰💵💲&lt;/p>
-&lt;p>Bitcoin: bc1q6j959m3whh44ztr8k6p7545n5pzcsncple7qmy&lt;/p>
-&lt;p>Ethereum: 0x3f27F05Ca28a5B5F876A3A7d435E2E852756F873&lt;/p>
-&lt;p>Cardano: addr1qxewtm0y5yk2mgf93ct4ghguus2shu34fu786t62j3tv7296evenhmr0ltmx3hdyw4d6d8gj8qspry5pe3raaw4nu8as7jsr9l&lt;/p>
-&lt;p>Monero: 46ewn3rgXMSceuEUEng1bze1RzG61rEiFV3hJ6VKuzvHU62jPntydJRBcFinQ62Pad8AvdoX9YbQcY5HKX3Cr3UQPkhiQ4L&lt;/p>
-&lt;p>New implementation ideas are welcomed :) - Share the beaty of Open-Source.&lt;/p>
-&lt;p>&lt;img src="/img/validation_tool_gui.png" alt="">&lt;/p>
-&lt;h1 id="license">License:&lt;/h1>
-&lt;h2 id="blockchain-camera-cames-under-the-terms-of-the-gnu-general-public-license-version-3-or-any-later-version-without-warranty">Blockchain Camera cames under the terms of the GNU General Public License version 3 or any later version without warranty.&lt;/h2>
-&lt;p>&lt;img src="/img/EU.jpg" alt="">&lt;/p>
-&lt;hr>
-&lt;p>If you want to learn more about Smart Contract Security, please check our paper and eCourses:&lt;/p>
-&lt;h2 id="smart-contract-security">Smart-Contract Security:&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;a href="https://github.com/sv1sjp/eVoting_Elections_Decentralized_App/blob/main/smartcontract_security_paper.pdf">Smart Contract Security: Dimitris Vagiakakakos, Stavros Gkinos, Ioannis Karvelas&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="https://www.youtube.com/playlist?list=PLZaCOjIxKWzLcMxI9cRNSzOtdR0xvXB7">Smart Contract Security - Educational YouTube Series in Greek - Click Here&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="find-more-educational-content">Find More Educational Content:&lt;/h2>
-&lt;p>More educational videos about Blockchain, Linux, Android Hacking and Telecommunications can be found on my YouTube Channel &lt;a href="www.youtube.com/LinuxOSblog">DimitrisV&lt;/a> as well as on LBRY &lt;a href="https://odysee.com/@PenguinDodgers:5">PenguinDodgers&lt;/a>&lt;/p>
-&lt;h2 id="find-more-awesome-projects">Find more awesome Projects:&lt;/h2>
-&lt;p>Click the sector &amp;ldquo;Projects&amp;rdquo; on this website to find more projects and educational content.&lt;/p>
-&lt;p>&lt;img src="/img/bc_cli.jpg" alt="">&lt;/p></content></item><item><title/><link>/ds.unipi/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ds.unipi/</guid><description>./Welcome.sh Καλώς όρισες στο Τμήμα Ψηφιακών Συστημάτων στο Πανεπιστήμιο Πειραιώς🏛. Μία νέα αρχή στην ζωή σας ξεκινάει. Δύσκολη νέα αρχή. Σε αυτή την σελίδα θα γίνει προσπάθεια συσσώρευσης γνώσης σχετικά με το τμήμα Ψηφιακών Συστημάτων του ΠΑΠΕΙ.
-Πρώτα βήματα🚶: Πριν κάνεις οποιαδήποτε ενέργεια, προτείνεται να δεις το 20λέπτο επεισόδιο του Panellinies_AEPP με τίτλο Πέρασες σε σχολή Πληροφορικής/Πολυτεχνείο; 9 Συμβουλές από έναν Software Engineer από τον Kyriakos Giannakis και τον Dimitris Vagiakakos @sv1sjp : YouTube📺.</description><content>&lt;h1 id="welcomesh">./Welcome.sh&lt;/h1>
-&lt;p>&lt;img src="https://sso.unipi.gr/images/unipi-logo.jpg" alt="">&lt;/p>
-&lt;h2 id="καλώς-όρισες-στο-τμήμα-ψηφιακών-συστημάτων-στο-πανεπιστήμιο-πειραιώς">Καλώς όρισες στο Τμήμα Ψηφιακών Συστημάτων στο Πανεπιστήμιο Πειραιώς🏛.&lt;/h2>
-&lt;p>Μία νέα αρχή στην ζωή σας ξεκινάει. Δύσκολη νέα αρχή.
-Σε αυτή την σελίδα θα γίνει προσπάθεια συσσώρευσης γνώσης σχετικά με το τμήμα Ψηφιακών Συστημάτων του ΠΑΠΕΙ.&lt;/p>
-&lt;h2 id="πρώτα-βήματα">Πρώτα βήματα🚶:&lt;/h2>
-&lt;p>Πριν κάνεις οποιαδήποτε ενέργεια, προτείνεται να δεις το 20λέπτο επεισόδιο του Panellinies_AEPP με τίτλο &lt;em>Πέρασες σε σχολή Πληροφορικής/Πολυτεχνείο; 9 Συμβουλές από έναν Software Engineer&lt;/em> από τον &lt;a href="https://www.linkedin.com/in/kgiannakis">Kyriakos Giannakis&lt;/a> και τον &lt;a href="https://sv1sjp.github.io/whoami/">Dimitris Vagiakakos @sv1sjp&lt;/a> : &lt;a href="https://www.youtube.com/watch?v=iNKmOlEptLc&amp;amp;list=PLZa7COjIxKWxh-699iV33AzR6LNPD26nt&amp;amp;index=5">YouTube&lt;/a>📺.&lt;/p>
-&lt;p>Έπειτα, μπαίνεις στην Ομάδα των Ψηφιακών Συστημάτων στο Facebook: &lt;a href="https://www.facebook.com/groups/156975941004275">Ψηφιακά ftw!!!&lt;/a> 📘 καθώς και στο λογαριασμό στο &lt;a href="https://instagram.com/unipi.ds">Instagram&lt;/a> 📸. Και φυσικά ψάχνεις να βρεις συμφοιτητές σου της ηλικίας σου οπού θα συνεργαστείτε τα επόμενα χρόνια. Μέσα από το &lt;a href="https://instagram.com/topa_peirazeiofficiail">Το ΠΑ,ΠΕΙράζει;&lt;/a>, μπορείτε πολύ εύκολα να βρείτε άτομα από το ίδιο τμήμα με εσάς αλλά και άτομα που σπουδάζετε στο ίδιο τμήμα.&lt;/p>
-&lt;h2 id="συμβουλές-επιβιώσης-ψηφιακών-συστημάτων-παπει">Συμβουλές Επιβιώσης Ψηφιακών Συστημάτων ΠΑΠΕΙ:💡&lt;/h2>
-&lt;p>Από ψυχικής άποψης, το &lt;a href="https://instagram.com/topa_peirazeiofficiail">Το ΠΑ,ΠΕΙράζει;&lt;/a> έχει γράψει ένα πολύ ωραίο κείμενο σχετικά με το πώς να το διαχειριστείτε. &lt;a href="https://www.facebook.com/topapeirazeiofc/posts/pfbid02WLoVC7rvcvZpuHppUbDaaDRxhWjW4Kpz27LinNLv6oDqxYwopspmVfqewkqW5vJal">εδώ:&lt;/a>&lt;/p>
-&lt;h3 id="από-πρακτικής-άποψης-συμβουλές-επιβίωσης-ψηφιακών-συστημάτων-παπει">Από πρακτικής άποψης: Συμβουλές Επιβίωσης Ψηφιακών Συστημάτων ΠΑΠΕΙ:&lt;/h3>
-&lt;p>Ως προς στρατηγική διαβάσματος, το τμήμα Ψηφιακών Συστημάτων του ΠΑΠΕΙ είναι αρκετά hardcore. Η αρχή θα είναι δύσκολη. Οι καθηγητές κάνουν γερά καψόνια με στόχο να διώξουν από την σχολή όσους έχουν έρθει για άραγμα αλλά και να σας σκληραγωγήσουν για να αντέξετε στα επόμενα που έρχονται. Μην σας παίρνει από κάτω όμως, όποιος προσπαθεί σε longterm ανταμείβεται.
-Όσο πιο νωρίς συνηθίσεις στο να κόβεσαι, τόσο καλύτερο για την ψυχική σου υγεία. Δεν χρειάζεται να είσαι αδιάβαστος για να κοπεις, δεν χρειάζεται να είσαι διαβασμένος για να περάσεις. Επίσης, δεν σημαίνει ότι επειδή ο δίπλα σου δεν έχει πατήσει ποτέ του, δεν θα περάσει. Αυτά είναι τα κύρια ψυχικά χτυπήματα του πρώτου καιρού στα οποία θα καλεστείς να ξεπεράσεις.
-Καθηγητής από την πρώτη μερα που θα μπείτε στο τμήμα θα σας κάνει καψόνια για να τα παρατήσετε και να πάτε για 10% στο ΟΔΕ του ΠΑΠΕΙ. Επίτηδες θα σας κουράζει με πάρα πολλές ασκήσεις και διάβασμα,επίτηδες, θα σας κάνει να νίωσετε ανήμποροι, επίτηδες θα σας κάνει να μην μπορείτε να ανταπεξέλθετε και να επιλέξετε την εύκολη λύση της παραίτησης. Όσοι αντέξουν όμως, στο τέλος θα δούνε ότι είναι εφικτό να ολοκληρώσουν τις σπουδές στην ώρα τους καθώς και να βρούν σε μηδενικό χρόνο θέση εργασίας στο αντικείμενο που τους αρέσει.&lt;/p>
-&lt;p>Η σχολή μας θέλει πολύ γερό στομάχι, έχουμε πάρα πολλά μαθηματικά και αυστηρότατους καθηγητές. Μην σας φανεί καθόλου περίεργο αν πρώτο εξάμηνο περάσετε μόλις 2/5 και τον Σεπτέμβριο βρεθείτε με 5/10 χρωστούμενα. Είναι μία συνήθεια που σε κάνει να νιώσεις άσχημα ψυχικά, αλλά μόλις αντιμετωπίσεις τον εαυτό σου, όλα γίνονται εύκολα μετά.&lt;/p>
-&lt;p>Εσύ είσαι ο εχθρός του εαυτού σου και η αδυναμία σου να κρατήσεις υψηλά την ψυχραιμία και αυτοπεποίθηση σου. Οι καθηγητές στα πρώτα εξάμηνα κάνουν το ξεσκατάρισμα της σχολής. Από τους 200 φοιτητές που θα περάσουν, καταλήγουμε 50-60 άτομα και από αυτούς ενεργοί μένουν τελικά οι 20, και στα αμφιθέατρα πατάνε οι 10-15. Οπότε, το point είναι &lt;em>διαβάζετε και μην λυγίζετε&lt;/em>. Στο τέλος θα τα περάσετε. Με την 2η; Με την 3η; &lt;em>who cares&lt;/em>. Απλά μην αφήνετε κενά, ακόμα και να μην περάσετε ένα μάθημα, αν έχετε καταλάβει σε καλό ποσοστό τι γίνεται, μπορείτε να επιβιώσετε στα επόμενα.&lt;/p>
-&lt;p>Όπως είπα και πριν, η αρχή είναι δύσκολη, μετά θα μάθετε τον χορό και θα τα περνάτε σκούπα! Το πιο σημαντικό όμως είναι να ψάχνεστε συνεχώς μόνοι σας και να μην μένετε μόνο σε ο,τι είδατε στην σχολή. Το εξηγώ ακόμα πιο αναλυτικά &lt;a href="https://www.youtube.com/watch?v=iNKmOlEptLc&amp;amp;list=PLZa7COjIxKWxh-699iV33AzR6LNPD26nt&amp;amp;index=5">στο βίντεο με τον Κυριάκο Γιαννάκη.&lt;/a>&lt;/p>
-&lt;p>Το βίντεο έχει γυριστεί από εμένα Ψηφιακά και τον Κυριακό Πληροφορική του ΠΑΠΕΙ. Ωστόσο αυτά που λέμε ισχύουν σε όλες τις σχολές του πλανήτη πάνω σε Computer Science και πολυτεχνεία, οπότε αν έχετε γνωστούς σε άλλα τμήματα, να τους το στείλετε να το δούνε!&lt;/p>
-&lt;p>Αν αρχίσετε να τα αφήνετε, μπορώ να εγγηυθώ ότι θα κλάψατε. Άλλο ένα φρούτο επίσης κάνει το εξής γνωστό bullying, κάθε χρόνο παίζει μία κασέτα: &lt;em>Ο μέσος όρος της σχολής είναι στα 6.5 χρόνια, δεν θα πάρετε ποτέ πτυχίο, δεν θα πετύχετε&lt;/em> κτλπ κτλπ Ισχυόυν; Ναι ισχύουν εν μέρη. Γιατί ισχύουν; Γιατί τα παιδιά δεν αντέχουν να πισμώσουν να αντιμετωπίσουν τις δυσκολίες και τα παρατάνε. Άρα συνωψίζοντας, διαβάζουμε, δεν αγχωνόμαστε όταν κοβόμαστε, περνιούνται πανεύκολα την επόμενη και γενικά ΠΡΟΣΠΑΘΟΥΜΕ! Υλικό για διάβασμα υπάρχει αμέτρητο. Εκτός από το άφθονο δωρεάν υλικό που υπάρχει στο YouTube, Udemy, στις ανακοινώσεις του facebook group μας κτλπ, το τμήμα μας βρίσκεται στην ευχάριστη θέση να διαθέτει και ανθρώπους που σχεδιάζουν &lt;em>Δωρεάν Courses&lt;/em> στο YouTube και στο LBRY, αποκλειστικά για τα Μαθήματα των Ψηφιακών Συστημάτων του ΠΑΠΕΙ.&lt;/p>
-&lt;h2 id="elearning-courses-σχεδιασμένα-για-μαθήματα-των-ψηφιακών-συστημάτων-του-παπει">eLearning Courses σχεδιασμένα για Μαθήματα των Ψηφιακών Συστημάτων του ΠΑΠΕΙ:&lt;/h2>
-&lt;p>🇬🇷 Οι εκπαιδευτικές σειρές που βρίσκονται σε αυτή την λίστα μπορούν να βρεθούν στο LBRY και YouTube εντελώς δωρεάν. Ένα Like &amp;amp;&amp;amp; μία εγγραφή μπορούν να βοηθήσουν τα Projects να εξελιχθoύν σε κάτι μεγαλύτερο!&lt;/p>
-&lt;ul>
-&lt;li>🇬🇷 Linux for Beginners (Greek) by TuxHouse - &lt;a href="https://sv1sjp.github.io/whoami/">Dimitris Vagiakakos @sv1sjp&lt;/a>: &lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWx2Xt4spOOlxKzGJa5FFmoV">YouTube&lt;/a>&lt;/li>
-&lt;li>🇬🇷 Ultimate UNIX Tutorial (Greek) by TuxHouse - &lt;a href="https://sv1sjp.github.io/whoami/">Dimitris Vagiakakos @sv1sjp&lt;/a>: &lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzfu1kLBWBbj-3wdKSzDVl4">YouTube&lt;/a> , &lt;a href="https://odysee.com/@TuxHouse:1/ultimate_linux_terminal_tutorial_greek_part1:e?lid=9590f4f28cecd27d8e9414a284ae9296e3a0a81f">LBRY&lt;/a>&lt;/li>
-&lt;li>🇬🇷 Linux Master Class by (flare.gr)[flare.gr] - &lt;a href="https://www.linkedin.com/in/kgiannakis">Kyriakos Giannakis&lt;/a>: &lt;a href="https://www.youtube.com/watch?v=Kg5wl8JeO5o&amp;amp;list=PLrAcBWPfJzPTBOkH-2ErM0nTzdo44FBH9">YouTube&lt;/a>&lt;/li>
-&lt;li>🇬🇷 Pointers in C Programming Language by Pliromatics - [Aristomenis Tressos)[https://www.linkedin.com/in/aristomenis-tressos-783938265] : &lt;a href="https://www.youtube.com/watch?v=S7Wcp_1yO5w&amp;amp;list=PLTB_YxFt6y5PvezCMC52cBc9aH8d--OcO&amp;amp;pp=iAQB">YouTube&lt;/a>&lt;/li>
-&lt;li>🇬🇷 Mathematical Induction by Pliromatics - [Aristomenis Tressos)[https://www.linkedin.com/in/aristomenis-tressos-783938265] : &lt;a href="https://www.youtube.com/watch?v=OBYSJgExyfo&amp;amp;list=PLTB_YxFt6y5PCSsNazhk9_ZXYflZHFqiq">YouTube&lt;/a>&lt;/li>
-&lt;li>🇬🇷 Information Theory (Greek) by TuxHouse - &lt;a href="https://sv1sjp.github.io/whoami/">Dimitris Vagiakakos @sv1sjp&lt;/a> &lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzq3tyDlMqUmVzd1a7zDpT-">YouTube&lt;/a> , &lt;a href="https://odysee.com/$/playlist/9793029be347028f406fa73c0c2a2797fff50b9b">LBRY&lt;/a>&lt;/li>
-&lt;li>🇬🇷 Cryptography by Pliromatics - [Aristomenis Tressos)[https://www.linkedin.com/in/aristomenis-tressos-783938265] : &lt;a href="https://www.youtube.com/watch?v=OBYSJgExyfo&amp;amp;list=PLTB_YxFt6y5PCSsNazhk9_ZXYflZHFqiq">YouTube&lt;/a>&lt;/li>
-&lt;li>🇬🇷 Smart-Contract Security (Greek) TuxHouse - &lt;a href="https://sv1sjp.github.io/whoami/">Dimitris Vagiakakos @sv1sjp&lt;/a>: &lt;a href="https://www.youtube.com/watch?v=kmlhkMLF8yk&amp;amp;list=PLZa7COjIxKWzLcMxI9cRNSzOtdR0xvXB7">YouTube&lt;/a> , &lt;a href="https://odysee.com/$/playlist/35cdd869a31e31b26c6a95b3261155a3215243ba">LBRY&lt;/a>&lt;/li>
-&lt;li>🇬🇷 Για Μαθηματική Λογική, Λογικές Πύλες, Πολυπλοκότητα, Τεχνητή Νοημοσύνη,Γλώσσες Προγραμματισμού, Βάσεις Δεδομένων και άλλα πολλά, δείτε το κανάλι του: &lt;a href="https://www.youtube.com/@psounis/playlists">Δημήτρης Ψούνης [YouTube]&lt;/a>&lt;/li>
-&lt;li>🇬🇷 Στο κανάλι &lt;a href="https://www.youtube.com/channel/UCAWpP1vI-O-IiVc6TQcNZkg">Science and Tech GR&lt;/a> επίσης θα βρείτε αρκετές εκπαιδευτικές διαλέξεις, οργανωμένες ανά μάθημα.&lt;/li>
-&lt;/ul>
-&lt;p>&lt;img src="/img/series.jpg" alt="">&lt;/p>
-&lt;h2 id="βιβλία--papers-που-έχουν-δημιουργηθεί-εντός-των-ψηφιακών-συστημάτων-του-παπει-για-να-προσθέσετε-δικές-σας-πτυχιακές-και-papers-σε-αυτή-την-λίστα-στείλτε-ένα-μήνυμα-σε-κάποιο-social-media-από-την-κατηγορία-whoamihttpssv1sjpgithubiowhoami">Βιβλία &amp;amp;&amp;amp; papers που έχουν δημιουργηθεί εντός των Ψηφιακών Συστημάτων του ΠΑΠΕΙ: (Για να προσθέσετε δικές σας πτυχιακές και papers σε αυτή την λίστα, &lt;a href="https://sv1sjp.github.io/whoami/">στείλτε ένα μήνυμα σε κάποιο social media από την κατηγορία whoami&lt;/a>&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>🇬🇧 &lt;a href="https://github.com/sv1sjp/Blockchain_Camera/blob/main/Blockchain_Camera.pdf"> Developing an Ethereum Based Blockchain Camera: Dimitris Vagiakakakos&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>🇬🇷 &lt;a href="https://github.com/sv1sjp/eVoting_Elections_Decentralized_App/blob/main/Privacy%20in%20Blockchain%20and%20Web3.0%20(Greek).pdf"> Privacy in Blockchain and Web3.0 - Second Edition (Book in Greek): Dimitris Vagiakakakos, Konstantinos Karahalis, Stavros Gkinos&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>🇬🇧 &lt;a href="">Developing a Blockchain eVoting Application using Ethereum, Dimitris Vagiakakos, Konstantinos Karahalis, Stavros Gkinos&lt;/a>. 🇬🇷 Greek Slides from this paper can be found &lt;a href="https://github.com/sv1sjp/eVoting_Elections_Decentralized_App/blob/main/eVoting_Decentralized_Application_PresentationGR.pdf">there:&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>🇬🇧 &lt;a href="https://github.com/sv1sjp/eVoting_Elections_Decentralized_App/blob/main/smartcontract_security_paper.pdf">Smart Contract Security: Dimitris Vagiakakakos, Stavros Gkinos, Ioannis Karvelas&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;p>&lt;img src="https://www.ds.unipi.gr/wp-content/uploads/2019/04/University-of-Piraeus-Logo.png" alt="">&lt;/p>
-&lt;p>&lt;em>Καλή αρχή!!!&lt;/em> 🚀&lt;/p>
-&lt;pre tabindex="0">&lt;code> .--.
-|o_o |
-|:_/ | (\__/)
-// \ \ (o^-^)
-(| | ) z(_(&amp;#34;)(&amp;#34;)
-/&amp;#39;\_ _/`\
-\___)=(___/
-&lt;/code>&lt;/pre></content></item><item><title/><link>/lyseis_aepp/content/panellinies.aepp_lyseis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/lyseis_aepp/content/panellinies.aepp_lyseis/</guid><description>Panellinies_AEPP Λύσεις θεμάτων ./</description><content>&lt;p>Panellinies_AEPP
-Λύσεις θεμάτων ./&lt;/p></content></item><item><title/><link>/panellinies.aepp_ask/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/panellinies.aepp_ask/</guid><description>Προσοχή: Από τις 28 Δεκεμβρίου το Project Panellinies_AEPP απενεργοποιεί όλες τις διαφημίσεις πάνω στο εκπαιδευτικό υλικό. Τo Project πλέον λειτουργεί και υποστηρίζεται αποκλειστικά από τις χορηγίες σας σε Basic Attention Token (BAT) μέσω του Brave Browser στο κανάλι στο Youtube καθώς και σε άλλα κρυπτονομίσματα στις παρακάτω διευθύνσεις:
-Bitcoin: bc1q6j959m3whh44ztr8k6p7545n5pzcsncple7qmy
-Ethereum: 0x3f27F05Ca28a5B5F876A3A7d435E2E852756F873
-Cardano: addr1qxewtm0y5yk2mgf93ct4ghguus2shu34fu786t62j3tv7296evenhmr0ltmx3hdyw4d6d8gj8qspry5pe3raaw4nu8as7jsr9l
-Monero: 46ewn3rgXMSceuEUEng1bze1RzG61rEiFV3hJ6VKuzvHU62jPntydJRBcFinQ62Pad8AvdoX9YbQcY5HKX3Cr3UQPkhiQ4L
-VeChain:0x3f27F05Ca28a5B5F876A3A7d435E2E852756F873
-Shiba:0x3f27F05Ca28a5B5F876A3A7d435E2E852756F873
-AIOZ:0x3f27F05Ca28a5B5F876A3A7d435E2E852756F873
-Για το πώς θα κερδίσετε δωρεάν BAT, διαβάστε αυτό το άρθρο κάνοντας κλικ εδώ</description><content>&lt;p>&lt;img src="/img/brave.png" alt="">&lt;/p>
-&lt;p>Προσοχή: Από τις 28 Δεκεμβρίου το Project Panellinies_AEPP απενεργοποιεί όλες τις διαφημίσεις πάνω στο εκπαιδευτικό υλικό.
-Τo Project πλέον λειτουργεί και υποστηρίζεται αποκλειστικά από τις χορηγίες σας σε Basic Attention Token (BAT) μέσω του Brave Browser &lt;a href="https://www.youtube.com/LinuxOSblog/">στο κανάλι στο Youtube&lt;/a> καθώς και σε άλλα κρυπτονομίσματα στις παρακάτω διευθύνσεις:&lt;/p>
-&lt;p>Bitcoin: bc1q6j959m3whh44ztr8k6p7545n5pzcsncple7qmy&lt;/p>
-&lt;p>Ethereum: 0x3f27F05Ca28a5B5F876A3A7d435E2E852756F873&lt;/p>
-&lt;p>Cardano: addr1qxewtm0y5yk2mgf93ct4ghguus2shu34fu786t62j3tv7296evenhmr0ltmx3hdyw4d6d8gj8qspry5pe3raaw4nu8as7jsr9l&lt;/p>
-&lt;p>Monero: 46ewn3rgXMSceuEUEng1bze1RzG61rEiFV3hJ6VKuzvHU62jPntydJRBcFinQ62Pad8AvdoX9YbQcY5HKX3Cr3UQPkhiQ4L&lt;/p>
-&lt;p>VeChain:0x3f27F05Ca28a5B5F876A3A7d435E2E852756F873&lt;/p>
-&lt;p>Shiba:0x3f27F05Ca28a5B5F876A3A7d435E2E852756F873&lt;/p>
-&lt;p>AIOZ:0x3f27F05Ca28a5B5F876A3A7d435E2E852756F873&lt;/p>
-&lt;p>Για το πώς θα κερδίσετε δωρεάν BAT, διαβάστε αυτό το άρθρο κάνοντας κλικ &lt;a href="https://cerebrux.net/2021/02/25/brave-bat-token/">εδώ&lt;/a>&lt;/p>
-&lt;hr>
-&lt;h1 id="season-3">Season 3:&lt;/h1>
-&lt;h1 id="θέματα-αβ-">Θέματα Α+Β :&lt;/h1>
-&lt;p>&lt;a href="/PDFs/askhseisA+B/panellinies_aepp_a+b_1.pdf"> Θέματα Α+Β - Part1&lt;/a>&lt;/p>
-&lt;p>&lt;a href="/PDFs/askhseisA+B/panellinies_aepp_a+b_1.pdf">Θέματα Α+Β - Part2&lt;/a>&lt;/p>
-&lt;h1 id="θέματα-γδ-">Θέματα Γ+Δ :&lt;/h1>
-&lt;p>&lt;a href="/PDFs/askhseisG+D/panellinies_aepp_g+d_1.pdf">Θέματα Γ+Δ - Part1&lt;/a>&lt;/p>
-&lt;p>&lt;a href="/PDFs/askhseisG+D/panellinies_aepp_g+d_2.pdf">Θέματα Γ+Δ - Part2&lt;/a>&lt;/p>
-&lt;p>&lt;a href="/PDFs/askhseisG+D/panellinies_aepp_g+d_3.pdf">Θέματα Γ+Δ - Part3&lt;/a>&lt;/p>
-&lt;h1 id="διαγωνίσματα-προσομοίωσης">Διαγωνίσματα προσομοίωσης:&lt;/h1>
-&lt;p>&lt;a href="/PDFs/askhseisG+D/test1.pdf">Διαγώνισμα Προσωμοίωσης &lt;/a>&lt;/p>
-&lt;h2 id="iστορικό">Iστορικό:&lt;/h2>
-&lt;hr>
-&lt;p>SEASON 2:&lt;/p>
-&lt;p>ΘΕΜΑΤΑ Α ΚΑΙ Β :&lt;/p>
-&lt;p>Φυλλάδιο 00 - Εισαγωγικές Ασκήσεις στον κόσμο του ΑΕΠΠ&lt;/p>
-&lt;p>Θέματα Α και Β - 2ο PDF&lt;/p>
-&lt;p>ΘΕΜΑΤΑ Γ ΚΑΙ Δ :&lt;/p>
-&lt;p>Φυλλάδιο 00 - Δομές Επιλογής-Επανάληψης
-Θέματα Γ και Δ - 2ο PDF - Δομές Δεδομένων:Πίνακες
-Θέματα Γ και Δ - 3o PDF - Ασκήσεις στα Υποπρογράμματα&lt;/p>
-&lt;p>Διαγώνισμα Προσομοίωσης Πανελληνίων στην Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον.&lt;/p>
-&lt;p>SEASON 1:&lt;/p>
-&lt;p>Φυλλάδιο 00 - Δομές Επιλογής-Επανάληψης
-Φυλλάδιο 01 - Μονοδιάστατοι πίνακες &amp;amp; Ιδιότητες Πινάκων
-Φυλλάδιο 02 - Δισδιάστατοι πίνακες
-Φυλλάδιο 03 - Υποπρογράμματα
-Τελικές Ασκήσεις
-1ο διαγώνισμα προσομοίωσης&lt;/p></content></item><item><title/><link>/panellinies.aepp_theoria/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/panellinies.aepp_theoria/</guid><description>⚠️ Προσοχή: Από τις 28 Δεκεμβρίου 2021, το Project Panellinies_AEPP απενεργοποιεί όλες τις διαφημίσεις πάνω στο εκπαιδευτικό υλικό.
-🔰 Τo Project Panellinies_AEPP πλέον λειτουργεί και υποστηρίζεται αποκλειστικά από τις χορηγίες σας μέσω YouTube και σε Basic Attention Token (BAT) μέσω του Brave Browser στο κανάλι στο Youtube, καθώς και σε άλλα κρυπτονομίσματα στις παρακάτω διευθύνσεις:
-🔷 Bitcoin: bc1q6j959m3whh44ztr8k6p7545n5pzcsncple7qmy 🔷 Ethereum: 0x3f27F05Ca28a5B5F876A3A7d435E2E852756F873 🔷 Cardano: addr1qxewtm0y5yk2mgf93ct4ghguus2shu34fu786t62j3tv7296evenhmr0ltmx3hdyw4d6d8gj8qspry5pe3raaw4nu8as7jsr9l 🔷 Monero: 46ewn3rgXMSceuEUEng1bze1RzG61rEiFV3hJ6VKuzvHU62jPntydJRBcFinQ62Pad8AvdoX9YbQcY5HKX3Cr3UQPkhiQ4L 🔷 VeChain:0x3f27F05Ca28a5B5F876A3A7d435E2E852756F873 🔷 Shiba:0x3f27F05Ca28a5B5F876A3A7d435E2E852756F873 🔷 AIOZ:0x3f27F05Ca28a5B5F876A3A7d435E2E852756F873</description><content>&lt;p>⚠️ &lt;strong>Προσοχή&lt;/strong>: Από τις 28 Δεκεμβρίου 2021, το Project Panellinies_AEPP απενεργοποιεί όλες τις διαφημίσεις πάνω στο εκπαιδευτικό υλικό.&lt;/p>
-&lt;p>🔰 Τo Project Panellinies_AEPP πλέον λειτουργεί και υποστηρίζεται αποκλειστικά από τις χορηγίες σας μέσω YouTube και σε Basic Attention Token (BAT) μέσω του Brave Browser &lt;a href="https://www.youtube.com/@TuxHouseEdu">στο κανάλι στο Youtube&lt;/a>, καθώς και σε άλλα κρυπτονομίσματα στις παρακάτω διευθύνσεις:&lt;/p>
-&lt;p>🔷 Bitcoin: bc1q6j959m3whh44ztr8k6p7545n5pzcsncple7qmy
-🔷 Ethereum: 0x3f27F05Ca28a5B5F876A3A7d435E2E852756F873
-🔷 Cardano: addr1qxewtm0y5yk2mgf93ct4ghguus2shu34fu786t62j3tv7296evenhmr0ltmx3hdyw4d6d8gj8qspry5pe3raaw4nu8as7jsr9l
-🔷 Monero: 46ewn3rgXMSceuEUEng1bze1RzG61rEiFV3hJ6VKuzvHU62jPntydJRBcFinQ62Pad8AvdoX9YbQcY5HKX3Cr3UQPkhiQ4L
-🔷 VeChain:0x3f27F05Ca28a5B5F876A3A7d435E2E852756F873
-🔷 Shiba:0x3f27F05Ca28a5B5F876A3A7d435E2E852756F873
-🔷 AIOZ:0x3f27F05Ca28a5B5F876A3A7d435E2E852756F873&lt;/p>
-&lt;p>Για το πώς θα κερδίσετε δωρεάν BAT, διαβάστε αυτό το άρθρο κάνοντας κλικ &lt;a href="https://cerebrux.net/2021/02/25/brave-bat-token/">εδώ&lt;/a>&lt;/p>
-&lt;p>&lt;img src="/img/brave.png" alt="">&lt;/p>
-&lt;hr>
-&lt;h2 id="-season-4">📚 Season 4:&lt;/h2>
-&lt;h1 id="η-θεωρία-του-αεππ---part1pdfstheoriapanellinies_aepp_theoria_part1pdf">&lt;a href="/PDFs/theoria/panellinies_aepp_theoria_part1.pdf">Η Θεωρία του ΑΕΠΠ - Part1&lt;/a>&lt;/h1>
-&lt;h1 id="η-θεωρία-του-αεππ---part2pdfstheoriapanellinies_aepp_theoria_part2pdf">&lt;a href="/PDFs/theoria/panellinies_aepp_theoria_part2.pdf">Η Θεωρία του ΑΕΠΠ - Part2&lt;/a>&lt;/h1>
-&lt;h1 id="η-θεωρία-του-αεππ---part3pdfstheoriapanellinies_aepp_theoria_part3pdf">&lt;a href="/PDFs/theoria/panellinies_aepp_theoria_part3.pdf">Η Θεωρία του ΑΕΠΠ - Part3&lt;/a>&lt;/h1>
-&lt;h1 id="η-θεωρία-του-αεππ---πίνακεςpdfstheoriapanellinies_aepp_theoria_arrayspdf">&lt;a href="/PDFs/theoria/panellinies_aepp_theoria_arrays.pdf">Η Θεωρία του ΑΕΠΠ - Πίνακες&lt;/a>&lt;/h1>
-&lt;h1 id="η-θεωρία-του-αεππ---υποπρογράμματαpdfstheoriapanellinies_aepp_theoria_ypoprogrammatapdf">&lt;a href="/PDFs/theoria/panellinies_aepp_theoria_ypoprogrammata.pdf">Η Θεωρία του ΑΕΠΠ - Υποπρογράμματα&lt;/a>&lt;/h1>
-&lt;h1 id="η-θεωρία-του-αεππ---προηγμένες-δομές-δεδομένωνpdfstheoriapanellinies_aepp_theoria_datastrpdf">&lt;a href="/PDFs/theoria/panellinies_aepp_theoria_datastr.pdf">Η Θεωρία του ΑΕΠΠ - Προηγμένες Δομές Δεδομένων&lt;/a>&lt;/h1>
-&lt;h1 id="η-θεωρία-του-αεππ---debugging-και-αντικειμενοστραφής-προγραμματισμόςpdfstheoriapanellinies_aepp_theoria_debugpdf">&lt;a href="/PDFs/theoria/panellinies_aepp_theoria_debug.pdf">Η Θεωρία του ΑΕΠΠ - Debugging και Αντικειμενοστραφής Προγραμματισμός&lt;/a>&lt;/h1>
-&lt;h1 id="270-σωστό-λάθος-λυμένα---5η-έκδοσηpdfsswsto_lathospdf">&lt;a href="/PDFs/swsto_lathos.pdf">270+ Σωστό Λάθος Λυμένα - 5η έκδοση&lt;/a>&lt;/h1>
-&lt;h1 id="όλη-η-θεωρία-του-αεππ---4η-έκδοσηpdfstheoriapanellinies_aepp_theoria_fullpdf">&lt;a href="/PDFs/theoria/panellinies_aepp_theoria_full.pdf">ΌΛΗ Η Θεωρία του ΑΕΠΠ - 4η έκδοση&lt;/a>&lt;/h1>
-&lt;hr>
-&lt;p>🎯 Στόχος του Panellinies_AEPP είναι να προσφέρει λυμένες ασκήσεις και κατηγοριοποιημένη την Θεωρία του ΑΕΠΠ, τόσο σε άτομα που δεν έχουν την οικονομική δυνατότητα για φροντιστήρια, όσο και σε άτομα που θέλουν να δουν το &amp;ldquo;κάτι παραπάνω&amp;rdquo; και να κάνουν περισσότερη εξάσκηση.&lt;/p>
-&lt;p>🔗 Όλο το υλικό μπορεί να βρεθεί κάνοντας click στο Panellinies_AEPP στο &lt;a href="https://sv1sjp.github.io/">https://sv1sjp.github.io/&lt;/a>&lt;/p>
-&lt;hr>
-&lt;p>🎓 TuxHouse is an Educational community which aims to teach people about Linux, Blockchain, Android &amp;amp;&amp;amp; Cybersecurity using the new technologies and trends. Stay tuned for more educational content.&lt;/p>
-&lt;p>Feel free to contact me on any social media as: @TuxHouse &amp;amp;&amp;amp; @sv1sjp&lt;/p>
-&lt;p>🌐 Let&amp;rsquo;s educate the world!&lt;/p>
-&lt;hr>
-&lt;p>🔵 YouTube: &lt;a href="https://www.youtube.com/@TuxHouseEdu">https://www.youtube.com/@TuxHouseEdu&lt;/a>&lt;/p>
-&lt;p>🔵 TikTok: &lt;a href="https://www.tiktok.com/@tuxhouseedu">https://www.tiktok.com/@tuxhouse&lt;/a>&lt;/p>
-&lt;p>🔵 Instagram: &lt;a href="https://www.instagram.com/sv1sjp">https://www.instagram.com/tuxhouseedu&lt;/a>&lt;/p>
-&lt;p>🔵 LBRY: &lt;a href="https://odysee.com/@TuxHouse:1">https://odysee.com/@TuxHouse:1&lt;/a>&lt;/p>
-&lt;p>🔵 Mastodon: &lt;a href="https://fosstodon.org/@sv1sjp">https://fosstodon.org/@sv1sjp&lt;/a>&lt;/p>
-&lt;p>More social media can be found in the &lt;a href="https://sv1sjp.github.io/whoami">whoami&lt;/a> section.&lt;/p>
-&lt;p>&lt;img src="/img/tuxhouse_logo_with_name.png" alt="">&lt;/p></content></item><item><title/><link>/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/projects/</guid><description>There are multiple projects running on TuxHouse as well as in other communities. On this Page I will try to achieve all the Projects I run into a single page. For any information, you can find all my social media on whoami section. Educational Series: 🇬🇧 These eLearning Series can be found both on YouTube and LBRY free of cost. If you want to support the Channel, you can like &amp;amp;&amp;amp; subscribe to both channels (on YouTube and LBRY).</description><content>&lt;pre tabindex="0">&lt;code>There are multiple projects running on TuxHouse as well as in other communities.
-On this Page I will try to achieve all the Projects I run into a single page.
-For any information, you can find all my social media on whoami section.
-&lt;/code>&lt;/pre>&lt;h1 id="educational-series">Educational Series:&lt;/h1>
-&lt;p>&lt;img src="/img/series.jpg" alt="">&lt;/p>
-&lt;p>🇬🇧 These eLearning Series can be found both on YouTube and LBRY free of cost. If you want to support the Channel, you can like &amp;amp;&amp;amp; subscribe to both channels (on YouTube and LBRY).&lt;/p>
-&lt;p>🇬🇷 Οι εκπαιδευτικές σειρές που βρίσκονται σε αυτή την λίστα μπορούν να βρεθούν στο LBRY και YouTube εντελώς δωρεάν. Ένα Like &amp;amp;&amp;amp; μία εγγραφή μπορούν να βοηθήσουν το Project να εξελιχθεί σε κάτι μεγαλύτερο!&lt;/p>
-&lt;ul>
-&lt;li>🇬🇷 Linux for Beginners (Greek): &lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWx2Xt4spOOlxKzGJa5FFmoV">YouTube&lt;/a>&lt;/li>
-&lt;li>🇬🇷 Ultimate UNIX Ultimate Tutorial (Greek): &lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzfu1kLBWBbj-3wdKSzDVl4">YouTube&lt;/a> , &lt;a href="https://odysee.com/@TuxHouse:1/ultimate_linux_terminal_tutorial_greek_part1:e?lid=9590f4f28cecd27d8e9414a284ae9296e3a0a81f">LBRY&lt;/a>&lt;/li>
-&lt;li>🇬🇷 Smart-Contract Security (Greek): &lt;a href="https://www.youtube.com/watch?v=kmlhkMLF8yk&amp;amp;list=PLZa7COjIxKWzLcMxI9cRNSzOtdR0xvXB7">YouTube&lt;/a> , &lt;a href="https://odysee.com/$/playlist/35cdd869a31e31b26c6a95b3261155a3215243ba">LBRY&lt;/a>&lt;/li>
-&lt;li>🇬🇷 Information Theory (Greek): &lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzq3tyDlMqUmVzd1a7zDpT-">YouTube&lt;/a> , &lt;a href="https://odysee.com/$/playlist/9793029be347028f406fa73c0c2a2797fff50b9b">LBRY&lt;/a>&lt;/li>
-&lt;li>🇬🇷 Panellinies_AEPP: Δωρεάν Ασκήσεις και κατηγοριοποιημένη η θεωρία του ΑΕΠΠ για τις Πανελλήνιες: &lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWxh-699iV33AzR6LNPD26nt">YouTube&lt;/a>&lt;/li>
-&lt;li>🇬🇧 Android Hacking (English): &lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWwXANQuJdggsb-aq2kN4lT9">YouTube&lt;/a>&lt;/li>
-&lt;li>🇬🇧 Android Rooting &amp;amp;&amp;amp; Customization (English): &lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzrT4Yig-z__LvhvaWsBkhv">YouTube&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h1 id="blockchain-projects">Blockchain Projects:&lt;/h1>
-&lt;h2 id="developing-an-ethereum-based-blockchain-camera">Developing an Ethereum Based Blockchain Camera&lt;/h2>
-&lt;p>Turn your Raspberry Pi into an Ethereum-based Blockchain Camera! Powered by Solidity and Python3.&lt;/p>
-&lt;ul>
-&lt;li>Find more information about Blockchain Camera on is own web page.&lt;a href="https://sv1sjp.github.io/blockchain_camera/">Click Here:&lt;/a> or read Blockchain&amp;rsquo;s Camera paper:&lt;/li>
-&lt;/ul>
-&lt;p>&lt;a href="https://github.com/sv1sjp/Blockchain_Camera/blob/main/Blockchain_Camera.pdf">Developing an Ethereum Based Blockchain Camera: Dimitris Vagiakakos (2022)&lt;/a>&lt;/p>
-&lt;h2 id="evoting_elections_decentralized_app">eVoting_Elections_Decentralized_App&lt;/h2>
-&lt;p>eVoting Decentralized Application for the Ethereum Network written in Solidity 0.8.x&lt;/p>
-&lt;ul>
-&lt;li>For more information about how you can deploy and how our eVoting Decentralized Application works, please read our paper:&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;p>&lt;a href="https://github.com/sv1sjp/eVoting_Elections_Decentralized_App/blob/main/eVoting_Smart_Contract_paper.pdf">Developing a Blockchain eVoting Application using Ethereum: Dimitris Vagiakakaos, Konstantinos Karahalis, Stavros Gkinos&lt;/a>&lt;/p>
-&lt;hr>
-&lt;h2 id="smart-contract-security">Smart-Contract Security:&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://github.com/sv1sjp/eVoting_Elections_Decentralized_App/blob/main/smartcontract_security_paper.pdf">Smart Contract Security: Dimitris Vagiakakakos, Stavros Gkinos, Ioannis Karvelas&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h1 id="other-projects">Other Projects:&lt;/h1>
-&lt;h2 id="ubuntel-linux----the-greek-version-of-ubuntu">Ubuntel Linux 🇬🇷 - The Greek Version of Ubuntu&lt;/h2>
-&lt;ul>
-&lt;li>Find more information about Ubuntel Linux on &lt;a href="https://sv1sjp.github.io/ubuntel/">its own web page.&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="-privacy-in-blockchain-and-web30---second-edition-book">🇬🇷 Privacy in Blockchain and Web3.0 - Second Edition (Book):&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://github.com/sv1sjp/eVoting_Elections_Decentralized_App/blob/main/Privacy%20in%20Blockchain%20and%20Web3.0%20(Greek).pdf"> Privacy in Blockchain and Web3.0 - Second Edition: Dimitris Vagiakakakos, Konstantinos Karahalis, Stavros Gkinos&lt;/a>&lt;/li>
-&lt;/ul></content></item><item><title/><link>/ubuntel/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/ubuntel/</guid><description>Το Ubuntel είναι η ελληνική έκδοση του Ubuntu με MATE για desktop.
+&lt;p>Λέτε να δούμε τα επόμενα χρόνια και τα υπόλοιπα παιχνίδια της σειράς (Super Mario Galaxy 2 ) ή ακόμη και το Paper Mario ή άλλα Gamecube,Wii games να κάνουν την εμφάνιση τους στο Switch?&lt;/p></content></item><item><title>Ubuntel Linux</title><link>/ubuntel/</link><pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate><guid>/ubuntel/</guid><description>Το Ubuntel είναι η ελληνική έκδοση του Ubuntu με MATE για desktop.
 Ξεκίνησε επίσημα τον Οκτώβρη του 2011 από τον 11 χρονών τότε Δημήτρη Βαγιακάκο βασιζόμενο σε Ubuntu 11.10!
 Σκοπός της διανομής είναι να προσφέρει ό,τι μπορεί να χρειαστεί ένας χρήστης,από τον αρχάριο μέχρι &amp;amp; τον παραγωγό μουσικής/video editor ή τον hardcore χρήστη ,σε μόλις ένα bootable DVD ή USB flash !Χρησιμοποιόντας MATE,γίνεται πιο φιλικό για παλιότερο υλικό,ως αποτέλεσμα να αποτελεί μια καλή λύση για να ζωντανέψετε τα παλιά σας PC !</description><content>&lt;p>&lt;img src="/img/ubuntel.jpg" alt="https://www.youtube.com/linuxosblog">
 Το Ubuntel είναι η ελληνική έκδοση του Ubuntu με MATE για desktop.&lt;/p>
@@ -3146,86 +3227,13 @@ bootable DVD ή USB flash !Χρησιμοποιόντας MATE,γίνεται π
 &lt;li>Αποστόλης Κοκονός&lt;/li>
 &lt;li>John Karvelas&lt;/li>
 &lt;/ul>
-&lt;p>Download Link υπάρχει στο βίντεο με το Review του Ubuntel 5.0 στο κανάλι του TuxHouse στο Youtube : &lt;a href="https://www.youtube.com/watch?v=MXzPXsKCXbc">https://www.youtube.com/watch?v=MXzPXsKCXbc&lt;/a>&lt;/p></content></item><item><title/><link>/whoami/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/whoami/</guid><description>$whoami
-Dimitris Vagiakakos @sv1sjp 🏠 Founder of TuxHouseEdu 🔗 Blockchain Security Engineer 🔍 Penetration Tester at Grant Thornton Greece 🎓 Specializing in Educational Technologies 📸 Creator of Blockchain Camera 🐧 Moderating Linux-User.gr
-MSc in Blockchain &amp;amp; Digital Currency at University Of Nicosia 🇪🇺🇨🇾 BSc in Digital Systems Security at University Of Piraeus 🇪🇺🇬🇷 From: Mani, Lakonia, Greece, EU 🇪🇺🇬🇷 Based in: Athens, Greece, EU 🇪🇺🇬🇷 Find me on: Platform ./ 🔗 LinkedIn 📸 Instagram 🍋 Lemmy 🐘 Mastodon 💬 Telegram 🐙 Github 📺 TuxHouse YouTube 🏠 TuxHouse LBRY 📸 TuxHouse Instagram 🎵 TuxHouse TikTok 🐧 Linux-User.</description><content>&lt;p>$whoami&lt;/p>
-&lt;h1 id="dimitris-vagiakakos-sv1sjp">Dimitris Vagiakakos @sv1sjp&lt;/h1>
-&lt;p>&lt;img src="/img/sv1sjp.jpg" alt="">&lt;/p>
-&lt;p>🏠 Founder of TuxHouseEdu
-🔗 Blockchain Security Engineer
-🔍 Penetration Tester at Grant Thornton Greece
-🎓 Specializing in Educational Technologies
-📸 Creator of Blockchain Camera
-🐧 Moderating Linux-User.gr&lt;/p>
-&lt;pre tabindex="0">&lt;code>MSc in Blockchain &amp;amp; Digital Currency at University Of Nicosia 🇪🇺🇨🇾
-BSc in Digital Systems Security at University Of Piraeus 🇪🇺🇬🇷
-&lt;/code>&lt;/pre>&lt;pre tabindex="0">&lt;code>From: Mani, Lakonia, Greece, EU 🇪🇺🇬🇷
-Based in: Athens, Greece, EU 🇪🇺🇬🇷
-&lt;/code>&lt;/pre>&lt;h2 id="find-me-on">Find me on:&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Platform&lt;/th>
-&lt;th>./&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>🔗 &lt;a href="https://www.linkedin.com/in/sv1sjp">LinkedIn&lt;/a>&lt;/td>
-&lt;td>📸 &lt;a href="https://www.instagram.com/sv1sjp/">Instagram&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>🍋 &lt;a href="https://lemmy.world/u/sv1sjp">Lemmy&lt;/a>&lt;/td>
-&lt;td>🐘 &lt;a href="https://fosstodon.org/@sv1sjp">Mastodon&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>💬 &lt;a href="https://t.me/sv1sjp">Telegram&lt;/a>&lt;/td>
-&lt;td>🐙 &lt;a href="https://github.com/sv1sjp">Github&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>📺 &lt;a href="https://youtube.com/@TuxHouseEdu">TuxHouse YouTube&lt;/a>&lt;/td>
-&lt;td>🏠 &lt;a href="https://odysee.com/@TuxHouse">TuxHouse LBRY&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>📸 &lt;a href="https://www.instagram.com/tuxhouseedu">TuxHouse Instagram&lt;/a>&lt;/td>
-&lt;td>🎵 &lt;a href="https://www.tiktok.com/@tuxhouseedu">TuxHouse TikTok&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>🐧 &lt;a href="https://linux-user.gr/u/sv1sjp">Linux-User.gr&lt;/a>&lt;/td>
-&lt;td>📻 &lt;a href="https://www.qrz.com/db/sv1sjp">QRZ&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>💬 &lt;a href="https://discordapp.com/users/sv1sjp">Discord&lt;/a>&lt;/td>
-&lt;td>📡 &lt;a href="https://matrix.to/#/@sv1sjp:matrix.org">Matrix&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>You don&amp;rsquo;t have anything from all of these? Well, you can send me an email:&lt;/p>
-&lt;pre tabindex="0">&lt;code>dimitrislinuxos@protonmail.ch
-&lt;/code>&lt;/pre>&lt;p>?? Do you need to use encryption? You can find my PGP public key &lt;a href="/PDFs/pgp.txt">here:&lt;/a>&lt;/p>
-&lt;hr>
-&lt;h2 id="other-information">Other Information:&lt;/h2>
-&lt;h3 id="noticable-projects">Noticable Projects:&lt;/h3>
-&lt;ul>
-&lt;li>&lt;a href="https://sv1sjp.github.io/blockchain_camera/">Developing an Ethereum Based Blockchain Camera&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzLcMxI9cRNSzOtdR0xvXB7">Ethereum Hacking - Smart Contract Security Series&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzfu1kLBWBbj-3wdKSzDVl4">Ultimate Linux Terminal Tutorial Series (Greek)&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzq3tyDlMqUmVzd1a7zDpT-">Information Theory Series&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://sv1sjp.github.io/panellinies_aepp/index.html">Panellinies_AEPP&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>&lt;img src="/img/Blockchain_Camera_EN.jpg" alt="">&lt;/p>
-&lt;p>&lt;img src="/img/series.jpg" alt="">&lt;/p>
-&lt;h3 id="presenter-at-the-conferences">Presenter at the Conferences:&lt;/h3>
-&lt;p>&lt;a href="https://2021.fosscomm.gr/index.html">FOSSCOMM 2021&lt;/a> | &lt;a href="https://www.pychain.org/">PyChain 2022&lt;/a> | &lt;a href="https://2022.fosscomm.gr/en/">FOSSCOMM 2022&lt;/a> | &lt;a href="https://fosdem.org/2023/">FOSSDEM 2023&lt;/a> | &lt;a href="https://2023.fosscomm.gr/">FOSSCOMM 2023&lt;/a>&lt;/p>
-&lt;h3 id="countries-i-have-visited">Countries I have visited:&lt;/h3>
-&lt;p>🇬🇷🇧🇬🇧🇪🇪🇺&lt;/p>
-&lt;h3 id="translating-in">Translating in:&lt;/h3>
-&lt;p>Jebroa | Ethereum.org | SnapDrop | CrDroid | DivestOS | BTCMap | Lemmy | Element | Hypatia | IRR | Fedora | Extiparter&lt;/p></content></item><item><title>TuxHouse</title><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid><description>🏠 TuxHouse TuxHouse is an educational platform 🎓 that provides free educational videos 📺 and e-books 📚 about cybersecurity 🔒, blockchain ⛓, Linux 🐧 and Android 📱.
-🎬 Our Journey The channel began its journey as DimitrisV back in 2014, primarily as an Android Hacking Channel 📱🔒. Eager to broaden our scope and bring more valuable content to our community, we underwent a rebranding process, emerging as TuxHouse 🏠 in late 2022.</description><content>&lt;h1 id="-tuxhouse">🏠 TuxHouse&lt;/h1>
+&lt;p>Download Link υπάρχει στο βίντεο με το Review του Ubuntel 5.0 στο κανάλι του TuxHouse στο Youtube : &lt;a href="https://www.youtube.com/watch?v=MXzPXsKCXbc">https://www.youtube.com/watch?v=MXzPXsKCXbc&lt;/a>&lt;/p></content></item><item><title/><link>/lyseis_aepp/content/panellinies.aepp_lyseis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/lyseis_aepp/content/panellinies.aepp_lyseis/</guid><description>Panellinies_AEPP Λύσεις θεμάτων ./</description><content>&lt;p>Panellinies_AEPP
+Λύσεις θεμάτων ./&lt;/p></content></item><item><title>About TuxHouse</title><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid><description>🏠 TuxHouse TuxHouse is an educational platform 🎓 that provides free educational videos 📺 and e-books 📚 about cybersecurity 🔒, blockchain ⛓, Linux 🐧 and Android 📱.
+🎬 Our Journey The channel began its journey as DimitrisV by Dimitris Vagiakakos @sv1sjp back in 2014, primarily as an Android Hacking YouTube Channel 📱🔒. Eager to broaden our scope and bring more valuable content to our community, we underwent a rebranding process, emerging as TuxHouse 🏠 in late 2022.</description><content>&lt;h1 id="-tuxhouse">🏠 TuxHouse&lt;/h1>
 &lt;p>TuxHouse is an educational platform 🎓 that provides &lt;em>free&lt;/em> educational videos 📺 and e-books 📚 about cybersecurity 🔒, blockchain ⛓, Linux 🐧 and Android 📱.&lt;/p>
 &lt;h2 id="-our-journey">🎬 Our Journey&lt;/h2>
-&lt;p>The channel began its journey as &lt;strong>DimitrisV&lt;/strong> back in 2014, primarily as an Android Hacking Channel 📱🔒. Eager to broaden our scope and bring more valuable content to our community, we underwent a rebranding process, emerging as &lt;strong>TuxHouse&lt;/strong> 🏠 in late 2022. Since the rebranding, we&amp;rsquo;ve released a plethora of new episodes, including full-courses and shorts, covering a wider range of topics.&lt;/p>
-&lt;h2 id="-contributors">🤝 Contributors&lt;/h2>
+&lt;p>The channel began its journey as &lt;strong>DimitrisV&lt;/strong> by Dimitris Vagiakakos @sv1sjp back in 2014, primarily as an Android Hacking YouTube Channel 📱🔒. Eager to broaden our scope and bring more valuable content to our community, we underwent a rebranding process, emerging as &lt;strong>TuxHouse&lt;/strong> 🏠 in late 2022. Since the rebranding, we&amp;rsquo;ve released a plethora of new episodes, including full-courses and shorts, covering a wider range of topics related on Computer Science and FinTech.&lt;/p>
+&lt;h2 id="-contributors">🤝 Contributors:&lt;/h2>
 &lt;p>Our journey wouldn&amp;rsquo;t have been the same without the immense support and contributions from our beloved community. Here&amp;rsquo;s a shout-out to them:&lt;/p>
 &lt;table>
 &lt;thead>
@@ -3264,7 +3272,7 @@ Based in: Athens, Greece, EU 🇪🇺🇬🇷
 &lt;td>3&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Panagiotis Makromanolis&lt;/td>
+&lt;td>Panagiotis Macromanolis&lt;/td>
 &lt;td>3&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -3276,7 +3284,7 @@ Based in: Athens, Greece, EU 🇪🇺🇬🇷
 &lt;td>2&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Andreas Georgarakia&lt;/td>
+&lt;td>Andreas Georgarakis&lt;/td>
 &lt;td>1&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -3292,11 +3300,11 @@ Based in: Athens, Greece, EU 🇪🇺🇬🇷
 &lt;td>1&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Kontsantinos Kostas&lt;/td>
+&lt;td>Konstantinos GeroKwstas (SV1SJH)&lt;/td>
 &lt;td>1&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Konstantinos GeroKwstas (SV1SJH)&lt;/td>
+&lt;td>Kontsantinos Kostas&lt;/td>
 &lt;td>1&lt;/td>
 &lt;/tr>
 &lt;/tbody>
