@@ -1,3 +1,8 @@
+---
+title: "Panellinies_AEPP Θεωρία"
+date: 2022-08-06
+---
+
 ⚠️ **Προσοχή**: Από τις 28 Δεκεμβρίου 2021, το Project Panellinies_AEPP απενεργοποιεί όλες τις διαφημίσεις πάνω στο εκπαιδευτικό υλικό. 
 
 🔰 Τo Project Panellinies_AEPP πλέον λειτουργεί και υποστηρίζεται αποκλειστικά από τις χορηγίες σας μέσω YouTube και σε Basic Attention Token (BAT) μέσω του Brave Browser [στο κανάλι στο Youtube](https://www.youtube.com/@TuxHouseEdu), καθώς και σε άλλα κρυπτονομίσματα στις παρακάτω διευθύνσεις:

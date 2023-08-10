@@ -1,4 +1,7 @@
-
+---
+title: "Projects"
+date: 2022-08-06
+---
 ```
 There are multiple projects running on TuxHouse as well as in other communities.
 

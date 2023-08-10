@@ -1,3 +1,7 @@
+---
+title: "Blockchain Camera"
+date: 2022-05-06
+---
 # Ethereum Blockchain Camera
 
 ## Turn your Raspberry Pi into an Ethereum-based Blockchain Camera! Powered by Solidity and Python3.

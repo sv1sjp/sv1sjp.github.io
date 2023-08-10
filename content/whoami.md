@@ -1,3 +1,7 @@
+---
+title: "$whoami"
+date: 2022-08-06
+---
 $whoami
 # Dimitris Vagiakakos @sv1sjp
 

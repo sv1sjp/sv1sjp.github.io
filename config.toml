@@ -53,12 +53,6 @@ paginate = 20
   # TocTitle = "Table of Contents" # default
 
 
-[params.twitter]
-  # set Twitter handles for Twitter cards
-  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
-  # do not include @
-  creator = ""
-  site = ""
 
 [languages]
   [languages.en]
@@ -106,8 +100,8 @@ paginate = 20
         url = "/Blockchain_WriteUps"
 	
 	[[languages.en.menu.main]]
-        identifier = "Greek-Articles"
-        name = "Greek_Articles"
+        identifier = "Greek Articles"
+        name = "Greek Articles"
         url = "/Greek_Articles"
         
         [[languages.en.menu.main]]
@@ -123,7 +117,10 @@ paginate = 20
         [[languages.en.menu.main]]
         identifier = "Ubuntel"
         name = "Ubuntel"
-        url = "/el/Ubuntel"
+        url = "/Ubuntel"
         
-        
+        [[languages.en.menu.main]]
+        identifier = "About TuxHouse"
+        name = "About TuxHouse"
+        url = "/about"
    

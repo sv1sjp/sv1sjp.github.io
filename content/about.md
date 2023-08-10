@@ -1,5 +1,5 @@
 ---
-title: TuxHouse
+title: About TuxHouse
 ---
 
 # 🏠 TuxHouse
@@ -9,10 +9,10 @@ TuxHouse is an educational platform 🎓 that provides *free* educational videos
 
 ## 🎬 Our Journey 
 
-The channel began its journey as **DimitrisV** back in 2014, primarily as an Android Hacking Channel 📱🔒. Eager to broaden our scope and bring more valuable content to our community, we underwent a rebranding process, emerging as **TuxHouse** 🏠 in late 2022. Since the rebranding, we've released a plethora of new episodes, including full-courses and shorts, covering a wider range of topics.
+The channel began its journey as **DimitrisV** by Dimitris Vagiakakos @sv1sjp back in 2014, primarily as an Android Hacking YouTube Channel 📱🔒. Eager to broaden our scope and bring more valuable content to our community, we underwent a rebranding process, emerging as **TuxHouse** 🏠 in late 2022. Since the rebranding, we've released a plethora of new episodes, including full-courses and shorts, covering a wider range of topics related on Computer Science and FinTech.
 
 
-## 🤝 Contributors 
+## 🤝 Contributors:
 
 Our journey wouldn't have been the same without the immense support and contributions from our beloved community. Here's a shout-out to them:
 
@@ -25,15 +25,16 @@ Our journey wouldn't have been the same without the immense support and contribu
 | Stavros Gkinos | 4 |
 | Nikos Vagiakakos (SV1EIG) | 4 |
 | Pavlos Spyridakos | 3 |
-| Panagiotis Makromanolis | 3 |
+| Panagiotis Macromanolis | 3 |
 | Konstantinos Karahalis | 3 |
 | Christos Skamatzouras | 2 |
-| Andreas Georgarakia | 1 |
+| Andreas Georgarakis | 1 |
 | Christina Paschou | 1 |
 | John Karvelas | 1 |
 | Noel Macwan | 1 |
-| Kontsantinos Kostas | 1 |
 | Konstantinos GeroKwstas (SV1SJH) | 1 |
+| Kontsantinos Kostas | 1 |
+
 
 _This list will be updated as more people contribute to our journey. Thank you, everyone, for your endless support and contributions! 🙏_
 

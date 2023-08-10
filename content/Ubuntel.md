@@ -1,3 +1,7 @@
+---
+title: "Ubuntel Linux"
+date: 2019-08-06
+---
 ![https://www.youtube.com/linuxosblog](/img/ubuntel.jpg)
 Το Ubuntel είναι η ελληνική έκδοση του Ubuntu με MATE για desktop.
 
