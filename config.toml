@@ -4,64 +4,28 @@ theme = "terminal"
 paginate = 20
 
 [params]
-  # dir name of your main content (default is `content/posts`).
-  # the list of set content will show up on your index page (baseurl).
   contentTypeName = "posts"
-
-  # ["orange", "blue", "red", "green", "pink", "lime"]
   themeColor = "lime"
-
-  # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 10
-
-  # show selector to switch language
   showLanguageSelector = false
-
-  # set theme to full screen width
   fullWidthTheme = false
-
-  # center theme with default width
   centerTheme = true
-
-  # if your resource directory contains an image called `cover.(jpg|png|webp)`,
-  # then the file will be used as a cover automatically.
-  # With this option you don't have to put the `cover` param in a front-matter.
   autoCover = true
-
-  # set post to show the last updated
-  # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
   showLastUpdated = false
-
-  # set a custom favicon (default is a `themeColor` square)
- favicon = "favicon.ico"
-
-  # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
-  # updatedDatePrefix = "Updated"
-
-  # set all headings to their default size (depending on browser settings)
-   oneHeadingSize = false # default
-
-  # whether to show a page's estimated reading time
-   readingTime = true
-
-  # whether to show a table of contents
-  # can be overridden in a page's front-matter
-  # Toc = false # default
-
-  # set title for the table of contents
-  # can be overridden in a page's front-matter
-  # TocTitle = "Table of Contents" # default
-
-
+  favicon = "favicon.ico"
+  oneHeadingSize = false
+  readingTime = true
+  # Toc = false
+  # TocTitle = "Table of Contents"
 
 [languages]
   [languages.en]
     languageName = "English"
     title = "Dimitris Vagiakakos SV1SJP"
-    subtitle = "eLearning "
+    subtitle = "eLearning"
     owner = "Dimitris Vagiakakos"
     keywords = "decentralized"
-    copyright = "All rights reserved, TuxHouse Educational Technologies - Dimitris LinuxOS - 2011-2023"
+    copyright = "All rights reserved, TuxHouse Educational Technologies - Dimitris LinuxOS - 2011-2024"
     menuMore = "Show more useful stuff"
     readMore = "Read more stuff"
     readOtherPosts = "Read other posts"
@@ -70,9 +34,10 @@ paginate = 20
     missingContentMessage = "No idea at all"
     missingBackButtonLabel = "Try to find the Penguin somewhere else."
 
-    [languages.en.params.logo]
-      logoText = "Dimitris Vagiakakos SV1SJP"
-      logoHomeLink = "/"
+    [languages.en.params]
+      [languages.en.params.logo]
+        logoText = "Dimitris Vagiakakos SV1SJP"
+        logoHomeLink = "/"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
@@ -80,47 +45,47 @@ paginate = 20
         name = "$whoami"
         url = "/whoami"
      
-     [[languages.en.menu.main]]
+      [[languages.en.menu.main]]
         identifier = "micro-blogging"
         name = "micro-blogging"
         url = "https://fosstodon.org/@sv1sjp"
-       [[languages.en.menu.main]]
+     
+      [[languages.en.menu.main]]
         identifier = "Blockchain Camera"
         name = "Blockchain Camera"
-        url = "/Blockchain_Camera" 
+        url = "/Blockchain_Camera"
         
-        [[languages.en.menu.main]]
+      [[languages.en.menu.main]]
         identifier = "Projects"
         name = "Projects"
         url = "/Projects"
         
-        [[languages.en.menu.main]]
+      [[languages.en.menu.main]]
         identifier = "Blockchain WriteUps"
         name = "Blockchain WriteUps"
         url = "/Blockchain_WriteUps"
 	
-	[[languages.en.menu.main]]
+      [[languages.en.menu.main]]
         identifier = "Greek Articles"
         name = "Greek Articles"
         url = "/Greek_Articles"
         
-        [[languages.en.menu.main]]
+      [[languages.en.menu.main]]
         identifier = "Panellinies_AEPP"
         name = "Panellinies_AEPP"
         url = "/Panellinies_AEPP/index.html"
         
-         [[languages.en.menu.main]]
+      [[languages.en.menu.main]]
         identifier = "Videos"
         name = "Videos"
         url = "https://odysee.com/@TuxHouse:1"
         
-        [[languages.en.menu.main]]
+      [[languages.en.menu.main]]
         identifier = "Ubuntel"
         name = "Ubuntel"
         url = "/Ubuntel"
         
-        [[languages.en.menu.main]]
+      [[languages.en.menu.main]]
         identifier = "About TuxHouse"
         name = "About TuxHouse"
         url = "/about"
-   
