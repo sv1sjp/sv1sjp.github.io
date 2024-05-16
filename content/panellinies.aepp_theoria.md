@@ -39,7 +39,7 @@ date: 2022-08-06
 
 # [270+ Σωστό Λάθος Λυμένα - 5η έκδοση](/PDFs/swsto_lathos.pdf)
 
-# [ΌΛΗ Η Θεωρία του ΑΕΠΠ - 4η έκδοση](/PDFs/theoria/panellinies_aepp_theoria_full.pdf)
+# [ΌΛΗ Η Θεωρία του ΑΕΠΠ - 5η έκδοση - 2024](/PDFs/theoria/panellinies_aepp_theoria_full.pdf)
 
 ----
 
