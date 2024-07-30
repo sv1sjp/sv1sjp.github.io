@@ -8,9 +8,9 @@ $whoami
 ![](/img/sv1sjp.jpg) 
 
 🏠 Founder of TuxHouseEdu
-🔗 Blockchain Security Engineer
 🔍 Penetration Tester at Grant Thornton Greece
 🎓 Specializing in Educational Technologies
+🔗 Smart Contract Security Auditor
 📸 Creator of Blockchain Camera
 🐧 Moderating Linux-User.gr
 
@@ -48,7 +48,7 @@ _____
 ### Noticable Projects:
 
 * [Developing an Ethereum Based Blockchain Camera](https://sv1sjp.github.io/blockchain_camera/)
-* [Ethereum Hacking - Smart Contract Security Series](https://www.youtube.com/playlist?list=PLZa7COjIxKWzLcMxI9cRNSzOtdR0xvXB7)
+* [Ethereum Hacking - Smart Contract Security and Auditing Series](https://www.youtube.com/playlist?list=PLZa7COjIxKWzLcMxI9cRNSzOtdR0xvXB7)
 * [Ultimate Linux Terminal Tutorial Series (Greek)](https://www.youtube.com/playlist?list=PLZa7COjIxKWzfu1kLBWBbj-3wdKSzDVl4)
 * [Information Theory Series](https://www.youtube.com/playlist?list=PLZa7COjIxKWzq3tyDlMqUmVzd1a7zDpT-)
 * [Panellinies_AEPP](https://sv1sjp.github.io/panellinies_aepp/index.html)
@@ -59,7 +59,7 @@ _____
 
 ### Presenter at the Conferences: 
 
- [FOSSCOMM 2021](https://2021.fosscomm.gr/index.html) | [PyChain 2022](https://www.pychain.org/) | [FOSSCOMM 2022](https://2022.fosscomm.gr/en/) | [FOSSDEM 2023](https://fosdem.org/2023/) | [FOSSCOMM 2023](https://2023.fosscomm.gr/)
+ [FOSSCOMM 2021](https://2021.fosscomm.gr/index.html) | [PyChain 2022](https://www.pychain.org/) | [FOSSCOMM 2022](https://2022.fosscomm.gr/en/) | [FOSSDEM 2023](https://fosdem.org/2023/)
 
 ### Countries I have visited:
 🇬🇷🇧🇬🇧🇪🇪🇺 
@@ -67,4 +67,5 @@ _____
 ### Translating in:
 Jebroa | Ethereum.org | SnapDrop | CrDroid | DivestOS | BTCMap | Lemmy | Element | Hypatia | IRR | Fedora | Extiparter
 
+🐧 Keywords: Linux, Android, Cybersecurity, Blockchain, Ethereum, Decentralization, Fediverse, Mastodon, Lemmy, Educational Technologies
 
