@@ -292,14 +292,14 @@ sl -F : Το τραίνο αρχίζει και πετάει
 &lt;p>Φυσικά, αν για οποιοδήποτε λόγο θέλουμε να αφαιρέσουμε την συσκευή ενώ έχουμε τo PC/RaspberryPi/Server ανοικτό, απλά δίνουμε:&lt;/p>
 &lt;pre tabindex="0">&lt;code>sudo umount /media/myUSB
 &lt;/code>&lt;/pre>&lt;p>Και όταν τον συνδέσουμε ξανά, το autofs θα τον ξανακάνει mount αυτόματα. :)&lt;/p></content></item><item><title>$whoami</title><link>/whoami/</link><pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate><guid>/whoami/</guid><description>$whoami
-Dimitris Vagiakakos @sv1sjp 🏠 Founder of TuxHouseEdu 🔗 Blockchain Security Engineer 🔍 Penetration Tester at Grant Thornton Greece 🎓 Specializing in Educational Technologies 📸 Creator of Blockchain Camera 🐧 Moderating Linux-User.gr
-MSc in Blockchain &amp;amp; Digital Currency at University Of Nicosia 🇪🇺🇨🇾 BSc in Digital Systems Security at University Of Piraeus 🇪🇺🇬🇷 From: Mani, Lakonia, Greece, EU 🇪🇺🇬🇷 Based in: Athens, Greece, EU 🇪🇺🇬🇷 Find me on: Platform ./ 🔗 LinkedIn 📸 Instagram 🍋 Lemmy 🐘 Mastodon 💬 Telegram 🐙 Github 📺 TuxHouse YouTube 🏠 TuxHouse LBRY 📸 TuxHouse Instagram 🎵 TuxHouse TikTok 🐧 Linux-User.</description><content>&lt;p>$whoami&lt;/p>
+Dimitris Vagiakakos @sv1sjp 🏠 Founder of TuxHouseEdu 🔍 Penetration Tester at Grant Thornton Greece 🎓 Specializing in Educational Technologies 🔗 Smart Contract Security Auditor 📸 Creator of Blockchain Camera 🐧 Moderating Linux-User.gr
+MSc in Blockchain &amp;amp; Digital Currency at University Of Nicosia 🇪🇺🇨🇾 BSc in Digital Systems Security at University Of Piraeus 🇪🇺🇬🇷 From: Mani, Lakonia, Greece, EU 🇪🇺🇬🇷 Based in: Athens, Greece, EU 🇪🇺🇬🇷 Find me on: Platform .</description><content>&lt;p>$whoami&lt;/p>
 &lt;h1 id="dimitris-vagiakakos-sv1sjp">Dimitris Vagiakakos @sv1sjp&lt;/h1>
 &lt;p>&lt;img src="/img/sv1sjp.jpg">&lt;/p>
 &lt;p>🏠 Founder of TuxHouseEdu
-🔗 Blockchain Security Engineer
 🔍 Penetration Tester at Grant Thornton Greece
 🎓 Specializing in Educational Technologies
+🔗 Smart Contract Security Auditor
 📸 Creator of Blockchain Camera
 🐧 Moderating Linux-User.gr&lt;/p>
 &lt;pre tabindex="0">&lt;code>MSc in Blockchain &amp;amp; Digital Currency at University Of Nicosia 🇪🇺🇨🇾
@@ -353,7 +353,7 @@ Based in: Athens, Greece, EU 🇪🇺🇬🇷
 &lt;h3 id="noticable-projects">Noticable Projects:&lt;/h3>
 &lt;ul>
 &lt;li>&lt;a href="https://sv1sjp.github.io/blockchain_camera/">Developing an Ethereum Based Blockchain Camera&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzLcMxI9cRNSzOtdR0xvXB7">Ethereum Hacking - Smart Contract Security Series&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzLcMxI9cRNSzOtdR0xvXB7">Ethereum Hacking - Smart Contract Security and Auditing Series&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzfu1kLBWBbj-3wdKSzDVl4">Ultimate Linux Terminal Tutorial Series (Greek)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.youtube.com/playlist?list=PLZa7COjIxKWzq3tyDlMqUmVzd1a7zDpT-">Information Theory Series&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://sv1sjp.github.io/panellinies_aepp/index.html">Panellinies_AEPP&lt;/a>&lt;/li>
@@ -361,11 +361,12 @@ Based in: Athens, Greece, EU 🇪🇺🇬🇷
 &lt;p>&lt;img src="/img/Blockchain_Camera_EN.jpg">&lt;/p>
 &lt;p>&lt;img src="/img/series.jpg">&lt;/p>
 &lt;h3 id="presenter-at-the-conferences">Presenter at the Conferences:&lt;/h3>
-&lt;p>&lt;a href="https://2021.fosscomm.gr/index.html">FOSSCOMM 2021&lt;/a> | &lt;a href="https://www.pychain.org/">PyChain 2022&lt;/a> | &lt;a href="https://2022.fosscomm.gr/en/">FOSSCOMM 2022&lt;/a> | &lt;a href="https://fosdem.org/2023/">FOSSDEM 2023&lt;/a> | &lt;a href="https://2023.fosscomm.gr/">FOSSCOMM 2023&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://2021.fosscomm.gr/index.html">FOSSCOMM 2021&lt;/a> | &lt;a href="https://www.pychain.org/">PyChain 2022&lt;/a> | &lt;a href="https://2022.fosscomm.gr/en/">FOSSCOMM 2022&lt;/a> | &lt;a href="https://fosdem.org/2023/">FOSSDEM 2023&lt;/a>&lt;/p>
 &lt;h3 id="countries-i-have-visited">Countries I have visited:&lt;/h3>
 &lt;p>🇬🇷🇧🇬🇧🇪🇪🇺&lt;/p>
 &lt;h3 id="translating-in">Translating in:&lt;/h3>
-&lt;p>Jebroa | Ethereum.org | SnapDrop | CrDroid | DivestOS | BTCMap | Lemmy | Element | Hypatia | IRR | Fedora | Extiparter&lt;/p></content></item><item><title>Panellinies_AEPP Ασκήσεις</title><link>/panellinies.aepp_ask/</link><pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate><guid>/panellinies.aepp_ask/</guid><description>Προσοχή: Από τις 28 Δεκεμβρίου το Project Panellinies_AEPP απενεργοποιεί όλες τις διαφημίσεις πάνω στο εκπαιδευτικό υλικό. Τo Project πλέον λειτουργεί και υποστηρίζεται αποκλειστικά από τις χορηγίες σας σε Basic Attention Token (BAT) μέσω του Brave Browser στο κανάλι στο Youtube καθώς και σε άλλα κρυπτονομίσματα στις παρακάτω διευθύνσεις:
+&lt;p>Jebroa | Ethereum.org | SnapDrop | CrDroid | DivestOS | BTCMap | Lemmy | Element | Hypatia | IRR | Fedora | Extiparter&lt;/p>
+&lt;p>🐧 Keywords: Linux, Android, Cybersecurity, Blockchain, Ethereum, Decentralization, Fediverse, Mastodon, Lemmy, Educational Technologies&lt;/p></content></item><item><title>Panellinies_AEPP Ασκήσεις</title><link>/panellinies.aepp_ask/</link><pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate><guid>/panellinies.aepp_ask/</guid><description>Προσοχή: Από τις 28 Δεκεμβρίου το Project Panellinies_AEPP απενεργοποιεί όλες τις διαφημίσεις πάνω στο εκπαιδευτικό υλικό. Τo Project πλέον λειτουργεί και υποστηρίζεται αποκλειστικά από τις χορηγίες σας σε Basic Attention Token (BAT) μέσω του Brave Browser στο κανάλι στο Youtube καθώς και σε άλλα κρυπτονομίσματα στις παρακάτω διευθύνσεις:
 Bitcoin: bc1q6j959m3whh44ztr8k6p7545n5pzcsncple7qmy
 Ethereum: 0x3f27F05Ca28a5B5F876A3A7d435E2E852756F873
 Cardano: addr1qxewtm0y5yk2mgf93ct4ghguus2shu34fu786t62j3tv7296evenhmr0ltmx3hdyw4d6d8gj8qspry5pe3raaw4nu8as7jsr9l
