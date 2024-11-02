@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Articles on</title><link>/articles/</link><description>Recent content in Articles on</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="/articles/index.xml" rel="self" type="application/rss+xml"/><item><title>Exploring OSINT with the new ChatGPT Search Engine</title><link>/articles/chatgptsearch/</link><pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate><guid>/articles/chatgptsearch/</guid><description>&lt;p>Today, I ran an OSINT (Open Source Intelligence) scenario using ChatGPT Search Engine.
+📋 Scenario
+The goal was to find as much information as possible about myself, my family members, and partners, using only my hashtag#HamRadio callsign (SV1SJP) as the starting point.
+📊 Results
+I successfully found details about myself, my father, Kyriakos Giannakis and various projects they have been involved with over the past 10 years, as well as other related information. Then, I asked ChatGPT to summarize the main information it gathered for each of these individuals.&lt;/p></description><content>&lt;p>Today, I ran an OSINT (Open Source Intelligence) scenario using ChatGPT Search Engine.
+📋 Scenario
+The goal was to find as much information as possible about myself, my family members, and partners, using only my hashtag#HamRadio callsign (SV1SJP) as the starting point.
+📊 Results
+I successfully found details about myself, my father, Kyriakos Giannakis and various projects they have been involved with over the past 10 years, as well as other related information. Then, I asked ChatGPT to summarize the main information it gathered for each of these individuals.&lt;/p>
+&lt;p>❌ I noticed that ChatGPT Search avoids sourcing information directly from LinkedIn or family tree websites. Most of the information came from official websites, Wikipedia, and blogs related to the requested topic.&lt;/p>
+&lt;p>📁 As a case study, I attached the entire conversation I had with ChatGPT as a PDF, to show all the prompts and answers.
+💡 Takeaway: ChatGPT can support efficient information gathering, revealing surprising insights and connections with minimal effort.&lt;/p>
+&lt;p>🔐 Why Use Unconventional Query Styles?&lt;/p>
+&lt;ul>
+&lt;li>To help access information stored in less-optimized formats or forums where English isn’t perfect, such as localized discussions and community-driven content.&lt;/li>
+&lt;li>Avoiding polished English potentially helps find content that isn’t overly optimized for SEO, leading to more organic, user-generated insights (e.g., informative blog posts).&lt;/li>
+&lt;li>&amp;hellip;Avoiding Potential Bans/Blocks from ChatGPT :P&lt;/li>
+&lt;/ul>
+&lt;p>ChatGPT Search Engine seems promising!!! :)&lt;/p>
+&lt;p>hashtag#OSINT #Cybersecurity #Reconnaissance #InformationGathering #AIResearch&lt;/p>
+&lt;p>&lt;a href="/PDFs/ChatGPTSearchEngine_OSINT.pdf">Find the PDF with all prompts and answers&lt;/a>
+&lt;a href="https://www.linkedin.com/posts/sv1sjp_chatgpt-osint-scenario-prompts-and-answers-activity-7258443247826464768-DruK">Main Post on LinkedIn&lt;/a>&lt;/p></content></item></channel></rss>
