@@ -70,7 +70,12 @@ paginate = 20
         identifier = "Greek Articles"
         name = "Greek Articles"
         url = "/Greek_Articles"
-        
+
+      [[languages.en.menu.main]]
+        identifier = "Articles"
+        name = "Articles"
+        url = "/Articles"
+	
       [[languages.en.menu.main]]
         identifier = "Panellinies_AEPP"
         name = "Panellinies_AEPP"
